@@ -1,3 +1,56 @@
+<!DOCTYPE html>
 <html>
-<meta http-equiv="refresh" content="0;url=https://yourname.github.io/devotional-tracker/public/index.html" />
+<head>
+	<title>My Firebase Table</title>
+	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore.js"></script>
+	<script>
+		// Initialize Firebase
+		const firebaseConfig = {
+			apiKey: "AIzaSyATs3MgWgKXg_LLuPBE1NKV_e8zbn4mqYo",
+            authDomain: "cydevotionaltracker.firebaseapp.com",
+            projectId: "cydevotionaltracker",
+            storageBucket: "cydevotionaltracker.appspot.com",
+            messagingSenderId: "764797280980",
+            appId: "1:764797280980:web:9df07ecb6d48a211fe1141",
+            measurementId: "G-VKJMGSD8MQ"
+		};
+		firebase.initializeApp(firebaseConfig);
+
+		// Get a reference to the Firebase collection
+		const db = firebase.firestore();
+		const collectionRef = db.collection('myCollection');
+
+		// Get the table element
+		const table = document.getElementById('myTable');
+
+		// Add a row to the table for each document in the collection
+		collectionRef.get().then((querySnapshot) => {
+			querySnapshot.forEach((doc) => {
+				const data = doc.data();
+				const row = table.insertRow(-1);
+				row.insertCell(0).innerHTML = data.FirstName;
+				row.insertCell(1).innerHTML = data.LastName;
+				row.insertCell(2).innerHTML = data.Day;
+				row.insertCell(3).innerHTML = data.Reflection;
+			});
+		});
+	</script>
+</head>
+<body>
+	<h1>My Firebase Table</h1>
+	<table id="myTable">
+		<thead>
+			<tr>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Day</th>
+				<th>Reflection</th>
+			</tr>
+		</thead>
+		<tbody>
+			<!-- Table rows will be added here dynamically with JavaScript -->
+		</tbody>
+	</table>
+</body>
 </html>
