@@ -2,18 +2,29 @@
 <html>
 <head>
 	<title>My Firebase Table</title>
-	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
-	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore.js"></script>
-	<script>
-		// Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js";
-        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-analytics.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
+	<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+	
+</head>
+<body>
+	<h1>My Firebase Table</h1>
+	<table id="myTable">
+		<thead>
+			<tr>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Day</th>
+				<th>Reflection</th>
+			</tr>
+		</thead>
+		<tbody>
+			<!-- Table rows will be added here dynamically with JavaScript -->
+		</tbody>
+	</table>
 
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
+    <script>
+		// Initialize Firebase
+		const firebaseConfig = {
             apiKey: "AIzaSyATs3MgWgKXg_LLuPBE1NKV_e8zbn4mqYo",
             authDomain: "cydevotionaltracker.firebaseapp.com",
             projectId: "cydevotionaltracker",
@@ -22,12 +33,10 @@
             appId: "1:764797280980:web:9df07ecb6d48a211fe1141",
             measurementId: "G-VKJMGSD8MQ"
         };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
+		firebase.initializeApp(firebaseConfig);
 
 		// Get a reference to the Firebase collection
-		const db = app.firstore();
+		const db = firebase.firestore();
 		const collectionRef = db.collection('myCollection');
 
 		// Get the table element
@@ -45,21 +54,5 @@
 			});
 		});
 	</script>
-</head>
-<body>
-	<h1>My Firebase Table</h1>
-	<table id="myTable">
-		<thead>
-			<tr>
-				<th>First Name</th>
-				<th>Last Name</th>
-				<th>Day</th>
-				<th>Reflection</th>
-			</tr>
-		</thead>
-		<tbody>
-			<!-- Table rows will be added here dynamically with JavaScript -->
-		</tbody>
-	</table>
 </body>
 </html>
