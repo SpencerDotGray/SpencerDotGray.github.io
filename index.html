@@ -5,20 +5,29 @@
 	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
 	<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore.js"></script>
 	<script>
-		// Initialize Firebase
-		const firebaseConfig = {
-			apiKey: "AIzaSyATs3MgWgKXg_LLuPBE1NKV_e8zbn4mqYo",
+		// Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+            apiKey: "AIzaSyATs3MgWgKXg_LLuPBE1NKV_e8zbn4mqYo",
             authDomain: "cydevotionaltracker.firebaseapp.com",
             projectId: "cydevotionaltracker",
             storageBucket: "cydevotionaltracker.appspot.com",
             messagingSenderId: "764797280980",
             appId: "1:764797280980:web:9df07ecb6d48a211fe1141",
             measurementId: "G-VKJMGSD8MQ"
-		};
-		firebase.initializeApp(firebaseConfig);
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
 
 		// Get a reference to the Firebase collection
-		const db = firebase.firestore();
+		const db = app.firstore();
 		const collectionRef = db.collection('myCollection');
 
 		// Get the table element
