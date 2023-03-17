@@ -5,9 +5,18 @@ from redbox import gmail
 from bs4 import BeautifulSoup
 from pprint import pprint
 import os
+import json
 
-gmail.username = os.environ["GMAIL_EMAIL"]
-gmail.password = os.environ["GMAIL_APP_CODE"]
+if os.environ.get('GMAIL_EMAIL') is not None and os.environ["GMAIL_APP_CODE"] is not None:
+    gmail.username = os.environ["GMAIL_EMAIL"]
+    gmail.password = os.environ["GMAIL_APP_CODE"]
+else:
+    with open("./keys/keys.json", 'r') as json_file:
+        keys = json.load(json_file)
+        gmail.username = keys['email']
+        gmail.password = keys['app_code']
+
+
 search_subject = "Climb Youth Devotional Response"
 
 inbox = gmail['INBOX']
