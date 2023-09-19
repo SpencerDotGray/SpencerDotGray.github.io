@@ -1,89 +1,62 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>My Firebase Table</title>
-	<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
-	<style>
-		/* CSS styles for the table and its elements */
-		table {
-			border-collapse: collapse;
-			margin: 20px 0;
-			font-size: 16px;
-			min-width: 500px;
-			box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-			background-color: #fff;
-		}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
 
-		table thead th {
-			font-weight: bold;
-			background-color: #003366;
-			color: #fff;
-			text-align: left;
-			padding: 12px;
-		}
+<script>
 
-		table tbody td {
-			border-bottom: 1px solid #ddd;
-			padding: 12px;
-		}
+    $(function() {
 
-		table tbody tr:last-child td {
-			border-bottom: none;
-		}
 
-		table tbody tr:hover {
-			background-color: #f5f5f5;
-		}
-	</style>
+   var people = [];
+
+   $.getJSON('Pokemon.json', function(data) {
+       $.each(data.person, function(i, f) {
+          var tblRow = 
+            "<tr>" + 
+                "<td>" + f.Name + "</td>" +
+                "<td>" + f.Types + "</td>" + 
+                "<td>" + f['1x'] + "</td>" + 
+                "<td>" + f['2x'] + "</td>" + 
+                "<td>" + f['4x'] + "</td>" + 
+                "<td>" + f['8x'] + "</td>" + 
+                "<td>" + f['0.5x'] + "</td>" + 
+                "<td>" + f['0.25x'] + "</td>" + 
+                "<td>" + f['0.125x'] + "</td>" + 
+                "<td>" + f['0x'] + "</td>" + 
+            "</tr>"
+           $(tblRow).appendTo("#userdata tbody");
+     });
+
+   });
+
+});
+</script>
 </head>
+
 <body>
-	<h1>My Firebase Table</h1>
-	<table id="myTable">
-		<thead>
-			<tr>
-				<th>First Name</th>
-				<th>Last Name</th>
-				<th>Day</th>
-				<th>Reflection</th>
-			</tr>
-		</thead>
-		<tbody>
-			<!-- Table rows will be added here dynamically with JavaScript -->
-		</tbody>
-	</table>
 
-    <script>
-		// Initialize Firebase
-		const firebaseConfig = {
-            apiKey: "AIzaSyATs3MgWgKXg_LLuPBE1NKV_e8zbn4mqYo",
-            authDomain: "cydevotionaltracker.firebaseapp.com",
-            projectId: "cydevotionaltracker",
-            storageBucket: "cydevotionaltracker.appspot.com",
-            messagingSenderId: "764797280980",
-            appId: "1:764797280980:web:9df07ecb6d48a211fe1141",
-            measurementId: "G-VKJMGSD8MQ"
-        };
-		firebase.initializeApp(firebaseConfig);
+<div class="wrapper">
+<div class="profile">
+   <table id= "userdata" border="2">
+  <thead>
+            <th>Name</th>
+            <th>Types</th>
+            <th>1x</th>
+            <th>2x</th>
+            <th>4x</th>
+            <th>8x</th>
+            <th>0.5x</th>
+            <th>0.25x</th>
+            <th>0.125x</th>
+            <th>0x</th>
+        </thead>
+      <tbody>
 
-		// Get a reference to the Firebase collection
-		const db = firebase.firestore();
-		const collectionRef = db.collection('myCollection');
+       </tbody>
+   </table>
 
-		// Get the table element
-		const table = document.getElementById('myTable');
+</div>
+</div>
 
-		// Add a row to the table for each document in the collection
-		collectionRef.get().then((querySnapshot) => {
-			querySnapshot.forEach((doc) => {
-				const data = doc.data();
-				const row = table.insertRow(-1);
-				row.insertCell(0).innerHTML = data.FirstName;
-				row.insertCell(1).innerHTML = data.LastName;
-				row.insertCell(2).innerHTML = data.Day;
-				row.insertCell(3).innerHTML = data.Reflection;
-			});
-		});
-	</script>
 </body>
 </html>
