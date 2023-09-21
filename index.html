@@ -7,29 +7,60 @@
     
     <!-- Add Bootstrap CSS link -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Add custom styles for sticky headers and scrollable table */
+        .table-container {
+            max-width: 100%; /* Set the maximum width to 100% of the viewport width */
+            max-height: 80vh; /* Set the maximum height to 80% of the viewport height */
+            overflow-x: auto; /* Add horizontal scrollbar when content exceeds the width */
+            overflow-y: auto; /* Add vertical scrollbar when content exceeds the height */
+        }
+
+        .sticky-header th,
+        .sticky-column {
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            background-color: white;
+        }
+
+        .sticky-header th {
+            box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .sticky-column {
+            left: 0;
+        }
+    </style>
 </head>
 <body>
-    <div class="container mt-5">
-        <table class="table table-bordered table-striped" id="userdata">
-            <thead class="thead-dark">
-                <tr>
-                    <th>Name</th>
-                    <th>Types</th>
-                    <th>1x</th>
-                    <th>2x</th>
-                    <th>4x</th>
-                    <th>8x</th>
-                    <th>0.5x</th>
-                    <th>0.25x</th>
-                    <th>0.125x</th>
-                    <th>0x</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+    <div class="container-fluid">
+        <div class="form-group">
+            <input type="text" class="form-control" id="searchBox" placeholder="Search by Name">
+        </div>
+        <div class="table-container">
+            <table class="table table-bordered table-striped" id="userdata">
+                <thead class="thead-dark sticky-header">
+                    <tr>
+                        <th class="sticky-column">Name</th>
+                        <th>Types</th>
+                        <th>1x</th>
+                        <th>2x</th>
+                        <th>4x</th>
+                        <th>8x</th>
+                        <th>0.5x</th>
+                        <th>0.25x</th>
+                        <th>0.125x</th>
+                        <th>0x</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
     </div>
 
+    <script src="./fuzzysort-master/fuzzysort.min.js"></script> <!-- Replace with the actual path -->
     <script>
         const jsonFilePath = './Pokemon.json';
 
@@ -37,6 +68,9 @@
             .then((response) => response.json())
             .then((jsonData) => {
                 populateTable(jsonData);
+                document.getElementById('searchBox').addEventListener('input', function () {
+                    filterTable(this.value);
+                });
             })
             .catch((error) => {
                 console.error('Error fetching JSON:', error);
@@ -49,19 +83,35 @@
             data.forEach((item) => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
-                    <td>${item.Name}</td>
+                    <td class="sticky-column">${item.Name}</td>
                     <td>${item.Types}</td>
-                    <td>${item['1x'].split(',').join('<br>')}</td>
-                    <td>${item['2x'].split(',').join('<br>')}</td>
-                    <td>${item['4x'].split(',').join('<br>')}</td>
-                    <td>${item['8x'].split(',').join('<br>')}</td>
-                    <td>${item['0.5x'].split(',').join('<br>')}</td>
-                    <td>${item['0.25x'].split(',').join('<br>')}</td>
-                    <td>${item['0.125x'].split(',').join('<br>')}</td>
-                    <td>${item['0x'].split(',').join('<br>')}</td>
+                    <td>${item['1x']}</td>
+                    <td>${item['2x']}</td>
+                    <td>${item['4x']}</td>
+                    <td>${item['8x']}</td>
+                    <td>${item['0.5x']}</td>
+                    <td>${item['0.25x']}</td>
+                    <td>${item['0.125x']}</td>
+                    <td>${item['0x']}</td>
                 `;
 
                 tableBody.appendChild(row);
+            });
+        }
+
+        function filterTable(query) {
+            const table = document.getElementById('userdata');
+            const rows = table.querySelectorAll('tbody tr');
+
+            rows.forEach((row) => {
+                const nameColumn = row.querySelector('.sticky-column');
+                const name = nameColumn.textContent;
+
+                if (query === '' || fuzzysort.single(query, name)) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
             });
         }
     </script>
