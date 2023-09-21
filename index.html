@@ -1,62 +1,66 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
-
-<script>
-
-    $(function() {
-
-
-   var people = [];
-
-   $.getJSON('Pokemon.json', function(data) {
-       $.each(data.person, function(i, f) {
-          var tblRow = 
-            "<tr>" + 
-                "<td>" + f.Name + "</td>" +
-                "<td>" + f.Types + "</td>" + 
-                "<td>" + f['1x'] + "</td>" + 
-                "<td>" + f['2x'] + "</td>" + 
-                "<td>" + f['4x'] + "</td>" + 
-                "<td>" + f['8x'] + "</td>" + 
-                "<td>" + f['0.5x'] + "</td>" + 
-                "<td>" + f['0.25x'] + "</td>" + 
-                "<td>" + f['0.125x'] + "</td>" + 
-                "<td>" + f['0x'] + "</td>" + 
-            "</tr>"
-           $(tblRow).appendTo("#userdata tbody");
-     });
-
-   });
-
-});
-</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON to Table</title>
 </head>
-
 <body>
-
-<div class="wrapper">
-<div class="profile">
-   <table id= "userdata" border="2">
-  <thead>
-            <th>Name</th>
-            <th>Types</th>
-            <th>1x</th>
-            <th>2x</th>
-            <th>4x</th>
-            <th>8x</th>
-            <th>0.5x</th>
-            <th>0.25x</th>
-            <th>0.125x</th>
-            <th>0x</th>
+    <table id="userdata" border="2">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Types</th>
+                <th>1x</th>
+                <th>2x</th>
+                <th>4x</th>
+                <th>8x</th>
+                <th>0.5x</th>
+                <th>0.25x</th>
+                <th>0.125x</th>
+                <th>0x</th>
+            </tr>
         </thead>
-      <tbody>
+        <tbody>
+        </tbody>
+    </table>
 
-       </tbody>
-   </table>
+    <script>
+        // Define the path to your local JSON file
+        const jsonFilePath = './Pokemon.json';
 
-</div>
-</div>
+        // Fetch the JSON file
+        fetch(jsonFilePath)
+            .then((response) => response.json())
+            .then((jsonData) => {
+                populateTable(jsonData);
+            })
+            .catch((error) => {
+                console.error('Error fetching JSON:', error);
+            });
 
+        function populateTable(data) {
+            const tableBody = document.querySelector('#userdata tbody');
+            tableBody.innerHTML = ''; // Clear the table body
+
+            data.forEach((item) => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.Name}</td>
+                    <td>${item.Types}</td>
+                    <td>${item['1x']}</td>
+                    <td>${item['2x']}</td>
+                    <td>${item['4x']}</td>
+                    <td>${item['8x']}</td>
+                    <td>${item['0.5x']}</td>
+                    <td>${item['0.25x']}</td>
+                    <td>${item['0.125x']}</td>
+                    <td>${item['0x']}</td>
+                `;
+
+                tableBody.appendChild(row);
+            });
+        }
+    </script>
 </body>
 </html>
