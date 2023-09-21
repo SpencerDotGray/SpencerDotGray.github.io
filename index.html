@@ -51,14 +51,14 @@
                 row.innerHTML = `
                     <td>${item.Name}</td>
                     <td>${item.Types}</td>
-                    <td>${item['1x']}</td>
-                    <td>${item['2x']}</td>
-                    <td>${item['4x']}</td>
-                    <td>${item['8x']}</td>
-                    <td>${item['0.5x']}</td>
-                    <td>${item['0.25x']}</td>
-                    <td>${item['0.125x']}</td>
-                    <td>${item['0x']}</td>
+                    <td>${item['1x'].split(',').join('<br>')}</td>
+                    <td>${item['2x'].split(',').join('<br>')}</td>
+                    <td>${item['4x'].split(',').join('<br>')}</td>
+                    <td>${item['8x'].split(',').join('<br>')}</td>
+                    <td>${item['0.5x'].split(',').join('<br>')}</td>
+                    <td>${item['0.25x'].split(',').join('<br>')}</td>
+                    <td>${item['0.125x'].split(',').join('<br>')}</td>
+                    <td>${item['0x'].split(',').join('<br>')}</td>
                 `;
 
                 tableBody.appendChild(row);
