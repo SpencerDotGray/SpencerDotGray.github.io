@@ -4,32 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JSON to Table</title>
+    
+    <!-- Add Bootstrap CSS link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <table id="userdata" border="2">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Types</th>
-                <th>1x</th>
-                <th>2x</th>
-                <th>4x</th>
-                <th>8x</th>
-                <th>0.5x</th>
-                <th>0.25x</th>
-                <th>0.125x</th>
-                <th>0x</th>
-            </tr>
-        </thead>
-        <tbody>
-        </tbody>
-    </table>
+    <div class="container mt-5">
+        <table class="table table-bordered" id="userdata">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Types</th>
+                    <th>1x</th>
+                    <th>2x</th>
+                    <th>4x</th>
+                    <th>8x</th>
+                    <th>0.5x</th>
+                    <th>0.25x</th>
+                    <th>0.125x</th>
+                    <th>0x</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
 
     <script>
-        // Define the path to your local JSON file
         const jsonFilePath = './Pokemon.json';
 
-        // Fetch the JSON file
         fetch(jsonFilePath)
             .then((response) => response.json())
             .then((jsonData) => {
@@ -41,7 +44,7 @@
 
         function populateTable(data) {
             const tableBody = document.querySelector('#userdata tbody');
-            tableBody.innerHTML = ''; // Clear the table body
+            tableBody.innerHTML = '';
 
             data.forEach((item) => {
                 const row = document.createElement('tr');
@@ -62,5 +65,10 @@
             });
         }
     </script>
+
+    <!-- Add Bootstrap JS and jQuery (optional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
