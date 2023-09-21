@@ -10,24 +10,30 @@
 </head>
 <body>
     <div class="container mt-5">
-        <table class="table table-bordered" id="userdata">
-            <thead class="thead-dark">
-                <tr>
-                    <th>Name</th>
-                    <th>Types</th>
-                    <th>1x</th>
-                    <th>2x</th>
-                    <th>4x</th>
-                    <th>8x</th>
-                    <th>0.5x</th>
-                    <th>0.25x</th>
-                    <th>0.125x</th>
-                    <th>0x</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+        <div class="table-responsive">
+            <table class="table table-bordered" id="userdata">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Name</th>
+                        <th>Types</th>
+                        <th>1x</th>
+                        <th>2x</th>
+                        <th>4x</th>
+                        <th>8x</th>
+                        <th>0.5x</th>
+                        <th>0.25x</th>
+                        <th>0.125x</th>
+                        <th>0x</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="toggleColumns">
+            <label class="form-check-label" for="toggleColumns">Collapse Columns</label>
+        </div>
     </div>
 
     <script>
@@ -64,6 +70,20 @@
                 tableBody.appendChild(row);
             });
         }
+
+        // Toggle column visibility
+        const toggleColumns = document.getElementById('toggleColumns');
+        toggleColumns.addEventListener('change', () => {
+            const table = document.getElementById('userdata');
+
+            if (toggleColumns.checked) {
+                // Hide columns
+                table.classList.add('table-collapsed');
+            } else {
+                // Show all columns
+                table.classList.remove('table-collapsed');
+            }
+        });
     </script>
 
     <!-- Add Bootstrap JS and jQuery (optional) -->
