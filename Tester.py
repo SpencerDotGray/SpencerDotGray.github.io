@@ -17,14 +17,14 @@ def get_pokemon(name):
 
     output['Name'] = name
     output['Types'] = types
-    output['1x'] = StatOrganizer.get_refined_list(stats, 1)
-    output['0.5x'] = StatOrganizer.get_refined_list(stats, 0.5)
-    output['0.25x'] = StatOrganizer.get_refined_list(stats, 0.25)
-    output['0.125x'] = StatOrganizer.get_refined_list(stats, 0.125)
-    output['2x'] = StatOrganizer.get_refined_list(stats, 2)
-    output['4x'] = StatOrganizer.get_refined_list(stats, 4)
-    output['8x'] = StatOrganizer.get_refined_list(stats, 8)
-    output['0x'] = StatOrganizer.get_refined_list(stats, 0)
+    output['1x'] = StatOrganizer.get_refined_list(stats, '1.0')
+    output['0.5x'] = StatOrganizer.get_refined_list(stats, '0.5')
+    output['0.25x'] = StatOrganizer.get_refined_list(stats, '0.25')
+    output['0.125x'] = StatOrganizer.get_refined_list(stats, '0.125')
+    output['2x'] = StatOrganizer.get_refined_list(stats, '2.0')
+    output['4x'] = StatOrganizer.get_refined_list(stats, '4.0')
+    output['8x'] = StatOrganizer.get_refined_list(stats, '8.0')
+    output['0x'] = StatOrganizer.get_refined_list(stats, '0.0')
 
     return output
 

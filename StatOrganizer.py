@@ -9,7 +9,8 @@ class StatOrganizer:
         returnList = []
 
         for key in stats.keys():
-            if stats[key] == desiredVal:
+
+            if str(stats[key]) == str(desiredVal):
                 returnList.append(key)
         
         return returnList

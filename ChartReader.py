@@ -9,11 +9,11 @@ class ChartReader:
 
     reverse_check ={
         '2': '0.5',
-        '0.5': '2',
+        '0.5': '2.0',
         '4': '0.25',
-        '0.25': '4',
-        '0': '0',
-        '1': '1'
+        '0.25': '4.0',
+        '0': '0.0',
+        '1': '1.0'
     }
 
     def __init__(self):
@@ -96,7 +96,7 @@ class ChartReader:
 
         for key in self.chart.keys():
 
-            returnList[key] = self.chart[key][index]
+            returnList[key] = float(self.chart[key][index])
         
         return returnList
     
