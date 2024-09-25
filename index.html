@@ -3,122 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Too Many Types - Type Effectiveness</title>
-    
-    <!-- Add Bootstrap CSS link -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Desa's Next Baby Namer</title>
     <style>
-        /* Add custom styles for sticky headers and scrollable table */
-        .table-container {
-            max-width: 100%; /* Set the maximum width to 100% of the viewport width */
-            max-height: 94vh; /* Set the maximum height to 80% of the viewport height */
-            overflow-x: auto; /* Add horizontal scrollbar when content exceeds the width */
-            overflow-y: auto; /* Add vertical scrollbar when content exceeds the height */
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
         }
 
-        .sticky-header th,
-        .sticky-column {
-            position: sticky;
-            top: 0;
-            z-index: 2;
+        h1 {
+            color: #333;
+        }
+
+        #slot-machine {
+            border: 4px solid #444;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
             background-color: white;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
         }
 
-        .sticky-header th {
-            box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.1);
+        .vowel {
+            font-size: 80px;
+            font-weight: bold;
+            margin: 20px 10px;
+            color: #444;
+            letter-spacing: 10px;
         }
 
-        .sticky-column {
-            left: 0;
+        .vowels-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .letter-L {
+            font-size: 80px;
+            font-weight: bold;
+            color: #444;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 20px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #28a745;
+            color: white;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #218838;
         }
     </style>
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="form-group">
-            <input type="text" class="form-control" id="searchBox" placeholder="Search by Name">
+
+    <h1>Vowel Slot Machine</h1>
+    <div id="slot-machine">
+        <div class="vowels-container">
+            <div class="letter-L">L</div>
+            <div id="vowel1" class="vowel">?</div>
+            <div class="letter-L">L</div>
+            <div id="vowel2" class="vowel">?</div>
         </div>
-        <div class="table-container">
-            <table class="table table-bordered table-striped" id="userdata">
-                <thead class="thead-dark sticky-header">
-                    <tr>
-                        <th class="sticky-column">Name</th>
-                        <th>Types</th>
-                        <th>1x</th>
-                        <th>2x</th>
-                        <th>4x</th>
-                        <th>8x</th>
-                        <th>0.5x</th>
-                        <th>0.25x</th>
-                        <th>0.125x</th>
-                        <th>0x</th>
-                    </tr>
-                </thead>
-                <tbody>
-                </tbody>
-            </table>
-        </div>
+        <button onclick="spin()">Spin the Wheels!</button>
     </div>
 
-    <script src="./fuzzysort-master/fuzzysort.min.js"></script> <!-- Replace with the actual path -->
     <script>
-        const jsonFilePath = './Pokemon.json';
+        const vowels = ['A', 'E', 'I', 'O', 'U', 'Y', 'EE'];
 
-        fetch(jsonFilePath)
-            .then((response) => response.json())
-            .then((jsonData) => {
-                populateTable(jsonData);
-                document.getElementById('searchBox').addEventListener('input', function () {
-                    filterTable(this.value);
-                });
-            })
-            .catch((error) => {
-                console.error('Error fetching JSON:', error);
-            });
+        function spin() {
+            // Random selection for each wheel
+            const randomIndex1 = Math.floor(Math.random() * vowels.length);
+            const randomIndex2 = (randomIndex1 + Math.floor(Math.random() * (vowels.length - 1)) + 1) % vowels.length;
 
-        function populateTable(data) {
-            const tableBody = document.querySelector('#userdata tbody');
-            tableBody.innerHTML = '';
+            const selectedVowel1 = vowels[randomIndex1];
+            const selectedVowel2 = vowels[randomIndex2];
 
-            data.forEach((item) => {
-                const row = document.createElement('tr');
-                row.innerHTML = `
-                    <td class="sticky-column"><b>${item.Name}</b></td>
-                    <td>${item.Types}</td>
-                    <td>${item['1x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['2x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['4x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['8x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['0.5x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['0.25x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['0.125x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                    <td>${item['0x'].toString().toLowerCase().split(',').join(', \n')}</td>
-                `;
+            // Show a brief animation for both wheels with different letters
+            let counter1 = 0;
+            let counter2 = 1; // Start from a different point for the second wheel
+            const interval = setInterval(() => {
+                document.getElementById('vowel1').textContent = vowels[counter1 % vowels.length];
+                document.getElementById('vowel2').textContent = vowels[counter2 % vowels.length];
+                counter1++;
+                counter2++;
+            }, 100); // Speed of the letter change
 
-                tableBody.appendChild(row);
-            });
-        }
-
-        function filterTable(query) {
-            const table = document.getElementById('userdata');
-            const rows = table.querySelectorAll('tbody tr');
-
-            rows.forEach((row) => {
-                const nameColumn = row.querySelector('.sticky-column');
-                const name = nameColumn.textContent;
-
-                if (query === '' || fuzzysort.single(query, name)) {
-                    row.style.display = '';
-                } else {
-                    row.style.display = 'none';
-                }
-            });
+            // Stop the animation after a short time and show the results
+            setTimeout(() => {
+                clearInterval(interval);
+                document.getElementById('vowel1').textContent = selectedVowel1;
+                document.getElementById('vowel2').textContent = selectedVowel2;
+            }, 2000); // Duration of the "spinning" effect
         }
     </script>
 
-    <!-- Add Bootstrap JS and jQuery (optional) -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
