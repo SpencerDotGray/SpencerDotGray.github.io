@@ -1,0 +1,1712 @@
+Sunflower (Helianthus annuus) @ Giant, sun-loving blooms that follow the light across the sky.
+Tulip (Tulipa) @ Elegant, cup-shaped flowers heralding the arrival of spring.
+Daffodil (Narcissus) @ Cheerful trumpet-shaped blossoms that signify rebirth and new beginnings.
+Lily (Lilium) @ Graceful, fragrant blooms symbolizing purity and beauty.
+Orchid (Orchidaceae) @ Exotic and diverse blooms showcasing nature's intricate artistry.
+Peony (Paeonia) @ Lush, romantic flowers with full, fragrant blooms.
+Hydrangea (Hydrangea) @ Large, showy flower clusters that change color with soil pH.
+Carnation (Dianthus caryophyllus) @ Ruffled, long-lasting blooms with a spicy, clove-like scent.
+Marigold (Tagetes) @ Bright, cheerful flowers often used to deter pests in gardens.
+Petunia (Petunia) @ Trumpet-shaped flowers that provide continuous color all summer.
+Geranium (Pelargonium) @ Vibrant, classic flowers perfect for pots and borders.
+Lavender (Lavandula) @ Aromatic spikes of purple flowers, known for their calming scent.
+Begonia (Begonia) @ Decorative foliage and vibrant flowers in shady spots.
+Dahlia (Dahlia) @ Spectacular, intricate blooms in an astonishing array of shapes and colors.
+Iris (Iris) @ Elegant flowers with distinctive upright petals and falling sepals.
+Zinnia (Zinnia) @ Hardy, colorful blooms that attract butterflies and pollinators.
+Chrysanthemum (Chrysanthemum) @ Autumnal blooms in a dazzling array of shapes and colors.
+Cosmos (Cosmos) @ Delicate, daisy-like flowers that sway gracefully in the breeze.
+Aster (Aster) @ Late-season blooms resembling small daisies, adding color to autumn.
+Freesia (Freesia) @ Fragrant, trumpet-shaped blooms prized for their sweet perfume.
+Gladiolus (Gladiolus) @ Tall spikes of dramatic, sword-shaped flowers.
+Hyacinth (Hyacinthus) @ Intensely fragrant, dense spikes of star-shaped flowers.
+Delphinium (Delphinium) @ Tall, elegant spires of vibrant blue and purple flowers.
+Anemone (Anemone) @ Delicate, cup-shaped flowers often with striking dark centers.
+Crocus (Crocus) @ Tiny, jewel-like blossoms that push through the last of winter's snow.
+Ranunculus (Ranunculus) @ Exquisite, multi-petaled blooms resembling delicate paper creations.
+Lisianthus (Eustoma) @ Elegant, rose-like flowers with delicate, ruffled petals.
+Sweet Pea (Lathyrus odoratus) @ Fragrant, climbing vines with delicate, butterfly-like flowers.
+Calla Lily (Zantedeschia) @ Sleek, elegant spathes that bring sophisticated charm.
+Gerbera Daisy (Gerbera jamesonii) @ Joyful, oversized daisies bursting with vibrant color.
+Lobelia (Lobelia) @ Tiny, vibrant blooms perfect for cascading displays.
+Impatiens (Impatiens) @ Shade-loving annuals that provide continuous, vibrant blooms.
+Begonia Tuberous (Begonia x tuberhybrida) @ Spectacular, large blooms in a wide variety of brilliant colors.
+Cyclamen (Cyclamen) @ Delicate, nodding flowers with distinctive swept-back petals.
+Fuchsia (Fuchsia) @ Whimsical, drooping flowers resembling tiny dancers.
+Portulaca (Portulaca) @ Sun-loving annuals with vibrant, cup-shaped flowers that open in sunshine.
+Lobularia maritima (Lobularia maritima) @ Tiny, sweet-scented white flowers that spill abundantly.
+Celosia (Celosia) @ Unusual, fiery blooms in crested or plumed forms.
+Vinca (Catharanthus roseus) @ Tough, glossy-leaved plants with abundant, cheerful blooms.
+Salvia (Salvia) @ Tall spikes of vibrant flowers attracting pollinators.
+Echinacea (Echinacea) @ Cone-shaped flowers with upright petals, known for medicinal properties.
+Gaillardia (Gaillardia) @ Daisy-like flowers with vibrant, fiery bicolor petals.
+Coreopsis (Coreopsis) @ Cheerful, bright yellow daisy-like flowers blooming profusely.
+Achillea (Achillea millefolium) @ Flat-topped clusters of tiny flowers, known as yarrow.
+Hemerocallis (Hemerocallis) @ Daylilies, with fleeting but numerous trumpet-shaped blooms.
+Aquilegia (Aquilegia) @ Columbine, with unique spurred flowers that add charm.
+Digitalis (Digitalis purpurea) @ Foxgloves, tall spires of tubular flowers that attract bees.
+Pansy (Viola x wittrockiana) @ Charming 'faces' with velvety petals, blooming in cool weather.
+Viola (Viola) @ Small, sweet violets known for their delicate charm and fragrance.
+Bellis perennis (Bellis perennis) @ English daisies, low-growing with simple, cheerful flower heads.
+Thymus (Thymus vulgaris) @ Fragrant herb with tiny flowers, excellent groundcover.
+Sempervivum (Sempervivum) @ Hens and chicks, resilient succulents forming attractive rosettes.
+Sedum (Sedum) @ Hardy succulents with star-shaped flowers, often blooming late.
+Echeveria (Echeveria) @ Rosette-forming succulents with beautiful, fleshy leaves.
+Hosta (Hosta) @ Shade-loving foliage plants with elegant flower spikes.
+Astilbe (Astilbe) @ Feathery plumes of color that add texture to shady gardens.
+Heuchera (Heuchera) @ Coral bells, valued for vibrant, colorful foliage.
+Ligularia (Ligularia) @ Bold foliage plants with bright yellow or orange flower spikes.
+Rodgersia (Rodgersia) @ Large, textured leaves and upright plumes of flowers.
+Dicentra (Dicentra spectabilis) @ Bleeding hearts, with distinctive heart-shaped flowers.
+Pulmonaria (Pulmonaria) @ Lungwort, with spotted foliage and clusters of early spring flowers.
+Brunnera (Brunnera macrophylla) @ Siberian bugloss, with heart-shaped leaves and tiny blue flowers.
+Galium odoratum (Galium odoratum) @ Sweet woodruff, a fragrant groundcover with delicate white flowers.
+Helleborus (Helleborus) @ Lenten roses, winter-blooming beauties with nodding flowers.
+Hepatica (Hepatica) @ Tiny, delicate spring ephemerals with charming cup-shaped flowers.
+Jeffersonia diphylla (Jeffersonia diphylla) @ Twinleaf, a rare woodland plant with unique double-lobed leaves and white flowers.
+Trillium (Trillium) @ Woodland trilliums with three leaves and a single, striking flower.
+Cypripedium (Cypripedium) @ Lady's slippers, fascinating native orchids with pouched petals.
+Phlox (Phlox) @ Clusters of fragrant flowers, including tall garden phlox and creeping varieties.
+Monarda (Monarda) @ Bee balm, aromatic flowers that are a magnet for pollinators.
+Agastache (Agastache) @ Hyssop, with fragrant foliage and spiky flower heads.
+Lupine (Lupinus) @ Tall spires of pea-like flowers, adding vertical interest.
+Penstemon (Penstemon) @ Beardtongues, tubular flowers that attract hummingbirds.
+Asclepias (Asclepias tuberosa) @ Butterfly weed, bright orange blooms essential for monarch caterpillars.
+Anigozanthos (Anigozanthos) @ Kangaroo paws, unique Australian natives with fuzzy, claw-like flowers.
+Leucospermum (Leucospermum) @ Pincushion flowers, striking proteas with vibrant, unique blooms.
+Banksia (Banksia) @ Iconic Australian trees/shrubs with distinctive cylindrical flower spikes.
+Protea (Protea) @ King protea and relatives, striking blooms symbolizing courage.
+Strelitzia (Strelitzia reginae) @ Bird of paradise, with vibrant, tropical blooms resembling a crane's head.
+Callistemon (Callistemon) @ Bottlebrush plants, with distinctive cylindrical flower heads.
+Grevillea (Grevillea) @ Spider-like flowers that are a favorite of nectar-feeding birds.
+Brunsvigia (Brunsvigia josephinae) @ Josephine's lily, a giant bulb with a spectacular, umbrella-shaped flower head.
+Crassula (Crassula ovata) @ Jade plant, a succulent with fleshy leaves and star-shaped flowers.
+Kalanchoe (Kalanchoe blossfeldiana) @ Flaming Katy, a succulent with long-lasting clusters of colorful blooms.
+Graptopetalum (Graptopetalum) @ Rosette-forming succulents with delicate, star-shaped flowers.
+Echeveria 'Lola' (Echeveria 'Lola') @ A beautiful hybrid Echeveria with powdery pink-blue leaves.
+Haworthia (Haworthia) @ Small, architectural succulents with striped or spotted foliage.
+Aloe (Aloe vera) @ Medicinal succulents with fleshy, toothed leaves and tall flower spikes.
+Agave (Agave) @ Striking desert succulents with large, spiky rosettes and dramatic flower stalks.
+Yucca (Yucca) @ Architectural plants with stiff, sword-like leaves and tall flower spikes.
+Opuntia (Opuntia) @ Prickly pear cacti with flat, paddle-like segments and colorful blooms.
+Cereus (Cereus) @ Tall, columnar cacti, many with spectacular night-blooming flowers.
+Lophophora (Lophophora williamsii) @ Peyote cactus, a small, spineless succulent with tiny pink or white flowers.
+Ariocarpus (Ariocarpus) @ Living rock cacti, slow-growing succulents resembling textured rocks.
+Mammillaria (Mammillaria) @ Small, globular cacti with distinctive tubercles and often colorful flowers.
+Rebutia (Rebutia) @ Small, clustering cacti from the Andes, known for prolific, colorful blooms.
+Gymnocalycium (Gymnocalycium) @ Chin cactus, globular cacti with prominent ribs and attractive flowers.
+Epiphyllum (Epiphyllum) @ Orchid cacti, epiphytic plants with spectacular, often fragrant, large flowers.
+Schlumbergera (Schlumbergera) @ Christmas cactus and Thanksgiving cactus, festive holiday bloomers.
+Rhipsalis (Rhipsalis) @ Mistletoe cacti, trailing epiphytic plants with delicate, often small flowers.
+Hoya (Hoya) @ Wax plants, trailing vines with star-shaped, waxy flowers.
+Dischidia (Dischidia) @ Related to Hoya, these epiphytes have unique leaf modifications.
+Stephanotis (Stephanotis floribunda) @ Madagascar jasmine, a twining vine with intensely fragrant white flowers.
+Jasminum (Jasminum) @ Jasmine, renowned for its intoxicatingly sweet fragrance.
+Plumeria (Plumeria) @ Frangipani, tropical trees with fragrant, waxy flowers used in leis.
+Ixora (Ixora) @ Jungle geranium, tropical shrubs with vibrant clusters of small flowers.
+Hibiscus (Hibiscus rosa-sinensis) @ Tropical hibiscus, large, showy trumpet-shaped flowers.
+Brugmansia (Brugmansia) @ Angel's trumpet, large, fragrant, trumpet-shaped flowers.
+Datura (Datura) @ Jimsonweed, large trumpet-shaped flowers, often fragrant at night.
+Nicotiana (Nicotiana) @ Flowering tobacco, fragrant flowers that often bloom at night.
+Cestrum (Cestrum) @ Night-scented shrubs with clusters of fragrant, tubular flowers.
+Brunfelsia (Brunfelsia) @ Yesterday-today-tomorrow, flowers change color as they mature.
+Lavender (Lavandula angustifolia) @ Aromatic purple spikes known for calming fragrance and beauty.
+Lilac (Syringa vulgaris) @ Fragrant spring clusters of purple and white, a nostalgic scent.
+Zinnia (Zinnia elegans) @ Bright, daisy-like flowers that attract pollinators all summer long.
+Amaryllis (Hippeastrum) @ Large, dramatic trumpet blooms that bring winter cheer.
+Cosmos (Cosmos bipinnatus) @ Delicate, feathery foliage topped with cheerful, daisy-like flowers.
+Poppy (Papaver) @ Delicate, papery petals in vibrant colors, often with dark centers.
+Calla Lily (Zantedeschia aethiopica) @ Elegant, trumpet-shaped blooms with a sophisticated, modern look.
+Lily of the Valley (Convallaria majalis) @ Delicate, bell-shaped white flowers with an enchanting sweet scent.
+Hyacinth (Hyacinthus orientalis) @ Dense spikes of fragrant, star-shaped flowers, a true spring delight.
+Alstroemeria (Alstroemeria) @ Long-lasting, vibrant blooms resembling miniature lilies, perfect for cutting.
+Anthurium (Anthurium andraeanum) @ Glossy, heart-shaped spathes with a waxy, tropical allure.
+Cymbidium Orchid (Cymbidium) @ Elegant, long-lasting blooms on cascading stems, a classic orchid choice.
+Phalaenopsis Orchid (Phalaenopsis) @ Moth-like flowers, graceful and elegant, ideal for indoor beauty.
+Cattleya Orchid (Cattleya) @ Large, showy, and often fragrant blooms, the 'queen of orchids'.
+Carnivorous Pitcher Plant (Nepenthes) @ Unusual traps lure insects with nectar, a fascinating botanical wonder.
+Venus Flytrap (Dionaea muscipula) @ Active snap-trapping leaves that catch unsuspecting insects.
+Sundew (Drosera) @ Sticky tentacles glisten, trapping tiny insects with dewy allure.
+Butterwort (Pinguicula) @ Glandular leaves trap small insects with a sticky, dewy surface.
+Water Lily (Nymphaea) @ Floating pads adorned with elegant blooms, gracing tranquil waters.
+Lotus (Nelumbo nucifera) @ Sacred, majestic flowers rising serenely from muddy waters.
+Bromeliad (Bromeliaceae) @ Exotic, architectural foliage crowned with vibrant, often long-lasting blooms.
+Air Plant (Tillandsia) (Tillandsia) @ Foliage plants that absorb moisture and nutrients from the air.
+Impatiens (Impatiens walleriana) @ Cheerful, long-blooming flowers that thrive in shady garden spots.
+Petunia (Petunia x hybrida) @ Trumpet-shaped flowers in a kaleidoscope of colors, perfect for hanging baskets.
+Verbena (Verbena) @ Clusters of small flowers creating a carpet of color in sunny gardens.
+Heliotrope (Heliotropium arborescens) @ Intensely fragrant, vanilla-scented blooms that turn towards the sun.
+Lobelia (Lobelia erinus) @ Cascading masses of tiny, vivid blue flowers, perfect for edging.
+Stock (Matthiola incana) @ Spikes of intensely fragrant flowers, a classic cottage garden bloom.
+Snapdragon (Antirrhinum majus) @ Towering spikes of uniquely shaped flowers that 'snap' when squeezed.
+Hollyhock (Alcea rosea) @ Tall, stately spires of large, saucer-shaped flowers against a wall.
+Clematis (Clematis) @ Vining beauties adorned with large, star-shaped or bell-shaped flowers.
+Wisteria (Wisteria) @ Cascading, fragrant flower clusters creating a breathtaking floral display.
+Honeysuckle (Lonicera) @ Sweetly fragrant, tubular flowers that attract hummingbirds and butterflies.
+Passion Flower (Passiflora) @ Intricate, exotic flowers with unique corona filaments, a botanical marvel.
+Trumpet Vine (Campsis radicans) @ Vigorous climber with large, trumpet-shaped orange or red flowers.
+Magnolia (Magnolia) @ Large, often fragrant, goblet-shaped flowers adorn ancient trees.
+Camellia (Camellia) @ Elegant, rose-like blooms grace evergreen shrubs with glossy leaves.
+Azalea (Rhododendron) @ Masses of vibrant, funnel-shaped flowers transform landscapes in spring.
+Canna Lily (Canna indica) @ Bold, tropical foliage topped with vibrant, showy flowers.
+Ginger Lily (Hedychium) @ Fragrant, exotic blooms resembling orchids, thriving in warm climates.
+Bird Cherry (Prunus padus) @ Dangling clusters of fragrant white flowers precede dark berries.
+Hawthorn (Crataegus) @ Spring blossoms followed by ornamental red berries, beloved by wildlife.
+Serviceberry (Amelanchier) @ Delicate white flowers bloom before edible berries, a four-season interest plant.
+Star Magnolia (Magnolia stellata) @ Delicate, star-shaped white flowers bloom on bare branches in early spring.
+Witch Hazel (Hamamelis) @ Fragrant, spidery flowers bloom in late fall or winter.
+Forsythia (Forsythia) @ Explosions of bright yellow flowers herald spring's arrival.
+Cornus florida (Flowering Dogwood) (Cornus florida) @ Showy white or pink bracts surround small, inconspicuous flowers.
+Redbud (Cercis canadensis) @ Masses of small, bright pinkish-purple flowers bloom directly on branches.
+Magnolia grandiflora (Southern Magnolia) (Magnolia grandiflora) @ Large, fragrant white flowers grace evergreen glossy foliage.
+Weeping Cherry (Prunus subhirtella 'Pendula') @ Graceful, arching branches adorned with cascading pink or white flowers.
+Japanese Maple (Acer palmatum) @ Delicate, dissected leaves turn spectacular colors in fall.
+Dogwood (Cornus spp.) (Cornus) @ Ornamental trees with showy bracts or flowers and attractive berries.
+Cypress (Cupressus) @ Evergreen trees with scale-like or awl-shaped foliage, often columnar.
+Arborvitae (Thuja) @ Popular evergreen shrubs and trees with flattened, scale-like foliage.
+Juniper (Juniperus) @ Hardy evergreens with needle-like or scale-like foliage and berry-like cones.
+Spruce (Picea) @ Coniferous trees with sharp, four-sided needles and hanging cones.
+Pine (Pinus) @ Evergreen trees with needles in bundles, producing prominent cones.
+Fir (Abies) @ Soft, flat needles and upright cones distinguish these majestic evergreens.
+Cedar (Cedrus) @ Large evergreen trees with short, needle-like foliage on spurs.
+Douglas Fir (Pseudotsuga menziesii) @ Tall, majestic conifer with soft needles and unique three-pronged cones.
+Bald Cypress (Taxodium distichum) @ Deciduous conifer with feathery foliage turning russet in fall.
+Ginkgo (Ginkgo biloba) @ Ancient 'living fossil' tree with fan-shaped leaves turning brilliant yellow.
+Forget-Me-Not (Myosotis sylvatica) @ Tiny, sky-blue blossoms evoke remembrance and true love.
+Daffodil (Narcissus pseudonarcissus) @ Cheery trumpet-shaped flowers herald the arrival of spring.
+Tulip (Tulipa gesneriana) @ Elegant, cup-shaped blooms come in a dazzling spectrum of colors.
+Iris (Iris germanica) @ Ornate, complex blooms with distinctive ruffled petals and beards.
+Peony (Paeonia lactiflora) @ Lush, voluminous blooms with layers of soft, ruffled petals.
+Geranium (Pelargonium x hortorum) @ Classic, cheerful blooms often found in window boxes and hanging baskets.
+Begonia (Begonia semperflorens) @ Ever-blooming, waxy flowers in bright shades add continuous color.
+Marigold (Tagetes erecta) @ Bright, daisy-like blooms in warm hues naturally deter garden pests.
+Salvia (Salvia splendens) @ Spiky blooms in vivid hues add vertical interest and attract hummingbirds.
+Fuchsia (Fuchsia magellanica) @ Exotic, dangling flowers resemble tiny ballerinas in colorful skirts.
+Hosta (Hosta plantaginea) @ Lush, foliage plants with elegant spires of fragrant, bell-shaped flowers.
+Hydrangea (Hydrangea macrophylla) @ Large, mop-like flower heads create dramatic, colorful displays.
+Wisteria (Wisteria sinensis) @ Cascading clusters of fragrant, pea-like flowers drape elegantly.
+Camellia (Camellia japonica) @ Elegant, rose-like blooms grace glossy evergreen foliage in cooler months.
+Rhododendron (Rhododendron ponticum) @ Large clusters of showy flowers adorn these classic, hardy shrubs.
+Heather (Calluna vulgaris) @ Tiny, bell-shaped flowers form a carpet of delicate color.
+Bluebell (Hyacinthoides non-scripta) @ Enchanting woodland carpets of nodding, bell-shaped blue flowers.
+Snowdrop (Galanthus nivalis) @ Delicate white, nodding flowers emerge from the snow, heralding winter's end.
+Crocus (Crocus vernus) @ Cup-shaped blooms burst forth from the ground, signaling early spring.
+Anemone (Anemone coronaria) @ Delicate, cup-shaped flowers with dark centers create a vibrant display.
+Delphinium (Delphinium elatum) @ Dramatic spires of vibrant blue or purple flowers add height and elegance.
+Poppy (Papaver rhoeas) @ Papery, delicate blooms with dark centers add ephemeral beauty.
+Ranunculus (Ranunculus asiaticus) @ Intensely layered, rose-like blooms in a dazzling array of colors.
+Aster (Aster amellus) @ Late-season daisy-like flowers provide vibrant color as summer fades.
+Chrysanthemum (Chrysanthemum x morifolium) @ Abundant, varied blooms signal the arrival of autumn in a riot of color.
+Dahlia (Dahlia pinnata) @ Exquisite, complex blooms in endless forms and dazzling colors.
+Gladiolus (Gladiolus communis) @ Tall spikes display a succession of large, dramatic flowers.
+Chrysanthemum (Chrysanthemum indicum) @ Hardy blooms signal autumn's arrival with cheerful, abundant flowers.
+Dianthus (Dianthus barbatus) @ Clusters of fringed, often spicy-scented flowers bloom in dense heads.
+Freesia (Freesia refracta) @ Delicate, trumpet-shaped flowers emit a sweet, intoxicating fragrance.
+Lily (Lilium candidum) @ Iconic, trumpet-shaped white lilies with a powerful, sweet perfume.
+Ornithogalum (Ornithogalum umbellatum) @ Star-like white flowers open in sunlight, resembling 'Star-of-Bethlehem'.
+Ranunculus (Ranunculus ficaria) @ Early spring woodland plant with cheerful, buttercup-like yellow flowers.
+Scilla (Scilla siberica) @ Vibrant blue, bell-shaped flowers create a stunning spring groundcover.
+Hellebore (Helleborus orientalis) @ Elegant, nodding flowers bloom in winter and early spring, defying the cold.
+Bleeding Heart (Lamprocapnos spectabilis) @ Unique heart-shaped flowers with a 'drop' create a whimsical charm.
+Dicentra (Dicentra formosa) @ Delicate, fern-like foliage topped with charming pink, heart-shaped flowers.
+Tiarella (Tiarella cordifolia) @ Foamy, bottlebrush-like white flower spikes create a delicate display.
+Aquilegia (Aquilegia caerulea) @ Native wildflower with elegant blue and white flowers and unique spurs.
+Pulsatilla (Pulsatilla vulgaris) @ Hairy, bell-shaped flowers emerge early, followed by fluffy seed heads.
+Gentiana (Gentiana acaulis) @ Trumpet-shaped, intense blue flowers hug the ground in early spring.
+Campanula (Campanula portenschlagiana) @ Low-growing perennial forms a carpet of starry, bell-shaped purple flowers.
+Veronica (Veronica spicata) @ Spiky flower stalks in vibrant blues and purples add vertical interest.
+Lychnis (Lychnis chalcedonica) @ Flat-topped clusters of bright scarlet flowers create a fiery display.
+Salvia (Salvia nemorosa) @ Long-lasting spikes of purple or blue flowers are a magnet for bees.
+Coreopsis (Coreopsis lanceolata) @ Bright, daisy-like yellow flowers bloom profusely throughout summer.
+Gaillardia (Gaillardia aristata) @ Vibrant, daisy-like flowers with fiery red and yellow bands attract butterflies.
+Hemerocallis (Hemerocallis 'Stella de Oro') @ Prolific, small golden-yellow flowers bloom repeatedly all season.
+Lavatera (Lavatera trimestris) @ Large, trumpet-shaped pink or white flowers bloom abundantly on upright stems.
+Alcea (Alcea rugosa) @ Tall spikes of canary-yellow, saucer-shaped flowers bloom on sturdy stems.
+Malva (Malva sylvestris) @ Delicate, cup-shaped flowers with prominent veining bloom along the stems.
+Hibiscus (Hibiscus syriacus) @ Large, showy trumpet-shaped flowers bloom on a hardy, deciduous shrub.
+Abutilon (Abutilon megapotamicum) @ Bell-shaped flowers with prominent stamens dangle gracefully.
+Brugmansia (Brugmansia suaveolens) @ Gigantic, fragrant, trumpet-shaped flowers hang downwards.
+Datura (Datura stramonium) @ Large, trumpet-shaped flowers unfurl at dusk with a strong fragrance.
+Nicotiana (Nicotiana alata) @ Fragrant, tubular flowers open in the evening, perfuming the night air.
+Calibrachoa (Calibrachoa) @ Tiny, petunia-like flowers cascade in masses from hanging baskets.
+Solanum (Solanum crispum 'Glasnevin') @ Climbing shrub with star-shaped blue-purple flowers and yellow centers.
+Ipomoea (Ipomoea tricolor) @ Trumpet-shaped morning glories unfurl with the dawn in vivid hues.
+Convolvulus (Convolvulus cneorum) @ Silvery foliage topped with delicate white funnel-shaped flowers.
+Cobaea (Cobaea scandens) @ Large, bell-shaped, pendulous flowers dangle from a vigorous climbing vine.
+Polemonium (Polemonium caeruleum) @ Delicate, cup-shaped blue flowers with bright yellow centers.
+Phlox (Phlox paniculata) @ Fragrant, large panicles of star-shaped flowers bloom in mid to late summer.
+Gilia (Gilia capitata) @ Spherical clusters of delicate, sky-blue flowers create an airy effect.
+Buddleja (Buddleja davidii) @ Long, fragrant flower spikes are a magnet for butterflies.
+Celsia (Celsia) @ Tall spikes of bright yellow flowers with distinctive dark centers.
+Verbascum (Verbascum thapsus) @ Towering spikes of fuzzy yellow flowers rise from a rosette of woolly leaves.
+Scrophularia (Scrophularia nodosa) @ Small, inconspicuous flowers bloom in tall spikes, attracting specific pollinators.
+Lantana (Lantana camara) @ Clusters of small, colorful flowers change hues as they mature.
+Verbena (Verbena bonariensis) @ Airy, tall stems topped with clusters of small, vibrant purple flowers.
+Callicarpa (Callicarpa dichotoma) @ Clusters of iridescent violet berries create a stunning fall and winter display.
+Vitex (Vitex agnus-castus) @ Spikes of fragrant blue-purple flowers attract pollinators and resemble lavender.
+Tecoma (Tecoma capensis) @ Trumpet-shaped orange-red flowers bloom on a vigorous, scrambling shrub.
+Catalpa (Catalpa bignonioides) @ Large panicles of showy white trumpet-shaped flowers with purple spots.
+Campsis (Campsis grandiflora) @ Large, showy trumpet-shaped flowers adorn this vigorous climbing vine.
+California Poppy (Eschscholzia californica) @ State flower of California, shimmering with sunny, cup-shaped blooms.
+Coneflower (Echinacea purpurea) @ Daisy-like blooms with prominent cones, attracting pollinators with their charm.
+Foxglove (Digitalis) @ Towering spires of tubular flowers, a cottage garden favorite with medicinal history.
+Hibiscus (Hibiscus) @ Large, showy trumpet-shaped flowers, evoking tropical paradise.
+Azalea (Rhododendron subgenus Pentanthera) @ Bushes bursting with vibrant, funnel-shaped flowers, a spring garden delight.
+Pansy (Viola tricolor var. hortensis) @ Familiar 'faces' with velvety petals, adding charm to cool-season gardens.
+Primrose (Primula) @ Delicate, cheerful blooms that brighten early spring gardens.
+Rosemary (Salvia rosmarinus) @ Fragrant evergreen herb with small, delicate blue flowers.
+Sage (Salvia officinalis) @ Aromatic foliage and spikes of blue-purple flowers, a culinary staple.
+Mint (Mentha) @ Invigoratingly fragrant herb with small, often purplish flowers.
+Basil (Ocimum basilicum) @ Aromatic culinary herb producing spikes of delicate white to purple flowers.
+Lemon Balm (Melissa officinalis) @ Lemon-scented herb with small, delicate white flowers, known for calming effects.
+Chives (Allium schoenoprasum) @ Onion-scented herb with pretty, pom-pom-like purple or pink flower heads.
+Oregano (Origanum vulgare) @ Fragrant culinary herb with clusters of small pink to purple flowers.
+Lemon Verbena (Aloysia citrodora) @ Intensely lemony scented shrub with small, fragrant white flowers.
+Catmint (Nepeta) @ Abundant spikes of blue-purple flowers, a favorite for cats and pollinators.
+Hyssop (Hyssopus officinalis) @ Aromatic herb with spiky clusters of small, colorful flowers.
+Anise Hyssop (Agastache foeniculum) @ Sweetly scented herb with spikes of purple-blue flowers, loved by pollinators.
+Mignonette (Reseda odorata) @ Unassuming flowers with an intensely sweet, unique fragrance.
+Wallflower (Erysimum) @ Fragrant, colorful flowers that often bloom in spring and fall.
+Candytuft (Iberis sempervirens) @ Low-growing evergreen with masses of white, umbrella-shaped flowers.
+Creeping Thyme (Thymus serpyllum) @ Fragrant, mat-forming groundcover with tiny pink-purple flowers.
+Aubrieta (Aubrieta) @ Cascading mounds of small, vibrant purple flowers, ideal for rockeries.
+Rock Cress (Arabis caucasica) @ Low-growing groundcover with masses of white flowers, perfect for rocky areas.
+Edelweiss (Leontopodium alpinum) @ Iconic alpine flower with fuzzy, star-shaped white bracts.
+Alpine Aster (Aster alpinus) @ Compact alpine daisy with striking purple-blue flowers.
+Morning Glory (Ipomoea purpurea) @ Trumpet-shaped flowers that unfurl with the morning sun.
+Poinsettia (Euphorbia pulcherrima) @ Iconic holiday plant with vibrant, colorful bracts, symbolizing Christmas.
+Christmas Rose (Helleborus niger) @ Winter-blooming flower, a hardy gem offering delicate white blooms.
+Winter Jasmine (Jasminum nudiflorum) @ Deciduous shrub with bright yellow flowers on bare winter stems.
+Winter Aconite (Eranthis hyemalis) @ Tiny, bright yellow flowers emerging from the soil in late winter.
+Winter Cherry (Solanum pseudocapsicum) @ Shrub with bright red berries, often mistaken for flowers.
+Pentas (Pentas lanceolata) @ Clusters of star-shaped flowers that attract butterflies and hummingbirds.
+Gazania (Gazania rigens) @ Dazzling, daisy-like flowers that track the sun and thrive in heat.
+Osteospermum (Osteospermum) @ Daisy-like blooms with unique center colors, blooming from spring to fall.
+Nemophila (Nemophila menziesii) @ Delicate, cup-shaped blue and white flowers, a charming wildflower.
+California Bluebell (Phacelia campanularia) @ Vibrant blue, bell-shaped flowers, a striking native wildflower.
+Monkeyflower (Mimulus) @ Whimsical, open-mouthed flowers resembling a monkey's face.
+Indian Paintbrush (Castilleja) @ Vibrantly colored bracts that resemble painted brushstrokes.
+Wild Geranium (Geranium maculatum) @ Native woodland perennial with charming pink-purple flowers.
+Jack-in-the-Pulpit (Arisaema triphyllum) @ Unique woodland plant with a hooded spathe resembling a pulpit.
+Bloodroot (Sanguinaria canadensis) @ Early spring woodland flower with delicate white petals and red sap.
+Honeysuckle (Lonicera japonica) @ Sweetly fragrant vines with trumpet-shaped flowers, attracting hummingbirds.
+Geranium (Pelargonium hortorum) @ Classic garden bedding plants with vibrant, often red, blooms.
+Aster (Symphyotrichum novi-belgii) @ Late-season blooms providing bursts of color in autumn.
+Orchid (Phalaenopsis amabilis) @ Exotic, intricate flowers prized for their unique beauty.
+Columbine (Aquilegia vulgaris) @ Unique spurred flowers resembling a fairy's bonnet.
+Begonia Rex (Begonia rex-cultorum) @ Stunning foliage plants with intricate patterns and colors.
+Cyclamen (Cyclamen persicum) @ Delicate, swept-back flowers atop heart-shaped leaves.
+Gladiolus (Gladiolus hortulanus) @ Tall spikes of impressive, funnel-shaped flowers.
+Verbena (Verbena hybrida) @ Clusters of small flowers that bloom prolifically.
+Alstroemeria (Alstroemeria psittacina) @ Long-lasting cut flowers resembling small lilies.
+Forsythia (Forsythia x intermedia) @ Early spring shrub covered in bright yellow bell-shaped flowers.
+Azalea (Rhododendron indicum) @ Shrubs covered in masses of vibrant, trumpet-shaped flowers.
+Wallflower (Erysimum cheiri) @ Sweetly scented flowers, often blooming early spring.
+Agapanthus (Agapanthus africanus) @ Globe-shaped clusters of blue or white bell-like flowers.
+Gaillardia (Gaillardia x grandiflora) @ Daisy-like flowers with striking bicolor petals.
+Lupine (Lupinus polyphyllus) @ Tall spikes of pea-like flowers, creating a majestic display.
+Rudbeckia (Rudbeckia hirta) @ Cheerful, daisy-like flowers with dark centers.
+Sedum (Sedum spectabile) @ Succulent foliage topped with late-season flower clusters.
+Tiger Lily (Lilium lancifolium) @ Vibrant orange blooms with dark spots and reflexed petals.
+Amaranthus (Amaranthus caudatus) @ Long, drooping tassels of red or purple flowers.
+Artemisia (Artemisia absinthium) @ Silvery foliage plant valued for its texture and aroma.
+Centranthus (Centranthus ruber) @ Fragrant clusters of small flowers, often found on walls.
+Centaurea (Centaurea cyanus) @ Cornflower-like blooms, adding a splash of delicate color.
+Cerastium (Cerastium tomentosum) @ Low-growing groundcover with masses of tiny white flowers.
+Epimedium (Epimedium x versicolor) @ Delicate, small flowers in spring, with attractive foliage.
+Erigeron (Erigeron karvinskianus) @ Small, daisy-like flowers that bloom prolifically.
+Erysimum (Erysimum 'Bowles' Mauve') @ Long-blooming perennial with spikes of mauve flowers.
+Euphorbia (Euphorbia milii) @ Succulent plant with thorny stems and colorful bracts.
+Filipendula (Filipendula ulmaria) @ Tall plumes of fragrant, creamy white flowers.
+Francoa (Francoa sonchifolia) @ Tall spikes of delicate, bell-shaped flowers.
+Gaura (Gaura lindheimeri) @ Airy stalks with delicate, butterfly-like flowers.
+Geum (Geum chiloense) @ Cup-shaped flowers in vibrant shades, blooming spring to fall.
+Gillenia (Gillenia trifoliata) @ Delicate star-shaped flowers on airy stems, a woodland gem.
+Godetia (Clarkia unguiculata) @ Cup-shaped flowers that resemble satin ribbons.
+Gypsophila (Gypsophila paniculata) @ Clouds of tiny flowers, essential for filler in bouquets.
+Hebe (Hebe x franciscana) @ Evergreen shrubs with dense spikes of colorful flowers.
+Helenium (Helenium autumnale) @ Bright, daisy-like flowers that bloom in late summer and fall.
+Heliopsis (Heliopsis helianthoides) @ Sunflower-like blooms that provide long-lasting color.
+Hesperis (Hesperis matronalis) @ Fragrant evening blooms, attracting moths.
+Heuchera (Heuchera americana) @ Grown for colorful foliage, with delicate flower spikes.
+Iberis (Iberis umbellata) @ Compact annuals with clusters of colorful, fragrant flowers.
+Kniphofia (Kniphofia uvaria) @ Dramatic spikes of fiery red and orange tubular flowers.
+Lathyrus (Lathyrus latifolius) @ Vigorous climber with large, showy flowers.
+Limonium (Limonium sinuatum) @ Drying flowers with papery petals, ideal for arrangements.
+Linaria (Linaria maroccana) @ Small, snapdragon-like flowers on delicate stems.
+Lysimachia (Lysimachia nummularia) @ Creeping groundcover with small, bright yellow flowers.
+Lythrum (Lythrum salicaria) @ Tall spikes of magenta flowers, a favorite for moist areas.
+Monarda (Monarda didyma) @ Fragrant foliage and unique, tubular flowers.
+Oenothera (Oenothera biennis) @ Yellow, evening-blooming flowers that open at dusk.
+Omphalodes (Omphalodes verna) @ Small, star-like blue flowers for shady spots.
+Osteospermum (Osteospermum ecklonis) @ Daisy-like flowers with vibrant centers, blooming prolifically.
+Oxalis (Oxalis triangularis) @ Tricolor foliage and delicate flowers that move with light.
+Perovskia (Perovskia atriplicifolia) @ Silvery foliage topped with spires of hazy blue flowers.
+Phlomis (Phlomis russeliana) @ Whorls of yellow flowers on architectural stems.
+Physalis (Physalis alkekengi) @ Lantern-like orange pods follow small white flowers.
+Platycodon (Platycodon grandiflorus) @ Balloon-like buds that open to large bell-shaped flowers.
+Polygonatum (Polygonatum multiflorum) @ Arching stems with bell-shaped flowers beneath lush leaves.
+Potentilla (Potentilla fruticosa) @ Shrubby plants with small, rose-like flowers.
+Ramonda (Ramonda myconi) @ Rosettes of fuzzy leaves with starry purple flowers.
+Rodgersia (Rodgersia aesculifolia) @ Large, textured leaves with tall plumes of flower.
+Romneya (Romneya coulteri) @ Large, white, crepe-paper flowers with yellow centers.
+Rosmarinus (Rosmarinus officinalis) @ Aromatic evergreen with small, fragrant blue flowers.
+Ruellia (Ruellia simplex) @ Trumpet-shaped flowers on a vigorous, spreading plant.
+Saintpaulia (Saintpaulia ionantha) @ Velvety leaves topped with clusters of colorful flowers.
+Scabiosa (Scabiosa columbaria) @ Pincushion-like flowers, popular for cutting gardens.
+Sempervivum (Sempervivum tectorum) @ Hens and Chicks: rosette-forming succulents.
+Senecio (Senecio cineraria) @ Silvery foliage plant with bright yellow flower clusters.
+Silene (Silene armeria) @ Clusters of small, bright pink flowers.
+Solidago (Solidago canadensis) @ Plumes of golden yellow flowers, a late-season bloomer.
+Spigelia (Spigelia marilandica) @ Tubular red flowers with yellow throats, for shady spots.
+Stachys (Stachys byzantina) @ Soft, fuzzy silver foliage and spikes of purple flowers.
+Tagetes (Tagetes patula) @ Bright, cheerful flowers that deter garden pests.
+Thalictrum (Thalictrum aquilegiifolium) @ Airy, feathery flower clusters on tall stems.
+Trillium (Trillium grandiflorum) @ Woodland wildflower with a single flower atop three leaves.
+Trollius (Trollius europaeus) @ Globular, buttercup-like flowers for moist areas.
+Vinca (Vinca minor) @ Groundcover with glossy leaves and delicate blue flowers.
+Viola (Viola tricolor) @ Small, charming flowers, often with intricate patterns.
+Yucca (Yucca filamentosa) @ Dramatic spikes of creamy white flowers above architectural foliage.
+Zauschneria (Zauschneria californica) @ Late-season bursts of fiery orange-red flowers.
+Forget-Me-Not (Myosotis) @ Tiny, sky-blue blossoms that evoke a sense of enduring remembrance.
+Hyacinth Bean (Lablab purpureus) @ Vining plant with clusters of fragrant purple or white pea-like flowers.
+Nasturtium (Tropaeolum majus) @ Edible, peppery flowers and rounded leaves add color and zest.
+Calendula (Calendula officinalis) @ Bright, daisy-like blooms known for their medicinal and culinary uses.
+Bougainvillea (Bougainvillea spectabilis) @ Vivid, papery bracts cascade over thorny vines, creating a floral waterfall.
+Eucalyptus (Eucalyptus) @ Aromatic foliage and often fluffy, creamy or pinkish blossoms.
+Leucadendron (Leucadendron) @ Vividly colored bracts form striking, long-lasting floral displays.
+King Protea (Protea cynaroides) @ The world's largest and most iconic protea, a symbol of South Africa.
+Bird's Nest Fern (Asplenium nidus) @ Broad, glossy fronds unfurl from a central rosette like a bird's nest.
+Staghorn Fern (Platycerium) @ Unusual, antler-like fronds create a dramatic, prehistoric look.
+Maidenhair Fern (Adiantum) @ Delicate, fan-shaped leaflets on thin, black stems create an airy effect.
+Rabbit's Foot Fern (Davallia fejeensis) @ Fuzzy, creeping rhizomes resemble rabbit's feet, complementing lace-like fronds.
+Boston Fern (Nephrolepis exaltata 'Bostoniensis') @ Lush, arching fronds create a classic, cascading fern display.
+Holly Fern (Cyrtomium falcatum) @ Glossy, holly-leaf-shaped fronds offer a bold, architectural structure.
+Asparagus Fern (Asparagus setaceus) @ Feathery, delicate fronds create an airy, cascading effect.
+Fiddle Leaf Fig (Ficus lyrata) @ Large, violin-shaped leaves create a dramatic, statement-making presence.
+Monstera Deliciosa (Monstera deliciosa) @ Iconic, split leaves create a bold, tropical aesthetic.
+Pothos (Epipremnum aureum) @ Vining plant with heart-shaped leaves, easy to grow and propagate.
+Snake Plant (Sansevieria trifasciata) @ Upright, sword-like leaves with striking variegation and air-purifying qualities.
+ZZ Plant (Zamioculcas zamiifolia) @ Glossy, dark green leaves on upright stems, incredibly drought-tolerant.
+Peace Lily (Spathiphyllum) @ Elegant white spathes rise above glossy, dark green foliage.
+Christmas Cactus (Schlumbergera bridgesii) @ Blooms profusely around the holidays with vibrant, cascading flowers.
+Easter Cactus (Hatiora gaertneri) @ Blooms in spring with bright, symmetrical flowers on flattened stem segments.
+Thanksgiving Cactus (Schlumbergera truncata) @ Segmented stems bloom with vibrant flowers typically in late fall.
+Aloe Vera (Aloe barbadensis miller) @ Succulent leaves store medicinal gel and produce tall spikes of tubular flowers.
+Queen of the Night (Epiphyllum oxypetalum) @ Fragrant, large white flowers bloom only at night, then wilt by dawn.
+Night-Blooming Cereus (Hylocereus undatus) @ Massive, fragrant white flowers bloom fleetingly under the moonlight.
+Bird's Egg Orchid (Cymbidium eburneum) @ Large, waxy flowers resemble speckled eggs, emitting a sweet fragrance.
+Ghost Orchid (Dendrophylax lindenii) @ Leafless orchid with ethereal white flowers that seem to float in air.
+Vanda Orchid (Vanda) @ Vibrant, often large flowers display stunning patterns and intense colors.
+Dendrobium Orchid (Dendrobium) @ Diverse genus with many species, known for clusters of elegant, often star-shaped flowers.
+Oncidium Orchid (Oncidium) @ Often called 'dancing ladies' for their numerous, petite, yellow-brown flowers.
+Tango Orchid (Oncidium 'Tango') @ Vivid red and orange blooms with a striking, modern appeal.
+Blue Star Fern (Arthropteris tenella) @ Delicate, pale green fronds have a subtle bluish hue and airy texture.
+Laburnum (Laburnum) @ Golden chains of drooping yellow flowers create a stunning spring spectacle.
+Goldenrod (Solidago) @ Plumes of bright yellow flowers add vibrant color to late summer and fall.
+Veronica (Veronica) @ Spikes of small, star-shaped flowers add delicate color and texture.
+Azalea (Rhododendron subsection Tsutsusi) @ Spectacular spring bloomers known for their vibrant clusters.
+Bougainvillea (Bougainvillea) @ Vibrant, papery bracts that create a spectacular display.
+Cherry Blossom (Prunus serrulata) @ Ephemeral spring bloomers, a symbol of renewal and beauty.
+Dianthus (Dianthus) @ Fragrant 'pinks' with fringed petals and spicy scent.
+Disa (Disa) @ Exotic orchids, famed for their complex and beautiful blooms.
+Evening Primrose (Oenothera) @ Flowers that open in the evening, often with a sweet fragrance.
+Gardenia (Gardenia jasminoides) @ Intensely fragrant, waxy white flowers on glossy evergreen foliage.
+Geranium (Geranium) @ Vibrant, saucer-shaped flowers and often aromatic foliage.
+Gloxinia (Sinningia speciosa) @ Velvety, bell-shaped flowers with intricate patterns.
+Jonquil (Narcissus jonquilla) @ Sweetly scented daffodils with multiple small, yellow blooms.
+Larkspur (Consolida) @ Delicate, airy spikes of flowers, often mistaken for Delphiniums.
+Lilac (Syringa) @ Fragrant, conical clusters of small flowers, a herald of spring.
+Lunaria (Lunaria annua) @ Madonna's-flower with fragrant purple or white blooms and silver seed pods.
+Mimosa (Mimosa pudica) @ Sensitive plant with delicate pink puffball flowers and sensitive leaves.
+Morning Glory (Ipomoea) @ Vining plants with trumpet-shaped flowers that open with the sun.
+Periwinkle (Vinca) @ Groundcover with bright, star-shaped flowers, often blue.
+Queen Anne's Lace (Daucus carota) @ Delicate, lace-like white flower umbels found in meadows.
+Red Hot Poker (Kniphofia) @ Striking spikes of tubular flowers resembling a burning torch.
+Scabiosa (Scabiosa) @ Pincushion-like flowers, also known as Pincushion Flower.
+Schizanthus (Schizanthus) @ Orchid-like flowers, also known as Butterfly Flower.
+Snowflake (Leucojum) @ Bell-shaped white flowers, similar to snowdrops but larger.
+Spider Lily (Hymenocallis) @ Elegant white flowers with long, spidery petals and striking fragrance.
+Star of Bethlehem (Ornithogalum) @ Star-shaped white flowers, often opening fully in sunlight.
+Thistle (Cirsium) @ Prickly plants with striking purple or pink flower heads.
+Tuberose (Polianthes tuberosa) @ Intensely fragrant white flowers prized for their perfume.
+Yarrow (Achillea) @ Flat-topped clusters of tiny flowers, often with medicinal uses.
+Chrysanthemum (Chrysanthemum morifolium) @ Abundant, star-shaped blooms, the emblem of autumn.
+Balsam (Impatiens balsamina) @ Camellia-like flowers bloom directly from leaf axils.
+Bellflower (Campanula) @ Charming bell-shaped flowers, often nodding gracefully.
+Bluestar (Amsonia tabernaemontana) @ Clusters of star-shaped blue flowers in spring.
+Browallia (Browallia americana) @ Star-shaped blue flowers that bloom profusely.
+Catchfly (Silene) @ Small, often sticky flowers that attract various insects.
+Celosia (Celosia argentea) @ Unusual, velvety flower plumes or crested heads.
+Chicory (Cichorium intybus) @ Delicate, sky-blue flowers that open with the sun.
+Chionodoxa (Glory of the Snow) (Chionodoxa) @ Early spring bulbs producing starry, star-shaped flowers.
+Dianthus (Pinks) (Dianthus plumarius) @ Frilly-edged flowers with a sweet, clove-like scent.
+Fire Lily (Gloriosa superba) @ Exotic, flame-like flowers with wavy, reflexed petals.
+Flax (Linum perenne) @ Delicate, sky-blue flowers on airy stems.
+Four O'Clock (Mirabilis jalapa) @ Flowers open in the afternoon, releasing a sweet fragrance.
+Globe Thistle (Echinops) @ Spherical, spiky flower heads resembling blue thistles.
+Jacob's Ladder (Polemonium reptans) @ Delicate, ladder-like foliage and charming blue bell flowers.
+Lychnis (Lychnis) @ Vibrant, star-shaped flowers, often with a mossy foliage.
+Malcomia (Malcomia maritima) @ Sweetly fragrant, small flowers, often grown as an annual.
+Mexican Hat (Ratibida columnifera) @ Unique cone-shaped centers with drooping ray petals.
+Nigella (Love-in-a-Mist) (Nigella damascena) @ Delicate flowers enclosed in a misty, feathery calyx.
+Nolana (Nolana) @ Low-growing plants with bell-shaped flowers resembling tiny blue eyes.
+Onosma (Onosma) @ Pendulous, tubular yellow flowers on a bushy plant.
+Oxalis (Oxalis) @ Shamrock-like foliage and delicate, clover-like flowers.
+Pasqueflower (Pulsatilla) @ Hairy, bell-shaped flowers blooming very early in spring.
+Portulaca (Moss Rose) (Portulaca grandiflora) @ Bright, cup-shaped flowers that open in full sun.
+Potentilla (Potentilla) @ Small, rose-like flowers, often blooming for a long period.
+Shasta Daisy (Leucanthemum x superbum) @ Classic, large white daisies with bright yellow centers.
+Skimmia (Skimmia japonica) @ Fragrant white flower clusters followed by bright red berries.
+St. John's Wort (Hypericum) @ Bright yellow flowers with prominent stamens, often with medicinal uses.
+Stokes' Aster (Stokesia laevis) @ Large, fringed blue daisy-like flowers.
+Summer Snapdragon (Angelonia angustifolia) @ Spikes of snapdragon-like flowers that bloom all summer.
+Thunbergia (Thunbergia alata) @ Vining plants with cheerful, often dark-centered, trumpet-shaped flowers.
+Tithonia (Mexican Sunflower) (Tithonia diversifolia) @ Vibrant orange daisy-like flowers that attract butterflies.
+Trachelium (Trachelium caeruleum) @ Large, flat-topped clusters of tiny blue flowers.
+Tradescantia (Wandering Jew) (Tradescantia zebrina) @ Trailing plants with striped foliage and small, often purplish flowers.
+Tricyrtis (Tricyrtis hirta) @ Exotic, orchid-like flowers bloom in late summer/fall.
+Trollius (Trollius) @ Globular, buttercup-like flowers that thrive in moist areas.
+Virginia Creeper (Parthenocissus quinquefolia) @ Vigorous vine with five-parted leaves, known for fall color.
+Zaluzianskya (Zaluzianskya ovata) @ Night-blooming flowers with a sweet, almond-like fragrance.
+Honeysuckle (Lonicera periclymenum) @ Sweetly fragrant, trumpet-shaped flowers that climb and twine.
+Aster (Symphyotrichum novae-angliae) @ Late-season stars with daisy-like petals, a fall garden highlight.
+Chrysanthemum (Chrysanthemum × morifolium) @ Abundant, late-season blooms in diverse shapes, a fall favorite.
+Jasmine (Jasminum officinale) @ Intensely fragrant, star-shaped white flowers, beloved for their scent.
+Petunia (Petunia × hybrida) @ Trumpet-shaped flowers that bloom profusely, ideal for containers.
+Primrose (Primula vulgaris) @ Low-growing perennial with cheerful, saucer-shaped blooms.
+Violet (Viola odorata) @ Small, intensely fragrant flowers, a symbol of modesty.
+Geranium (Pelargonium zonale) @ Bold clusters of flowers and attractive foliage, a garden favorite.
+Scabiosa (Scabiosa atropurpurea) @ Pincushion-like blooms, a delightful texture for gardens.
+Tithonia (Tithonia rotundifolia) @ Large, daisy-like orange flowers, a magnet for butterflies.
+Artemisia (Artemisia) @ Prized for its aromatic, silvery foliage, not its subtle blooms.
+Callirhoe (Callirhoe involucrata) @ Low-spreading plant with vibrant magenta-purple cups.
+Calochortus (Calochortus) @ Exquisite, often iridescent blooms native to western North America.
+Colchicum (Colchicum autumnale) @ Autumn-blooming bulbs that appear without leaves.
+Dicentra (Dicentra cucullaria) @ Delicate, fern-like foliage with unique, locket-shaped flowers.
+Doronicum (Doronicum orientale) @ Cheery, daisy-like yellow flowers for early spring color.
+Eryngium (Eryngium planum) @ Striking, spiky texture with steel-blue or silver blooms.
+Gaillardia (Gaillardia pulchella) @ Fiery, daisy-like blooms that attract butterflies.
+Liatris (Liatris spicata) @ Unique, upright spikes of fluffy, purple flowers.
+Lysimachia (Lysimachia clethroides) @ Arching wands of white flowers, a spreading groundcover.
+Mycena (Mycena) @ Tiny mushrooms, not typically grown for their floral display.
+Phygelius (Phygelius aequalis) @ Arching sprays of tubular flowers, attracting hummingbirds.
+Polygonum (Polygonum) @ Tough plants with spiky flower heads, some used ornamentally.
+Sanguisorba (Sanguisorba officinalis) @ Spiky, bottlebrush-like flower heads, adding unique texture.
+Scilla (Scilla) @ Delicate blue bells, an early harbinger of spring.
+Scutellaria (Scutellaria baicalensis) @ Skullcap flowers, medicinal herbs with distinctive helmet-like blooms.
+Silene (Silene dioica) @ Campion flowers with notched petals, often found in meadows.
+Thalictrum (Thalictrum) @ Delicate, airy foliage and airy plumes of small flowers.
+Urtica (Urtica dioica) @ Stinging nettle, grown for medicinal and culinary uses, not flowers.
+Waldsteinia (Waldsteinia ternata) @ Barren strawberry, a groundcover with small yellow flowers.
+Gazania (Gazania) @ Sun-loving flowers that close at night and on cloudy days.
+Forget-Me-Not (Myosotis scorpioides) @ Tiny, sky-blue flowers, symbolizing remembrance.
+Grape Hyacinth (Muscari) @ Tiny, grape-like clusters of blue flowers.
+Waratah (Telopea speciosissima) @ Large, spectacular crimson flower heads.
+Kookaburra Flower (Calocephalus brownii) @ Distinctive silver foliage and quirky, small yellow flower heads.
+Christmas Bush (Ceratopetalum gummiferum) @ Bright red, star-shaped sepals bloom around Christmas time.
+Wattle (Acacia) @ Iconic golden puffball flowers, a symbol of Australia.
+Jacaranda (Jacaranda mimosifolia) @ Spectacular cascades of vibrant purple-blue flowers.
+Heliconia (Heliconia) @ Exotic, brightly colored bracts resembling lobster claws.
+Ginger Flower (Zingiber officinale) @ Aromatic rhizomes and showy, exotic flower spikes.
+Moonflower (Ipomoea alba) @ Large, fragrant white flowers that open at night.
+Night-Blooming Jasmine (Cestrum nocturnum) @ Intensely fragrant small flowers that release scent at night.
+Spider Lily (Lycoris radiata) @ Striking, exotic lilies with long, arching stamens.
+Cowslip (Primula veris) @ Clusters of nodding, bell-shaped yellow flowers.
+Cow Parsley (Anthriscus sylvestris) @ Delicate, umbrella-like clusters of tiny white flowers.
+Elderflower (Sambucus nigra) @ Fragrant, flat clusters of creamy white flowers.
+Hawthorn (Crataegus monogyna) @ Fragrant clusters of white or pink flowers followed by berries.
+Flame Tree (Brachychiton acerifolius) @ Spectacular display of bright red, bell-shaped flowers.
+Kangaroo Apple (Solanum aviculare) @ Star-shaped purple or blue flowers followed by orange berries.
+Lilly Pilly (Syzygium) @ Fluffy white flowers followed by colorful berries.
+Native Iris (Patersonia) @ Delicate, short-lived purple-blue flowers.
+Native Violet (Viola hederacea) @ Low-growing groundcover with small, delicate flowers.
+Christmas Bells (Blandfordia) @ Nodding, bell-shaped flowers in striking red and yellow.
+Larkspur (Consolida ajacis) @ Tall, spiky blooms in cool shades, adding elegance to the garden.
+Azalea (Rhododendron molle) @ Profuse clusters of vibrant, trumpet-shaped flowers, a spring garden showstopper.
+Bougainvillea (Bougainvillea glabra) @ Vibrant, paper-like bracts that envelop small, insignificant flowers.
+Puschkinia (Puschkinia scilloides) @ Small spikes of delicate, star-shaped flowers with striking blue stripes.
+Grape Hyacinth (Muscari armeniacum) @ Dense, compact clusters of tiny, bead-like blue flowers resembling miniature grapes.
+Lisianthus (Eustoma grandiflorum) @ Rose-like blooms with delicate, ruffled petals, an elegant choice for bouquets.
+King Orchid (Dendrobium nobile) @ Orchids with upright stems and clustered, waxy blooms, a popular species.
+Cobra Lily (Darlingtonia californica) @ A carnivorous pitcher plant with hooded, cobra-like traps and forked 'tongues'.
+Rafflesia (Rafflesia arnoldii) @ World's largest flower, a parasitic plant with a pungent, carrion-like odor.
+Corpse Flower (Amorphophallus titanum) @ Giant, foul-smelling flower that blooms rarely, releasing a scent of decay.
+Stapelia (Stapelia gigantea) @ Star-shaped flowers with a strong carrion scent, attracting flies for pollination.
+Bacopa (Sutera cordata) @ Delicate, star-shaped flowers create a delicate, trailing effect.
+Diascia (Diascia) @ Small, intricate flowers with twin spurs bloom profusely, adding delicate color.
+Bidens (Bidens ferulifolia) @ Abundant small, yellow flowers add a cheerful, airy touch to hanging baskets.
+Eryngium (Eryngium) @ Unusual, spiky, thistle-like blooms add striking architectural interest.
+Symphytum (Symphytum officinale) @ Bell-shaped flowers grace this vigorous perennial, historically used for healing.
+Lobelia cardinalis (Lobelia cardinalis) @ Brilliant scarlet flowers attract hummingbirds to wet, sunny spots.
+Chelone (Chelone lyonii) @ Turtlehead flowers bloom in fall, offering a unique, hooded shape.
+Physostegia (Physostegia virginiana) @ Obedient plants feature tubular flowers that can be 'pushed' into new positions.
+Aruncus (Aruncus dioicus) @ Large, feathery plumes of white flowers provide a graceful, shrub-like presence.
+Kirengeshoma (Kirengeshoma palmata) @ Late-blooming yellow flowers grace this elegant woodland plant.
+Polygonatum (Polygonatum) @ Arching stems bear pendulous, bell-shaped white flowers in shady areas.
+Epimedium (Epimedium) @ Delicate, spur-like flowers adorn this tough groundcover for dry shade.
+Tiarella (Tiarella) @ Foamy spikes of white or pink flowers create airy drifts in shade gardens.
+Anemone blanda (Anemone blanda) @ Daisy-like flowers emerge in early spring, carpeting the ground.
+Iris reticulata (Iris reticulata) @ Early spring bulbs produce fragrant, delicate dwarf irises.
+Fritillaria meleagris (Fritillaria meleagris) @ Unique checkered, nodding flowers bring a whimsical charm to spring meadows.
+Zephyranthes (Zephyranthes) @ Rain lilies emerge after rainfall, producing delicate trumpet-shaped blooms.
+Crinum (Crinum) @ Large, lily-like flowers grace these impressive bulbs in warm climates.
+Agapanthus (Agapanthus) @ Globes of blue or white flowers rise on tall stalks, a summer showstopper.
+Eremurus (Eremurus) @ Towering spikes of star-shaped flowers create a dramatic focal point.
+Dierama (Dierama) @ Delicate, bell-shaped flowers dangle from arching stems like fishing rods.
+Crocosmia (Crocosmia) @ Arching stems bear vibrant, fiery flowers that bloom from mid to late summer.
+Watsonia (Watsonia) @ Tall spikes of trumpet-shaped flowers bring vibrant color in late spring and early summer.
+Dietes (Dietes) @ Iris-like flowers bloom for days, offering a constant display of charm.
+Hesperantha (Hesperantha) @ Fragrant evening-blooming flowers add scent and color in fall.
+Triteleia (Triteleia) @ Delicate, star-shaped flowers bloom in clusters on slender stems.
+Ixia (Ixia) @ Star-shaped blooms in a rainbow of colors create a delicate tapestry.
+Chasmanthe (Chasmanthe) @ Spectacular, bright orange-red flowers rise on upright, fan-shaped stems.
+Verbena (Verbena x hybrida) @ Long-blooming clusters of vibrant color, perfect for borders.
+Mint (Mentha spicata) @ Vigorous herb with aromatic leaves and small, whorled flowers.
+Borage (Borago officinalis) @ Star-shaped, vibrant blue flowers with a mild cucumber flavor.
+Chamomile (Matricaria recutita) @ Delicate, daisy-like flowers known for their calming tea.
+Marjoram (Origanum majorana) @ Aromatic herb with tiny, sweet-smelling pinkish-white flowers.
+Lavender Cotton (Santolina chamaecyparissus) @ Silvery foliage and button-like yellow flowers with a citrus scent.
+Catmint (Nepeta x faassenii) @ Foliage and spikes of fragrant lavender-blue flowers.
+Bellflower (Campanula carpatica) @ Charming, cup-shaped flowers resembling little bells.
+Astilbe (Astilbe japonica) @ Plumes of feathery flowers add texture to shady spots.
+Coral Bells (Heuchera micrantha) @ Delicate, bell-shaped flowers rise above attractive foliage.
+Lungwort (Pulmonaria officinalis) @ Early spring blooms and attractive spotted foliage.
+Fern (Matteuccia struthiopteris) @ Lush, vase-shaped fronds creating a verdant woodland feel.
+Daylily (Hemerocallis fulva) @ Hardy perennials with trumpet-shaped flowers that bloom daily.
+Oriental Lily (Lilium 'Stargazer') @ Intensely fragrant, large pink and red blooms.
+Asiatic Lily (Lilium x asiaticum) @ Bold, unscented flowers in a wide range of vibrant colors.
+Gomphrena (Gomphrena globosa) @ Durable, globe-shaped flowers perfect for drying.
+Yarrow (Achillea millefolium 'Paprika') @ Flat-topped clusters of fiery red and yellow flowers.
+Columbine (Aquilegia chrysantha) @ Long-spurred, golden-yellow flowers with a graceful appearance.
+Geum (Geum) @ Charming, cup-shaped flowers blooming in shades of red and orange.
+Lamium (Lamium maculatum) @ Groundcover with attractive silver-variegated leaves and small flowers.
+Ajuga (Ajuga reptans) @ Low-growing evergreen groundcover with attractive foliage and blue flower spikes.
+Corydalis (Corydalis) @ Fern-like foliage topped with clusters of airy, tubular flowers.
+Mertensia (Mertensia virginica) @ Bell-shaped blue flowers that emerge pink and turn a lovely blue.
+Claytonia virginica (Claytonia virginica) @ Low-growing spring ephemeral with delicate, star-shaped flowers.
+Hyacinthoides hispanica (Hyacinthoides hispanica) @ Bell-shaped flowers on arching stems create a spring woodland effect.
+Fritillaria imperialis (Fritillaria imperialis) @ Towering stems topped with rings of dramatic, pendulous flowers.
+Hoya (Hoya carnosa) @ Waxy, star-shaped flowers in fragrant clusters.
+Streptocarpus (Streptocarpus) @ Large, ruffled flowers bloom from a single, large leaf.
+Calathea (Calathea) @ Striking foliage patterns, often with small, decorative flowers.
+Alocasia (Alocasia) @ Dramatic, arrow-shaped leaves often with striking veining.
+Philodendron (Philodendron) @ Vining or upright plants with deeply lobed or heart-shaped leaves.
+Syngonium podophyllum (Syngonium podophyllum) @ Arrowhead-shaped leaves change form as the plant matures.
+Chlorophytum comosum (Chlorophytum comosum) @ Arching green leaves with white stripes, producing 'spiderettes'.
+Rudbeckia (Rudbeckia) @ Radiant daisy-like flowers with prominent dark centers.
+Shasta Daisy (Leucanthemum × superbum) @ Classic white daisy with bright yellow centers, a garden staple.
+Torenia (Torenia fournieri) @ Charming, 'wishbone' shaped flowers for shady gardens.
+Agapanthus (Agapanthus praecox) @ Large globes of blue or white flowers atop tall stems.
+Amaranth (Amaranthus) @ Dramatic, cascading plumes and colorful foliage.
+Arisaema (Arisaema) @ Exotic, hooded flowers with a central 'spadix'.
+Asclepias (Asclepias) @ Milkweed, vital for Monarch butterflies, with vibrant umbels.
+Cimicifuga (Actaea racemosa) @ Tall, feathery white spires, adding elegant verticality to shade gardens.
+Clarkia (Clarkia) @ Delicate, cup-shaped flowers that bloom profusely in summer.
+Collinsia (Collinsia) @ Unique bi-colored flowers, blooming in whorls along the stem.
+Coreopsis verticillata (Coreopsis verticillata) @ Thread-leaf coreopsis with masses of bright yellow daisy flowers.
+Cynara cardunculus (Cynara cardunculus) @ Edible artichoke relative with large, thistle-like purple blooms.
+Dicentra (Dicentra) @ Heart-shaped blooms with a dangling drop, a whimsical woodland gem.
+Doronicum (Doronicum) @ Cheerful, daisy-like yellow flowers that bloom in early spring.
+Dracunculus (Dracunculus vulgaris) @ Gigantic, foul-smelling 'dragon' flower that blooms in early summer.
+Echium candicans (Echium candicans) @ Towering spikes of blue, fuzzy flowers attracting bees.
+Felicia amelloides (Felicia amelloides) @ Bright blue daisy-like flowers with yellow centers.
+Galax urceolata (Galax urceolata) @ Low-growing woodland plant with attractive basal leaves and tiny white flowers.
+Gentiana (Gentiana) @ Deep blue, trumpet-shaped flowers, a jewel of alpine meadows.
+Gypsophila (Gypsophila) @ Cloud-like masses of tiny flowers, a classic filler for bouquets.
+Helianthemum (Helianthemum) @ Low-growing shrub with sun-loving, papery flowers.
+Hibbertia (Hibbertia) @ Native Australian groundcover with bright yellow, cup-shaped flowers.
+Hunnemannia (Hunnemannia fumariifolia) @ Mexican Tulip Poppy with beautiful, papery yellow flowers.
+Ixiolirion (Ixiolirion) @ Delicate, star-like blue flowers on slender stems.
+Lamium (Lamium) @ Groundcover with attractive silver-variegated foliage and small flowers.
+Leonotis leonurus (Leonotis leonurus) @ Fuzzy, orange, whorled flowers resembling lion's mane.
+Limonium (Limonium) @ Airy clusters of papery flowers, popular for dried arrangements.
+Linaria (Linaria) @ Delicate, snapdragon-like flowers on trailing or upright stems.
+Lysimachia (Lysimachia) @ Spikes or clusters of star-shaped flowers, often groundcovers.
+Mathiola (Matthiola) @ Fragrant spikes of densely packed, ruffled flowers.
+Melampodium paludosum (Melampodium paludosum) @ Cheerful, prolific yellow daisy-like flowers for sunny spots.
+Myrrhis odorata (Myrrhis odorata) @ Sweetly anise-scented herb with delicate white flowers.
+Pachysandra terminalis (Pachysandra terminalis) @ Evergreen groundcover with small, white flower spikes in spring.
+Paulownia tomentosa (Paulownia tomentosa) @ Fast-growing tree with large, fragrant, trumpet-shaped flowers.
+Phlomis (Phlomis) @ Unusual whorls of yellow flowers on architectural, fuzzy stems.
+Physalis (Physalis) @ Edible fruits enclosed in papery, lantern-like husks.
+Polemonium (Polemonium) @ Jacob's Ladder with ladder-like foliage and delicate, often blue, flowers.
+Rehmannia (Rehmannia) @ Tubular, foxglove-like flowers on spreading plants.
+Rhodiola (Rhodiola) @ Succulent foliage with clusters of star-shaped flowers, adapted to harsh climates.
+Ricinus communis (Ricinus communis) @ Dramatic foliage and striking, spiky seed pods.
+Robinia pseudoacacia 'Frisia' (Robinia pseudoacacia 'Frisia') @ Golden foliage tree with fragrant white flower clusters.
+Rorippa sylvestris (Rorippa sylvestris) @ Creeping yellow flowers found in wet areas.
+Rotheca trichotomum (Rotheca trichotomum) @ Exotic blue flowers followed by striking turquoise berries.
+Rudbeckia fulgida 'Goldsturm' (Rudbeckia fulgida 'Goldsturm') @ Iconic black-eyed Susan with golden petals and dark centers.
+Sambucus nigra 'Black Lace' (Sambucus nigra 'Black Lace') @ Deeply cut, dark purple foliage with contrasting white flower clusters.
+Sanguisorba (Sanguisorba) @ Feathery spikes of bottlebrush-like flowers.
+Saponaria (Saponaria) @ Low-growing groundcover with clusters of pink flowers.
+Scindapsus pictus (Scindapsus pictus) @ Trailing houseplant with velvety, silver-splashed leaves.
+Scutellaria (Scutellaria) @ Skullcap with unique helmet-shaped flowers, often for medicinal use.
+Setcreasea pallida 'Purple Heart' (Setcreasea pallida 'Purple Heart') @ Vivid purple foliage and delicate pink-purple flowers.
+Sisyrinchium (Sisyrinchium) @ Small, star-like flowers resembling miniature irises.
+Symphoricarpos (Symphoricarpos) @ Shrubs with decorative berries, often called 'snowberry'.
+Tagetes tenuifolia (Tagetes tenuifolia) @ Single-petaled marigolds with a more delicate, airy appearance.
+Thymus (Thymus) @ Fragrant herb with tiny flowers, useful in culinary and medicinal applications.
+Tricyrtis (Tricyrtis) @ Toad Lily with unique, orchid-like speckled flowers for shady spots.
+Tropaeolum (Tropaeolum) @ Nasturtium with edible flowers and peppery taste.
+Vaccinium corymbosum (Vaccinium corymbosum) @ Highbush blueberry with delicate white flowers and delicious blue fruit.
+Valerianella locusta (Valerianella locusta) @ Corn salad, a cool-season salad green with tiny, delicate flowers.
+Verbascum (Verbascum) @ Tall, stately spikes of flowers, often with fuzzy foliage.
+Vitis vinifera (Vitis vinifera) @ The common grape vine, grown for fruit and attractive foliage.
+Wahlenbergia (Wahlenbergia) @ Delicate, bell-shaped flowers, often found in Australia and New Zealand.
+Weigela (Weigela) @ Shrub with trumpet-shaped flowers, blooming in late spring.
+Xeranthemum annuum (Xeranthemum annuum) @ Everlasting flower, perfect for dried arrangements.
+Xyris (Xyris) @ Yellow-eyed grasses, native to wet, boggy areas.
+Ypsilandra thibetica (Ypsilandra thibetica) @ Rare woodland plant with elegant spikes of white, lily-like flowers.
+Zizia (Zizia) @ Native meadow plant with clusters of yellow flowers.
+Aconitum (Aconitum) @ Hooded flowers, often in striking blues and purples, but are toxic.
+Angelonia (Angelonia) @ Upright spikes of snapdragon-like flowers, blooming tirelessly.
+Ballota (Ballota nigra) @ Aromatic, fuzzy leaves and small, unusual tubular flowers.
+Baptisia (Baptisia) @ Shrub-like perennials with lupine-like flower spikes.
+Bells of Ireland (Moluccella laevis) @ Unusual, bell-shaped green calyxes, adding unique texture to arrangements.
+Bergenia (Bergenia) @ Evergreen foliage with clusters of pink or white spring flowers.
+Bidens (Bidens) @ Daisy-like flowers, often bright yellow, cascading from hanging baskets.
+Calceolaria (Calceolaria) @ Unusual pouch-like flowers that give them their common name 'slipper flower'.
+Cerinthe (Cerinthe major) @ Unusual, drooping bell-shaped flowers with attractive blue-grey foliage.
+Cheiranthus (Cheiranthus cheiri) @ Fragrant, clustered flowers often found clinging to walls and rocky areas.
+Euphorbia (Euphorbia) @ Diverse group with striking bracts often mistaken for petals.
+Habenaria (Habenaria radiata) @ Exquisite white orchid flowers resembling small, delicate cranes.
+Halimium (Halimium) @ Small, sun-loving shrubs with delicate, papery flowers.
+Houttuynia (Houttuynia cordata) @ Heart-shaped leaves and fragrant, white, star-like flowers.
+Lantana (Lantana) @ Clusters of brightly colored flowers that attract butterflies.
+Meconopsis (Meconopsis) @ Stunning, sky-blue poppies, a prized flower of Himalayan regions.
+Myrtus (Myrtus communis) @ Evergreen shrub with fragrant leaves and delicate white flowers.
+Nerine (Nerine) @ Striking clusters of lily-like flowers that bloom in autumn.
+Onopordum (Onopordum acanthium) @ Large, architectural plants with thistle-like purple flowers.
+Osmanthus (Osmanthus fragrans) @ Shrub with incredibly fragrant white flowers, smelling of apricot.
+Par... (Parthenium argentatum) @ Silver-green foliage and small white flower heads.
+Petasites (Petasites) @ Large, rhubarb-like leaves and flower stalks that emerge before leaves.
+P... (Pimpinella anisum) @ Delicate white flowers of the aromatic herb known for its anise flavor.
+Ribes (Ribes) @ Shrubs often grown for their edible berries and attractive flowers.
+Senecio (Senecio) @ Diverse group including many popular flowering plants and succulents.
+Sidalcea (Sidalcea) @ Upright spikes of cup-shaped pink or purple flowers.
+Stephanandra (Stephanandra incisa) @ Arching shrub with intricate foliage and small, greenish-white flowers.
+Thermopsis (Thermopsis) @ Spikes of bright yellow, lupine-like flowers.
+Valerian (Valeriana officinalis) @ Fragrant clusters of small pink or white flowers, known for medicinal use.
+Veratrum (Veratrum) @ Large, dramatic foliage with tall flower spikes, but is toxic.
+Viburnum (Viburnum) @ Shrubs with clusters of white or pink flowers, often followed by berries.
+Wulfenia (Wulfenia carinthiaca) @ Rare alpine plant with spikes of vibrant blue flowers.
+Zauschneria (Zauschneria) @ Vibrant orange-red flowers that bloom in late summer and fall.
+Zenobia (Zenobia pulverulenta) @ Evergreen shrub with silvery foliage and pendulous white bell-shaped flowers.
+Begonia 'Dragon Wing' (Begonia 'Dragon Wing') @ Showy clusters of red or pink flowers with attractive foliage.
+Pansy (Viola × wittrockiana) @ Cheery 'faces' that bring color to cool seasons.
+Godetia (Clarkia amoena) @ Satin-like flowers in shades of pink and red.
+Achillea 'Moonshine' (Achillea 'Moonshine') @ Silvery foliage topped with bright yellow flower heads.
+Eschecholzia (Eschscholzia) @ Vibrant poppy-like flowers that thrive in sunny, dry conditions.
+Amsonia (Amsonia) @ Delicate blue star-shaped flowers on a shrubby perennial.
+Heuchera 'Palace Purple' (Heuchera micrantha 'Palace Purple') @ Rich burgundy-purple foliage with delicate white flower spikes.
+Hosta 'Francee' (Hosta 'Francee') @ Classic hosta with dark green leaves and white edges.
+Cimicifuga (Actaea) @ Tall spikes of bottlebrush-like white flowers.
+Dicentra eximia (Dicentra eximia) @ Fringed heart-shaped flowers bloom throughout summer.
+Brownea (Brownea) @ Dramatic, pendulous clusters of scarlet flowers, like a botanical marvel.
+Ipheion uniflorum (Ipheion uniflorum) @ Star-shaped flowers that emit a slight oniony scent when disturbed.
+Leucojum aestivum (Leucojum aestivum) @ Elegant, nodding white bell flowers with green tips.
+Alliums (Allium) @ Globular clusters of star-shaped flowers atop tall, sturdy stalks.
+Dictamnus albus (Dictamnus albus) @ Fragrant spikes of pink or white flowers that can cause a mild burn.
+Ptilotus exaltatus (Ptilotus exaltatus) @ Unusual, fuzzy pink or purple flower spikes resembling bottle brushes.
+Strelitzia nicolai (Strelitzia nicolai) @ Giant, tree-like plant with banana-like leaves and bird-like white flowers.
+Brachychiton (Brachychiton) @ Bell-shaped flowers that emerge on bare branches, often in vibrant red.
+Sturt's Desert Pea (Swainsona formosa) @ Brilliant crimson flowers with a distinctive black center, a desert jewel.
+Waratah (Telopea) @ Large, dramatic crimson flower heads, a spectacular Australian native.
+Nemophila (Nemophila) @ Charming, cup-shaped blue flowers reminiscent of the night sky.
+Browallia (Browallia) @ Shade-loving plants with star-shaped blue flowers.
+Cheiranthus (Cheiranthus) @ Fragrant, sweet-smelling flowers, often associated with spring.
+Chrysogonum (Chrysogonum virginianum) @ Low-growing perennial with bright yellow, star-shaped flowers.
+Cineraria (Senecio × hybridus) @ Brightly colored, daisy-like flowers perfect for shady spots.
+Dodecatheon (Dodecatheon) @ Shooting-star flowers that nod gracefully on slender stems.
+Echium (Echium) @ Towering spikes of vibrant, often fuzzy, tubular flowers.
+Euonymus (Euonymus) @ Primarily ornamental for its foliage and colorful fruit.
+Evolvulus (Evolvulus) @ Low-growing plants with delicate, sky-blue, funnel-shaped flowers.
+Exacum (Exacum affine) @ Charming, fragrant blue flowers, popular as a small houseplant.
+Ficaria (Ficaria verna) @ Early spring groundcover with bright, glossy yellow flowers.
+Glandularia (Glandularia) @ Clusters of small flowers, often trailing and great for attracting butterflies.
+Iberis (Iberis) @ Clusters of small, fragrant flowers, often used as groundcover or in rock gardens.
+Incarvillea (Incarvillea) @ Trumpet-shaped flowers, often compared to hardy lilies.
+Jasminum polyanthum (Jasminum polyanthum) @ Abundant clusters of intensely fragrant pink-budded white flowers.
+Lathyrus (Lathyrus) @ Climbing vines with beautiful, often fragrant pea-like flowers.
+Macropodium (Macropodium nivale) @ Small, delicate white flowers, forming a dense mat.
+Malcolmia (Malcolmia maritima) @ Low-growing annual with sweet-scented, small flowers, ideal for borders.
+Mertensia (Mertensia) @ Bell-shaped blue flowers, often found in woodland settings.
+Nemesia (Nemesia) @ Intricate, often bi-colored flowers with a sweet fragrance.
+Ourisia (Ourisia) @ Small, bell-shaped flowers for cool, moist, shady conditions.
+Parochetus (Parochetus communis) @ Low-growing clover-like plant with beautiful blue pea-like flowers.
+Petrocoptis (Petrocoptis) @ Small, cushion-forming plants with pink flowers for rocky areas.
+Phacelia (Phacelia) @ Vibrant blue or purple flowers, beneficial for pollinators.
+Phygelius (Phygelius) @ Trumpet-shaped flowers that add a splash of vibrant color.
+Pimelea (Pimelea) @ Small, clustered flowers, often with a papery texture.
+Prunella (Prunella) @ Spikes of small, dense flowers, attractive to bees.
+Pyrus (Pyrus) @ Ornamental trees producing abundant white spring blossoms.
+Robinia (Robinia) @ Flowering trees with fragrant, pea-like blossoms.
+Ruellia (Ruellia) @ Trumpet-shaped flowers that bloom prolifically, attracting butterflies.
+Salpiglossis (Salpiglossis sinuata) @ Velvety, trumpet-shaped flowers with intricate veining.
+Santolina (Santolina) @ Aromatic foliage with button-like yellow flower heads.
+Scabiosa caucasica (Scabiosa caucasica) @ Large, pincushion-like flowers with a delicate, airy appearance.
+Scolymus (Scolymus hispanicus) @ Spiny plant with bright yellow thistle-like flowers.
+Serapias (Serapias) @ Small, fascinating terrestrial orchids with dark, intricate blooms.
+Stevia (Stevia rebaudiana) @ Small white flowers on a plant prized for its natural sweetener.
+Symphytum (Symphytum) @ Bell-shaped flowers on sturdy plants, often used in herbal remedies.
+Talinum (Talinum) @ Succulent foliage with delicate, star-shaped flowers.
+Vaccinium (Vaccinium) @ Shrubs producing delicate flowers and flavorful edible berries.
+Valeriana (Valeriana) @ Fragrant flower clusters, often used for their medicinal properties.
+Viola cornuta (Viola cornuta) @ Horned pansy with continuous blooms and a sweet fragrance.
+Virburnum plicatum (Viburnum plicatum) @ Japanese Snowball bush with showy, white, snowball-like flower clusters.
+Weberbauerella (Weberbauerella) @ A rare genus of flowering plants with yellow blooms.
+Xanthisma (Xanthisma) @ Small, daisy-like flowers with ray florets that often twist.
+Zygopetalum (Zygopetalum) @ Fragrant orchids with striking green and purple blooms.
+African Daisy (Dimorphotheca pluvialis) @ Bright, cheerful daisy-like blooms that brighten any garden space.
+Cineraria (Senecio cruentus) @ Vibrant, daisy-like flowers for shady, cool spots.
+Schizanthus (Schizanthus pinnatus) @ Orchid-like flowers, resembling tiny butterfly masks.
+Oleander (Nerium oleander) @ Evergreen shrub with showy, trumpet-shaped flowers; highly toxic.
+Plum Blossom (Prunus mume) @ Early spring blossoms signaling renewal and new beginnings.
+Abutilon (Abutilon) @ Bell-shaped flowers with attractive, maple-like foliage.
+Ageratum (Ageratum houstonianum) @ Fluffy, powder-puff blooms in shades of blue and purple.
+Asteriscus (Asteriscus maritimus) @ Bright yellow, daisy-like flowers with a slightly spiky appearance.
+Aucuba (Aucuba japonica) @ Glossy, evergreen leaves and bright red berries in winter.
+Bambusa (Bambusa multiplex) @ Clumping bamboo with elegant green culms and leafy foliage.
+Chorizema (Chorizema cordatum) @ Pea-like flowers in vibrant hues, native to Western Australia.
+Cistus (Cistus) @ Showy, papery flowers resembling wild roses on evergreen shrubs.
+Cynoglossum (Cynoglossum) @ Small, delicate blue flowers resembling forget-me-nots.
+Cytisus (Cytisus scoparius) @ Shrubs with a profusion of pea-like flowers, often cascading.
+Eremurus (Eremurus robustus) @ Towering spikes of star-shaped flowers, dramatic garden features.
+Escallonia (Escallonia) @ Glossy-leaved shrubs with clusters of small, tubular flowers.
+Fascicularia (Fascicularia bicolor) @ Rosette-forming bromeliad with striking red and blue floral displays.
+Ferreola (Ferula communis) @ Tall, imposing plant with umbrella-like clusters of small yellow flowers.
+Gelsemium (Gelsemium sempervirens) @ Fragrant, trumpet-shaped yellow flowers on a twining evergreen vine.
+Genista (Genista) @ Shrubs with profuse yellow, pea-like flowers.
+Halesia (Halesia carolina) @ Delicate, bell-shaped white flowers cascading from bare branches in spring.
+Hamamelis (Hamamelis mollis) @ Fragrant, spidery yellow flowers that bloom in winter.
+Hibbertia (Hibbertia scandens) @ Bright yellow, saucer-shaped flowers on a scrambling shrub.
+Hylotelephium (Hylotelephium spectabile) @ Succulent leaves and large, flat-topped clusters of pink flowers.
+Indigofera (Indigofera tinctoria) @ Shrubs producing spikes of pink or purple pea-like flowers.
+Inula (Inula) @ Large, daisy-like yellow flowers, often with ray florets.
+Isotoma (Isotoma axillaris) @ Star-shaped blue flowers on a bushy plant, perfect for borders.
+Ixora (Ixora coccinea) @ Clusters of vibrant, star-shaped flowers on a tropical shrub.
+Petunia (Petunia × atkinsiana) @ Trumpet-shaped flowers bloom prolifically in gardens.
+Plumeria (Plumeria rubra) @ Fragrant tropical flowers used for leis and perfumes.
+Mock Orange (Philadelphus coronarius) @ Fragrant white flowers reminiscent of orange blossoms.
+Spirea (Spiraea japonica) @ Ornamental shrubs with masses of small flowers.
+Weigela (Weigela florida) @ Arching shrubs with trumpet-shaped flowers in spring and summer.
+Begonia Rex (Begonia rex) @ Striking foliage with intricate patterns and metallic sheens.
+Amaryllis (Amaryllis belladonna) @ Large, trumpet-shaped flowers bloom from bare stalks in autumn.
+Begonia Tuberhybrida (Begonia × tuberhybrida) @ Large, ruffled flowers in a wide spectrum of bold colors.
+Campanula (Campanula medium) @ Bell-shaped flowers in shades of blue, purple, pink, and white.
+Lysimachia (Lysimachia punctata) @ Clusters of bright yellow, star-shaped flowers.
+Passiflora (Passiflora caerulea) @ Intricate, exotic flowers with a complex structure.
+Rheum (Rheum rhabarbarum) @ Edible stalks with large, dramatic foliage and small flowers.
+Sedum (Sedum telephium) @ Succulent foliage with clusters of star-shaped flowers in late summer.
+Catnip (Nepeta cataria) @ Aromatic leaves and spikes of pale flowers, irresistible to felines.
+Buttercup (Ranunculus acris) @ Cheerful, glossy yellow flowers that carpet meadows in spring and summer.
+Sparaxis (Sparaxis) @ Star-shaped flowers in bold colors, a striking addition to the garden.
+Dandelion (Taraxacum officinale) @ Ubiquitous yellow flowers that transform into whimsical seed-puff spheres.
+Chamomile (Matricaria chamomilla) @ Delicate daisy-like flowers with a sweet, apple-like aroma.
+Helenium (Helenium) @ Masses of cheerful, daisy-like flowers in warm autumn hues.
+Calliopsis (Coreopsis tinctoria) @ Bi-colored ray florets with golden tips and rich red bases.
+Eupatorium (Eupatorium) @ Large, showy clusters of small flowers that attract abundant pollinators.
+Joe-Pye Weed (Eutrochium purpureum) @ Tall, stately plants crowned with large, fluffy clusters of pinkish-purple flowers.
+Aster (Aster novae-angliae) @ Vibrant purple to pink daisy-like flowers blooming prolifically in fall.
+Creeping Phlox (Phlox subulata) @ Low-growing mats covered in a profusion of small, star-shaped flowers.
+Albizia (Albizia julibrissin) @ Delicate, feathery pink flowers that resemble silk threads.
+Mesquite (Prosopis glandulosa) @ Fragrant, creamy-yellow flower spikes blooming on thorny shrubs or trees.
+Locust Tree (Robinia pseudoacacia) @ Cascading clusters of fragrant white flowers, a common roadside bloom.
+Erythrina (Erythrina) @ Brilliant red or orange, pea-shaped flowers that create a dramatic display.
+Calliandra (Calliandra) @ Fuzzy, powder-puff like flowers with prominent, colorful stamens.
+Indigofera (Indigofera) @ Small, pea-like flowers arranged in dense spikes or racemes.
+Dalea (Dalea) @ Spikes of small, colorful flowers, often with a sweet fragrance.
+Astragalus (Astragalus) @ Pea-like flowers that form distinctive seed pods, often with a mild fragrance.
+Caragana (Caragana arborescens) @ Bright yellow, pea-like flowers on thorny shrubs, hardy in cold climates.
+Coursetia (Coursetia) @ Showy pea-like flowers that bloom in arid and semi-arid regions.
+Glycyrrhiza (Glycyrrhiza glabra) @ Small, pale violet flowers followed by pods; source of licorice.
+Medicago (Medicago sativa) @ Small, coiled pods and purple or yellow flowers, a vital forage crop.
+Onobrychis (Onobrychis viciifolia) @ Spikes of pink or white flowers, often found in meadows and pastures.
+Psoralea (Psoralea corylifolia) @ Small, pea-like blue flowers; seeds used in traditional Indian medicine.
+Trifolium (Trifolium pratense) @ Globular clusters of pinkish-red flowers, a common and beneficial clover.
+Vicia (Vicia faba) @ Large, white or purple flowers followed by edible pods containing beans.
+Parkia (Parkia speciosa) @ Giant, spherical flower heads that hang prominently from long stalks.
+Flowering Peach (Prunus persica) @ Abundant, showy flowers precede fruit on these ornamental trees.
+Crabapple (Malus) @ Spring blossoms followed by decorative, small fruits.
+Birdwing Butterfly Flower (Triumfetta semitriloba) @ Small, yellow flowers resembling tiny butterflies.
+Star Jasmine (Trachelospermum jasminoides) @ Intensely fragrant white star-shaped flowers on a vigorous vine.
+Lemongrass (Cymbopogon citratus) @ Fragrant grass valued for culinary uses and subtle, grassy blooms.
+Blue-Eyed Grass (Sisyrinchium bermudiana) @ Tiny, star-like blue flowers resembling miniature irises.
+Honeysuckle Trumpet (Lonicera sempervirens) @ Tubular, coral-red flowers attract hummingbirds to this native vine.
+Turtlehead (Chelone) @ Hooded flowers resemble a turtle's head, thriving in moist areas.
+Icelandic Poppy (Papaver nudicaule) @ Ethereal, papery blooms in a soft color palette.
+Centaurea (Centaurea) @ Distinctive thistle-like flowers in various colors.
+Helichrysum (Helichrysum bracteatum) @ Dry, papery flowers retain their color when dried.
+Euryops (Euryops virgineus) @ Bright yellow daisy-like flowers provide continuous bloom.
+Arctotis (Arctotis) @ Large, colorful daisy-like blooms.
+Orchid (Phalaenopsis spp.) @ Exotic and elegant, with intricate patterns and diverse forms.
+Coreopsis (Coreopsis grandiflora) @ Cheerful, yellow daisy-like flowers that bloom for long periods.
+Forget-Me-Not (Myosotis alpestris) @ Tiny, bright blue flowers with a yellow eye.
+Saxifrage (Saxifraga) @ Low-growing plants with star-shaped flowers, often found on rocks.
+Rhodiola (Rhodiola rosea) @ Succulent leaves topped with bright clusters of flowers.
+Penstemon (Penstemon barbatus) @ Tubular flowers on tall spikes, attracting hummingbirds.
+Bromeliad (Aechmea fasciata) @ Architectural foliage topped with striking, colorful flower spikes.
+Poppy (Papaver somniferum) @ Large, delicate papery flowers with dark centers.
+Feverfew (Tanacetum parthenium) @ Small, daisy-like flowers with medicinal properties.
+Rue (Ruta graveolens) @ Foliage plant with clusters of small, yellow flowers.
+Bromeliad (Guzmania lingulata) @ Architectural foliage topped with vibrant, long-lasting, often brightly colored flower bracts.
+Pansy (Viola tricolor hortensis) @ Charming 'faces' with velvety petals, brightening cool-season gardens.
+Alstroemeria (Peruvian Lily) (Alstroemeria aurea) @ Exotic, lily-like blooms with speckled petals, long-lasting as cut flowers.
+Calibrachoa (Million Bells) (Calibrachoa hybrida) @ Cascading masses of small, petunia-like flowers in a vast color range.
+Cilantro (Coriander) (Coriandrum sativum) @ Aromatic herb with delicate white or pink flowers, known for its culinary leaves and seeds.
+Cuphea (Cuphea hyssopifolia) @ Small, prolific flowers in vibrant colors, attracting pollinators.
+Diascia (Diascia barberae) @ Small, twin-lobed flowers with a delicate, cascading habit.
+Euonymus (Euonymus fortunei) @ Grown for its vibrant, variegated foliage rather than showy flowers.
+Heuchera (Coral Bells) (Heuchera sanguinea) @ Delicate bell-shaped flowers atop tall stalks, complementing colorful foliage.
+Nemesia (Nemesia strumosa) @ Small, intricate flowers with a playful 'face', blooming prolifically.
+Pavonia (Pavonia multiflora) @ Shrubby plant with hibiscus-like flowers, offering continuous blooms.
+Petasites (Butterbur) (Petasites hybridus) @ Large, attractive foliage with early spring spikes of pinkish-white flowers.
+Physocarpus (Ninebark) (Physocarpus opulifolius) @ Ornamental shrub with clusters of white flowers and peeling bark.
+Polygonum (Polygonum orientale) @ Vigorous vines or groundcovers with clusters of small flowers.
+Rehmannia (Rehmannia elata) @ Trumpet-shaped flowers with spotted throats, growing on arching stems.
+Saponaria (Soapwort) (Saponaria officinalis) @ Fragrant pink flowers with a history of use for cleaning.
+Vinca (Vinca rosea) @ Glossy-leaved plants with bright, five-petaled flowers.
+Bleeding Heart Vine (Clerodendrum thomsoniae) @ Intricate red and white flowers resembling hearts.
+Dittany of Crete (Origanum dictamnus) @ Small, fuzzy leaves topped with delicate pinkish-white flowers.
+Gilia (Gilia) @ Delicate clusters of star-shaped flowers, often in pastel hues.
+Kalanchoe (Kalanchoe) @ Succulent plant with clusters of brightly colored, long-lasting flowers.
+Koelreuteria (Koelreuteria paniculata) @ Showy panicles of yellow flowers followed by lantern-like seed pods.
+Kooigoed (Helichrysum italicum) @ Aromatic plant with small yellow flower clusters and curry-like scent.
+Liatris (Liatris) @ Spikes of fuzzy, feather-like flowers that bloom from the top down.
+Mahonia (Mahonia aquifolium) @ Spiky, holly-like foliage with clusters of bright yellow flowers.
+Malva (Malva) @ Simple, cup-shaped flowers often found in meadows and hedgerows.
+Mandevilla (Mandevilla) @ Tropical vines with large, trumpet-shaped flowers.
+Mexican Bush Sage (Leucophyllum frutescens) @ Silvery foliage and masses of vibrant purple flowers after rain.
+Mexican Evening Primrose (Oenothera speciosa) @ Large, delicate pinkish-white flowers that open in the morning.
+Mona Lavender (Plectranthus 'Mona Lavender') @ Clusters of deep purple flower spikes on glossy dark foliage.
+Musk Mallow (Malva moschata) @ Delicate, five-petaled flowers with a faint musk scent.
+Nigella (Nigella) @ Intricate, delicate flowers followed by attractive seed pods.
+Oakleaf Hydrangea (Hydrangea quercifolia) @ Unique oak-shaped leaves and cone-shaped white flower clusters.
+Ocean Spray (Holodiscus discolor) @ Cascading plumes of creamy white flowers in summer.
+Our Lord's Candle (Hesperoyucca whipplei) @ Tall spike of white bell-shaped flowers on a rosette of leaves.
+Oxeye Daisy (Leucanthemum vulgare) @ Classic meadow daisy with white petals and a yellow center.
+Pandanus (Pandanus) @ Tropical plants with distinctive spiral-arranged leaves.
+Paperwhites (Narcissus papyraceus) @ Fragrant white daffodils, often forced indoors for winter blooms.
+Peucedanum (Peucedanum) @ Umbels of small white flowers, related to carrots and parsley.
+Pineapple Lily (Eucomis) @ Striking spike of star-shaped flowers topped with a leafy crest.
+Plumbago (Plumbago auriculata) @ Clusters of delicate, sky-blue flowers on a sprawling shrub.
+Polyanthus Primrose (Primula x polyantha) @ Clusters of cheerful flowers in a wide range of bright colors.
+Ponderosa Pine (Pinus ponderosa) @ Majestic pine tree with long needles and large cones.
+Prince's Feather (Amجهات maritimus) @ Tall spikes of feathery, deep red or purple flowers.
+Ptilotus (Ptilotus) @ Unique, fluffy flower spikes, often described as resembling a fox's tail.
+Puttyroot (Aplectrum hyemale) @ A woodland orchid with a single leaf and tall spike of greenish-brown flowers.
+Red Maple (Acer rubrum) @ Spectacular red fall color and small red spring flowers.
+Ribes sanguineum (Ribes sanguineum) @ Deciduous shrub with clusters of pinkish-red spring flowers.
+Sand Verbena (Abronia) @ Low-growing plants with clusters of fragrant, showy flowers.
+Sanvitalia (Sanvitalia procumbens) @ Low-growing groundcover with abundant small yellow daisy-like flowers.
+Scaevola (Scaevola) @ Fan-shaped flowers on trailing stems, a unique fan flower.
+Serissa (Serissa japonica) @ Small, delicate white flowers on woody stems, often grown as bonsai.
+Silver Sage (Salvia argentea) @ Large, woolly silver leaves with tall spikes of white flowers.
+Silverberry (Elaeagnus) @ Shrub with silvery foliage and small, fragrant, inconspicuous flowers.
+Siren (Siren) @ Low-growing plants with striking blue or purple flowers.
+Skunk Cabbage (Symplocarpus foetidus) @ Unusual woodland plant with a foul-smelling spathe that blooms early.
+Smilacina (Maianthemum racemosum) @ Woodland plant with plumes of small white flowers and red berries.
+Smooth Hydrangea (Hydrangea arborescens) @ Shrub with large, rounded clusters of white flowers that can turn pink.
+Snakeroot (Ageratina altissima) @ Woodland native with clusters of white flowers and toxic foliage.
+Solanum (Solanum) @ Diverse genus including potatoes, tomatoes, and ornamental plants.
+Southernwood (Artemisia abrotanum) @ Aromatic herb with feathery foliage and small yellow flower heads.
+Spider Flower (Cleome hassleriana) @ Unusual flowers with prominent stamens that resemble spiders.
+Spigelia (Spigelia) @ Woodland perennial with bright red, star-shaped flowers.
+Spiraea (Spiraea) @ Deciduous shrubs with clusters of small white or pink flowers.
+Strawflower (Xerochrysum bracteatum) @ Papery, everlasting flowers that retain their color when dried.
+Sunshine Mimosa (Mimosa strigillosa) @ Low-growing groundcover with sensitive leaves and fluffy pink flowers.
+Tangerine Dream Poppy (Papaver somniferum 'Tangerine Dream') @ Vibrant orange poppy with large, papery petals.
+Tansy (Tanacetum vulgare) @ Clusters of button-like yellow flowers, historically used as an insect repellent.
+Temple Bells (Harpazhonum) @ Arching stems with clusters of delicate, bell-shaped flowers.
+Thunbergia (Thunbergia) @ Vining plants with brightly colored, trumpet-shaped flowers.
+Trailing Lantana (Lantana montevidensis) @ Cascading groundcover with clusters of small, colorful flowers.
+Tulbaghia (Tulbaghia violacea) @ Fragrant, garlic-scented foliage with clusters of lilac flowers.
+Twist Flower (Dianthus barbatus 'Twist') @ Bi-colored Sweet William with ruffled, 'twisted' petals.
+Ursinia (Ursinia) @ Bright, daisy-like flowers, often with a dark ring around the center.
+Venus Slipper Orchid (Paphiopedilum) @ Terrestrial orchids with pouch-like 'slipper' petals.
+Vinca major (Vinca major) @ Vigorous groundcover with large blue-purple flowers.
+Westringia (Westringia fruticosa) @ Australian native shrub with small, heath-like flowers and grey-green foliage.
+Wild Indigo (Baptisia australis) @ Shrubby perennial with spikes of blue- Lupin-like flowers.
+Wild Rose (Rosa canina) @ Fragrant pink wild roses, a symbol of natural beauty.
+Willow Herb (Epilobium) @ Weedy plants with tall spikes of flowers, often found in disturbed areas.
+Woolly Speedwell (Veronica incana) @ Silvery, woolly foliage topped with spikes of blue flowers.
+Yellow Archangel (Lamiastrum galeobdolon) @ Groundcover with yellow flowers and attractive silver-variegated leaves.
+Yellow Bell (Fothergilla gardenii) @ Shrub with fragrant, bottlebrush-like yellow flowers in spring.
+Yellow Cosmos (Cosmos sulphureus) @ Vibrant orange and yellow daisy-like flowers on airy foliage.
+Yellow Foxglove (Digitalis grandiflora) @ Tall spikes of honey-scented yellow, bell-shaped flowers.
+Yellow Horned Poppy (Glaucium flavum) @ Large, papery yellow flowers on grey-green foliage.
+Yellow Star-of-Bethlehem (Gagea lutea) @ Small, star-shaped yellow flowers emerging in early spring.
+Zigzag Clover (Trifolium medium) @ Clover with a zigzag stem and pinkish-red flower heads.
+Azalea (Rhododendron sect. Tsutsuji) @ Shrub known for its profuse, vibrant spring blooms in a wide color range.
+Bluebonnet (Lupinus texensis) @ Texas state flower, famous for its distinctive blue and white lupine blooms.
+Begonia (Begonia x semperflorens) @ Glossy foliage complements waxy, colorful blossoms.
+Azalea (Rhododendron spp.) @ Masses of vibrant, trumpet-shaped flowers paint landscapes.
+Mock Orange (Philadelphus) @ Intensely fragrant white flowers resemble orange blossoms.
+Epidendrum Orchid (Epidendrum) @ A large and varied genus with clusters of bright, often small, flowers.
+Miltonia Orchid (Miltonia) @ Pansy-like blooms are known for their delicate beauty and fragrance.
+Giant Sequoia (Sequoiadendron giganteum) @ The largest trees on Earth by volume, ancient giants of the forest.
+Azalea (Rhododendron sect. Tsutsusi) @ Masses of vibrant, often trumpet-shaped flowers on woody shrubs.
+Snowdrop (Galanthus) @ Tiny, delicate white flowers that bravely push through winter snow.
+Hamelia (Hamelia patens) @ Clusters of bright, tubular, firecracker-like flowers.
+Mussaenda (Mussaenda) @ Showy, colorful bracts that surround small, inconspicuous flowers.
+Pteris (Pteris) @ Ornamental ferns appreciated for their fronds and texture.
+Samolus (Samolus parviflorus) @ Small, delicate white flowers found in moist habitats.
+Symphoricarpos (Symphoricarpos albus) @ 'Snowberry' shrubs with clusters of white, bead-like fruits.
+Trachymene (Trachymene coerulea) @ Unique blue flower heads resembling small umbrellas.
+Tradescantia (Tradescantia) @ Vigorous plants with three-petaled flowers and often striped foliage.
+Tsuga (Tsuga) @ Graceful evergreen trees known for their pendulous branches.
+Ulex (Ulex europaeus) @ Thorny shrub with bright yellow, pea-like flowers.
+Umbellularia (Umbellularia californica) @ Evergreen tree with aromatic leaves and small, fragrant flowers.
+Virgilia (Virgilia) @ Fast-growing trees with fragrant, pea-like flowers.
+Xanthisma (Xanthisma texanum) @ Small, bright yellow flowers resembling tiny sunflowers.
+Bird's Foot Trefoil (Lotus corniculatus) @ Small, pea-like yellow flowers have a unique, bird's foot shape.
+Lobster Claw (Heliconia rostrata) @ Striking, pendulous bracts resemble a lobster's claw.
+Garlic Chives (Allium tuberosum) @ Garlic-scented leaves topped with star-shaped white flowers.
+Fennel (Foeniculum vulgare) @ Feathery foliage and flat-topped clusters of yellow flowers.
+Dill (Anethum graveolens) @ Delicate, feathery leaves and umbrella-like clusters of yellow flowers.
+Parsley (Petroselinum crispum) @ Popular culinary herb with curly or flat leaves and small flowers.
+Peacock Orchid (Acidanthera murielae) @ Star-shaped white flowers with a striking burgundy blotch.
+Honeysuckle (Lonicera caprifolium) @ Trumpet-shaped, fragrant flowers that attract pollinators.
+Columbine (Western) (Aquilegia formosa) @ Native wildflower with unique red and yellow spurred flowers.
+Fireweed (Chamerion angustifolium) @ Tall spikes of pink-purple flowers, often seen in post-fire landscapes.
+Jewelweed (Impatiens capensis) @ Orange, spotted flowers that are said to soothe poison ivy.
+Mayapple (Podophyllum peltatum) @ Umbrella-like leaves with a single, nodding white flower underneath.
+Chionodoxa (Chionodoxa luciliae) @ Starry blue flowers signal the end of winter.
+Echinacea (Echinacea pallida) @ Pale petals droop elegantly from a spiky cone.
+Eucalyptus (Eucalyptus globulus) @ Aromatic foliage and distinctive fluffy flower clusters.
+Hakea (Hakea sericea) @ Shrub with needle-like leaves and delicate floral clusters.
+Helianthemum (Helianthemum nummularium) @ Low-growing shrub with cheerful, sun-loving flowers.
+Ixia (Ixia paniculata) @ Delicate, star-shaped flowers bloom in spring.
+Jerusalem Sage (Phlomis fruticosa) @ Whorls of bright yellow flowers adorn silvery foliage.
+Mimulus (Mimulus cardinalis) @ Vibrant, trumpet-shaped flowers attract hummingbirds.
+Muscari (Muscari racemosum) @ Clusters of tiny blue bells mimic miniature grape bunches.
+Nerine (Nerine bowdenii) @ Striking, lily-like flowers appear on bare stems in fall.
+Pelargonium (Pelargonium peltatum) @ Cascading vines with ivy-like leaves and colorful blooms.
+Phlomis (Phlomis lanata) @ Woolly foliage and whorls of yellow flowers.
+Polygonum (Polygonum capitatum) @ Trailing groundcover with charming pink flower heads.
+Rhus (Rhus typhina) @ Ornamental shrub valued for fruit and fall color.
+Saponaria (Saponaria ocymoides) @ Low-growing groundcover with a profusion of pink flowers.
+Schizostylis (Schizostylis coccinea) @ Late-blooming gladiolus-like flowers brighten autumn.
+Solanum (Solanum rantonnetii) @ Blue-flowered shrub that attracts butterflies.
+Tanacetum (Tanacetum coccineum) @ Daisy-like flowers offer vibrant colors for cutting.
+Tigridia (Tigridia pavonia) @ Exotic, tiger-patterned flowers bloom for a single day.
+Tupelo (Nyssa sylvatica) @ Magnificent tree with stunning fall color.
+Tusilago (Tussilago farfara) @ Early spring flower blooms before leaves appear.
+Tydaea (Tydaea) @ Ornamental foliage and unique, bell-shaped flowers.
+Ursinia (Ursinia anthemoides) @ Daisy-like flowers with striking dark centers.
+Veratrum (Veratrum viride) @ Large foliage plant with tall spikes of greenish flowers.
+Wahlenbergia (Wahlenbergia gloriosa) @ Australian native with bell-shaped blue flowers.
+Aster (Aster novi-belgii) @ Daisy-like blooms bring late-season color to gardens.
+Columbine (Aquilegia canadensis) @ Unusual spurred flowers attract hummingbirds.
+Freesia (Freesia x hybrida) @ Delicate, trumpet-shaped flowers with an intoxicating fragrance.
+Alstroemeria (Alstroemeria aurantiaca) @ Long-lasting, exotic blooms with intricate markings.
+Poached Egg Plant (Limnanthes douglasii) @ Small, cheerful flowers resemble poached eggs.
+Winterberry (Ilex verticillata) @ Abundant bright red berries adorn bare winter branches.
+Ylang-Ylang (Cananga odorata) @ Exotic, drooping yellow flowers with a powerful perfume.
+Ginger Lily (Hedychium coronarium) @ Fragrant white flowers resemble butterflies.
+Gentian (Gentiana lutea) @ Trumpet-shaped blue flowers found in alpine meadows.
+Campion (Lychnis flos-cuculi) @ Fringed pink petals give a wispy appearance.
+Forget-Me-Not (Myosotis arvensis) @ Small, sky-blue flowers on a common weed.
+Bachelors Button (Centaurea montana) @ Perennial cornflower with intense blue blooms.
+Bellflower (Campanula persicifolia) @ Large, bell-shaped flowers on tall stems.
+Vinca (Vinca herbacea) @ Low-growing with delicate pale blue flowers.
+Lithodora (Lithodora diffusa) @ Intense sky-blue flowers carpet the ground.
+Trumpet Lily (Lilium longiflorum) @ Large, trumpet-shaped white flowers are a symbol of purity.
+Zaluzianskya (Zaluzianskya) @ Night-blooming flowers offer a sweet, almond-like fragrance.
+Acanthus (Acanthus mollis) @ Architectural foliage frames tall spikes of hooded flowers.
+Clivia (Clivia miniata) @ Striking clusters of trumpet-shaped orange flowers on strap-like leaves.
+Cotoneaster (Cotoneaster) @ Small white flowers are followed by abundant, colorful berries.
+Dymondia (Dymondia margaretae) @ Low-growing, silvery ground cover with tiny white daisy flowers.
+Eremophila (Eremophila) @ Australian native shrubs with tubular flowers adapted to arid conditions.
+Gaultheria (Gaultheria procumbens) @ Small white flowers are followed by bright red, edible berries.
+Haberlea (Haberlea rhodopensis) @ Resurrection plant with delicate, tubular purple flowers.
+Hardenbergia (Hardenbergia violacea) @ Vigorous climber with masses of vibrant purple pea-like flowers.
+Hebe (Hebe) @ Evergreen shrubs with dense spikes of small, colorful flowers.
+Helichrysum (Helichrysum) @ Straw-like, papery flowers are excellent for drying.
+Jasione (Jasione) @ Spherical clusters of bright blue flowers resemble small thistles.
+Justicia (Justicia) @ Showy spikes or clusters of tubular flowers attract pollinators.
+Kalmia (Kalmia latifolia) @ Exquisite saucer-shaped flowers adorn evergreen shrubs.
+Libertia (Libertia) @ Clump-forming perennials with iris-like white flowers.
+Liriope (Liriope muscari) @ Grass-like foliage with spikes of purple or white flowers.
+Loropetalum (Loropetalum chinense) @ Evergreen shrub with fringe-like flowers and often colorful foliage.
+Maclura (Maclura pomifera) @ Thorny trees producing large, green, brain-like fruits.
+Malus (Malus domestica) @ Ornamental trees with beautiful spring blossoms and edible fruit.
+Melaleuca (Melaleuca) @ Australian natives with bottlebrush-like flowers and distinctive bark.
+Melasphaerula (Melasphaerula ramosa) @ Small, delicate flowers on wiry stems.
+Melica (Melica) @ Ornamental grasses with attractive seed heads.
+Melianthus (Melianthus major) @ Large, architectural foliage and unusual reddish-brown flowers.
+Menispermum (Menispermum canadense) @ Vigorous vine producing clusters of small, inconspicuous flowers.
+Microglossa (Microglossa) @ Small, daisy-like yellow flowers on shrubby plants.
+Miscanthus (Miscanthus sinensis) @ Ornamental grasses with striking feathery plumes.
+Moraea (Moraea) @ Iris-like flowers bloom on wiry stems in arid regions.
+Myosotidium (Myosotidium hortensia) @ Large, velvety leaves and clusters of bright blue flowers.
+Onopordum (Onopordum) @ Large, architectural thistles with striking purple flower heads.
+Pachystachys (Pachystachys lutea) @ Tall spikes of bright yellow bracts and white flowers.
+Palicourea (Palicourea) @ Showy, brightly colored flower clusters in tropical regions.
+Panicum (Panicum virgatum) @ Native ornamental grass with attractive foliage and airy seed heads.
+Parrotiopsis (Parrotiopsis jacquemontiana) @ Winter-blooming shrub with delicate white fringe-like flowers.
+Pedicularis (Pedicularis) @ Unusual helmet-shaped flowers found in alpine and grassland habitats.
+Peltiphyllum (Peltiphyllum peltatum) @ Large, umbrella-like leaves and clusters of pink flowers in spring.
+Phalaris (Phalaris arundinacea) @ Ornamental grass with striped foliage and airy seed heads.
+Phytolacca (Phytolacca americana) @ Tall plants with clusters of small white flowers and dark berries.
+Piptanthus (Piptanthus) @ Shrubs with bright yellow, pea-like flowers in spring.
+Podophyllum (Podophyllum) @ Woodland plants with distinctive leaves and single, nodding flowers.
+Polystichum (Polystichum) @ Evergreen ferns with attractive, textured fronds.
+Poncirus (Poncirus trifoliata) @ Thorny citrus with fragrant white flowers and small, bitter fruit.
+Populus (Populus) @ Fast-growing trees known for their distinctive leaves and catkins.
+Prostanthera (Prostanthera) @ Aromatic shrubs with profuse, often fragrant, flowers.
+Prunella (Prunella vulgaris) @ Low-growing ground cover with spikes of purple flowers.
+Psoralea (Psoralea) @ Pea-like flowers on herbaceous plants.
+Pyracantha (Pyracantha) @ Thorny shrubs with white flower clusters and abundant colorful berries.
+Quercus (Quercus) @ Majestic trees known for their acorns and sturdy wood.
+Ramonda (Ramonda) @ Resurrection plants with delicate purple flowers found on rocky cliffs.
+Raphanus (Raphanus sativus) @ Root vegetables with attractive, small flowers.
+Reseda (Reseda) @ Fragrant, understated flowers often used in perfume making.
+Rhamnus (Rhamnus) @ Shrubs and trees with inconspicuous flowers and often colorful berries.
+Rhynchospermum (Rhynchospermum jasminoides) @ Fragrant white flowers perfume the air on this evergreen vine.
+Rosa (Rosa) @ The world's most beloved flower, symbolizing love and beauty.
+Rumohra (Rumohra adiantiformis) @ Durable fern with glossy, finely divided fronds.
+Ruscus (Ruscus aculeatus) @ Evergreen shrubs with modified leaf-like stems and red berries.
+Sarcococca (Sarcococca confusa) @ Fragrant white flowers bloom on evergreen shrubs in winter.
+Satureja (Satureja montana) @ Aromatic herb with small, fragrant flowers.
+Schizophragma (Schizophragma hydrangeoides) @ Climbing shrubs with hydrangea-like clusters of flowers.
+Selaginella (Selaginella) @ Moss-like plants with intricate, patterned foliage.
+Sesleria (Sesleria) @ Ornamental grasses with attractive foliage and airy flower spikes.
+Setaria (Setaria) @ Grasses with bottlebrush-like seed heads.
+Sibbaldia (Sibbaldia) @ Low-growing plants with trifoliate leaves and yellow flowers.
+Sigesbeckia (Sigesbeckia orientalis) @ Small, yellow flowers on herbaceous plants with sticky seeds.
+Silphium (Silphium) @ Large, daisy-like yellow flowers on tall prairie plants.
+Sinocrassula (Sinocrassula yunnanensis) @ Compact succulents forming dense rosettes of dark, fleshy leaves.
+Smilacina (Smilacina) @ Woodland perennials with arching stems and clusters of white flowers.
+Smyrnium (Smyrnium perfoliatum) @ Umbels of yellow-green flowers on plants with clasping leaves.
+Tanacetum (Tanacetum) @ Button-like yellow flowers are aromatic and have insecticidal properties.
+Taxus (Taxus baccata) @ Slow-growing conifers with toxic seeds and edible red berry-like arils.
+Tellima (Tellima grandiflora) @ Woodland perennials with attractive foliage and delicate flower spikes.
+Tetrapanax (Tetrapanax papyrifer) @ Large, tropical-looking leaves and large clusters of fuzzy white flowers.
+Teucrium (Teucrium) @ Herbs and shrubs with aromatic foliage and varied flower forms.
+Themeda (Themeda triandra) @ Native grasses with distinctive reddish-brown flower heads.
+Tilia (Tilia) @ Deciduous trees with fragrant flowers and heart-shaped leaves.
+Trifolium (Trifolium) @ Commonly known as clover, with characteristic three-parted leaves and flower heads.
+Tupidanthus (Tupidanthus calyptratus) @ Tropical tree with large, palmate leaves and large clusters of white flowers.
+Turnera (Turnera ulmifolia) @ Day-blooming yellow flowers on shrubby plants.
+Typha (Typha) @ Aquatic plants with distinctive brown, sausage-shaped flower spikes.
+Ulmus (Ulmus) @ Deciduous trees with attractive foliage and samara fruits.
+Urginea (Urginea maritima) @ Large bulb with a tall spike of starry white flowers.
+Valerianella (Valerianella) @ Small salad greens with delicate flowers.
+Vallisneria (Vallisneria) @ Aquatic plants with long, ribbon-like leaves and submerged flowers.
+Vriesea (Vriesea) @ Bromeliads with showy, colorful bracts and often fragrant flowers.
+Wachendorfia (Wachendorfia thyrsiflora) @ South African perennials with iris-like yellow flowers.
+Whitlavia (Whitlavia) @ California native with delicate blue, bell-shaped flowers.
+Wilkesia (Wilkesia) @ Hawaiian native shrubs with large, daisy-like yellow flowers.
+Woodsia (Woodsia) @ Small ferns with delicate fronds found in rocky habitats.
+Xanthoceras (Xanthoceras sorbifolium) @ Shrubs with clusters of white, yellow-centered flowers.
+Ziziphus (Ziziphus) @ Shrubs or trees producing edible fruits and inconspicuous flowers.
+Hardy Hibiscus (Hibiscus moscheutos) @ Gigantic, dinner-plate sized flowers in summer.
+Lady's Mantle (Alchemilla mollis) @ Fuzzy, fan-shaped leaves collect dew drops; small yellow-green flowers.
+Persicaria (Persicaria) @ Spikes of pink or red flowers, often on attractive foliage.
+Rattlesnake Master (Eryngium yuccifolium) @ Unique, spiky globe-shaped flower heads on architectural plants.
+Rocket Larkspur (Consolida ambigua) @ Tall, slender spikes of delicate, airy blossoms.
+Roemeria (Roemeria hybrida) @ Poppy-like flowers with delicate, fringed petals.
+Rorippa (Rorippa) @ Small, bright yellow flowers often found in damp areas.
+Skimmia (Skimmia) @ Fragrant white flowers followed by bright red berries (on females).
+Talinum (Talinum triangulare) @ Succulent foliage with delicate pink or yellow flowers.
+Tecoma (Tecoma stans) @ Trumpet-shaped yellow flowers on a shrubby or small tree.
+Trifolium (Trifolium repens) @ Low-growing clover with white or pink flower heads.
+Umbellifer (Apiaceae) @ Flower clusters resembling umbrellas, including dill and parsley.
+Velvet Bent (Agrostis canina) @ Fine-textured grass with inconspicuous flower heads.
+Virgin's Bower (Clematis virginiana) @ Native vine with masses of small, starry white flowers.
+Wall Germander (Teucrium chamaedrys) @ Low-growing shrub with small, pinkish-purple flowers.
+Welwitschia (Welwitschia mirabilis) @ Unique desert plant with two strap-like leaves and woody cones.
+Wild Ginger (Asarum canadense) @ Heart-shaped leaves with hidden, unique brownish-red flowers.
+Wild Rye (Elymus) @ Grasses with prominent seed heads, important for wildlife.
+Willow (Salix) @ Trees and shrubs known for catkins and flexible branches.
+Winged Pea (Lotus berthelotii) @ Trailing plant with feathery foliage and bright red-orange flowers.
+Wood Anemone (Anemone nemorosa) @ Delicate woodland flowers that carpet the forest floor in spring.
+Zigzag Ginger (Costus malortieana) @ Ornamental ginger with zigzag stems and showy white flowers.
+Linaria (Toadflax) (Linaria vulgaris) @ Snapdragon-like flowers that add a whimsical touch to borders.
+Armeria (Thrift) (Armeria maritima) @ Densely tufted mounds topped with pom-pom like pink flowers.
+Fritillaria (Fritillaria) @ Unique, bell-shaped or checkered flowers, often with a striking appearance.
+Ixiolirion (Ixiolirion tartaricum) @ Star-shaped, violet-blue flowers on tall stems, a late spring bloomer.
+Nectaroscordum (Mediterranean Bells) (Nectaroscordum siculum) @ Arching stems with clusters of pendulous, bell-shaped flowers.
+Anemarrhena (Anemarrhena asphodeloides) @ Grassy foliage with delicate, bell-shaped flowers on arching stems.
+Camassia (Quamash) (Camassia) @ Spikes of starry blue flowers, a native prairie bloomer.
+Eucharis (Amazon Lily) (Eucharis x grandiflora) @ Large, fragrant, daffodil-like white flowers on elegant stems.
+Hypoxis (Hypoxis) @ Small, star-shaped yellow flowers often appearing in grassy tufts.
+Veltheimia (Veltheimia bracteata) @ Architectural foliage and tall spikes of tubular, recurved flowers.
+Xerophyllum (Beargrass) (Xerophyllum tenax) @ Clumps of grass-like foliage topped with tall spikes of creamy flowers.
+Bletilla (Chinese Ground Orchid) (Bletilla striata) @ Hardy terrestrial orchids with delicate pink or purple flowers.
+Ophrys (Orchid) (Ophrys apifera) @ Remarkable orchids mimicking insects to attract pollinators.
+Platanthera (Platanthera bifolia) @ Fragrant, nocturnal-blooming orchids attracting moths for pollination.
+Timoptosis (Timoptosis microphylla) @ Small, shrubby plants with numerous small yellow daisy-like flowers.
+Siberian Iris (Iris sibirica) @ Graceful, slender foliage and delicate, flat flowers.
+Begonia Semperflorens (Begonia x semperflorens-cultorum) @ Consistent bloomers with waxy leaves and abundant small flowers.
+Bird of Paradise (Strelitzia) @ Exotic, crane-like flower resembles a tropical bird in flight.
+Salvia (Salvia leucantha) @ Velvety purple and white spikes attract butterflies and bees.
+Geranium (Geranium sanguineum) @ Low-growing perennial with bright magenta-pink flowers.
+Craspedia (Craspedia globosa) @ Whimsical, golf-ball-sized yellow blooms on slender stems.
+Shrimp Plant (Justicia brandegeeana) @ Unique bracts resembling shrimp, surrounding small white flowers.
+Hollyhock (Alcea) @ Towering spires of large, saucer-shaped flowers.
+Zinnia Profusion (Zinnia hybrida 'Profusion') @ Compact, bushy plants with a profusion of daisy-like blooms.
+Bluebell (Hyacinthoides) @ Bell-shaped blue flowers carpeting woodland floors in spring.
+Flowering Cabbage and Kale (Brassica oleracea var. acephala) @ Edible ornamental leaves with vibrant colors, perfect for fall.
+Osmanthus (Osmanthus) @ Tiny, intensely fragrant white flowers, often with an apricot scent.
+Primula malacoides (Primula malacoides) @ Tiered whorls of small, delicate flowers, often grown as an annual.
+Rudbeckia laciniata (Rudbeckia laciniata) @ Tall perennial with large yellow daisy-like flowers and deeply cut leaves.
+Heliopsis (Heliopsis) @ Bright, cheerful sunflowers add continuous sunny color.
+Cimicifuga racemosa (Cimicifuga racemosa) @ Tall, fragrant white bottlebrush spikes rise above foliage.
+Ceanothus (Ceanothus) @ Abundant clusters of blue flowers cover evergreen shrubs.
+Arbutus unedo (Arbutus unedo) @ Bell-shaped white flowers and red fruit adorn evergreen branches.
+Gardenia (Gardenia) @ Intensely fragrant, waxy white flowers perfume the air.
+Deutzia (Deutzia) @ Cascading star-shaped flowers adorn graceful, arching branches.
+Itea virginica (Itea virginica) @ Fragrant white flower spikes bloom in summer on a native shrub.
+Clethra alnifolia (Clethra alnifolia) @ Fragrant white or pink flower spikes bloom in late summer.
+Kerria japonica (Kerria japonica) @ Bright yellow, rose-like flowers bloom on arching green stems.
+Chaenomeles (Chaenomeles) @ Brilliant flowers bloom on thorny branches in early spring.
+Exochorda (Exochorda) @ Masses of pure white flowers resemble strings of pearls.
+Sorbus (Sorbus) @ Clusters of white flowers yield colorful berries in fall.
+Asters (Symphyotrichum) @ Late-season stars that provide a splash of color as summer fades.
+Mesembryanthemum (Mesembryanthemum crystallinum) @ Succulent foliage covered in glistening, crystalline structures.
+Aster (Callistephus chinensis) @ Annual aster with vibrant, double blooms in a variety of colors.
+Bracteantha (Bracteantha bracteata) @ Paper-like flowers that retain their color and shape when dried.
+Gladiolus (Gladiolus x hortulanus) @ Tall spikes of impressive, showy florets create a dramatic display.
+Kangaroo Paw (Anigozanthos manglesii) @ Unique, fuzzy, tubular flowers resemble a kangaroo's paw.
+Lady's Slipper Orchid (Cypripedium calceolus) @ Distinctive pouch-like lip forms the 'slipper' of this woodland orchid.
+Lychnis (Lychnis coronaria) @ Fuzzy, silver foliage crowned with bright magenta or white blooms.
+Mimulus (Mimulus luteus) @ Mouth-like flowers with speckled throats, often found in moist areas.
+Monkshood (Aconitum napellus) @ Hooded, helmet-like flowers in deep blues and purples.
+Petrea (Petrea volubilis) @ Cascading racemes of delicate, star-shaped lavender flowers.
+Pieris (Pieris japonica) @ Drooping clusters of bell-shaped flowers and colorful new foliage.
+Rudbeckia (Rudbeckia fulgida) @ Bright, daisy-like flowers with prominent dark centers.
+Scaevola (Scaevola aemula) @ Fan-shaped flowers cascade from trailing plants, ideal for containers.
+Lovage (Levisticum officinale) @ Tall plant with celery-like flavor and umbrella-shaped flower clusters.
+Angelica (Angelica archangelica) @ Giant herb with large, spherical flower heads, licorice-like aroma.
+Chervil (Anthriscus cerefolium) @ Delicate, fern-like foliage with tiny white flowers, subtle anise flavor.
+Caraway (Carum carvi) @ Delicate white/pink flowers followed by aromatic seeds.
+Wall Rocket (Diplotaxis tenuifolia) @ Peppery leaves and clusters of bright yellow flowers.
+Laburnum (Laburnum anagyroides) @ Golden chains of drooping flowers, a vibrant spring spectacle.
+Acacia (Acacia dealbata) @ Globular clusters of bright yellow flowers, strongly scented.
+Sorbus (Sorbus aucuparia) @ Flat-topped clusters of white flowers followed by bright orange-red berries.
+Cotoneaster (Cotoneaster horizontalis) @ Small white/pink flowers followed by abundant red berries.
+Cherry Laurel (Prunus laurocerasus) @ Evergreen shrub with spikes of fragrant white flowers.
+Photinia (Photinia x fraseri) @ New red foliage and clusters of white flowers in spring.
+Pyracantha (Pyracantha coccinea) @ Thorny shrub with white flowers and abundant, colorful berries.
+Quince (Cydonia oblonga) @ Pale pink or white flowers followed by fragrant, edible fruit.
+Medlar (Mespilus germanica) @ Unusual white flowers followed by edible, tea-cup shaped fruit.
+Pear (Pyrus communis) @ Ornamental trees with white spring blossoms and edible fruit.
+Plum (Prunus domestica) @ Ornamental trees with abundant white spring flowers and edible fruit.
+Almond (Prunus dulcis) @ Ornamental trees with early spring blossoms, followed by edible nuts.
+Apricot (Prunus armeniaca) @ Delicate white-pink spring blossoms precede edible apricot fruit.
+Nectarine (Prunus persica var. nucipersica) @ Smooth-skinned fruit tree with lovely pink or white spring blooms.
+Raspberry (Rubus idaeus) @ Thorny canes with delicate white flowers and delicious red fruit.
+Blackberry (Rubus fruticosus) @ Thorny brambles with white/pink flowers and delicious dark fruit.
+Cranberry (Vaccinium macrocarpon) @ Low-growing plant with nodding pink flowers and tart red berries.
+Lingonberry (Vaccinium vitis-idaea) @ Low-growing shrub with small bell-shaped flowers and tart red berries.
+Huckleberry (Vaccinium parvifolium) @ Shrub with small pink/red flowers and edible blue-black berries.
+Viburnum (Viburnum opulus) @ Clusters of white flowers and bright red berries, a versatile shrub.
+Snowball Bush (Viburnum opulus 'Roseum') @ Large, round clusters of sterile white flowers resembling snowballs.
+Red Elderberry (Sambucus racemosa) @ Clusters of white flowers followed by bright red berries.
+Passiflora (Passiflora edulis) @ Intricate, exotic flowers often followed by edible fruits.
+Pennyroyal (Mentha pulegium) @ Aromatic herb with small flowers, known for its strong minty scent.
+Echium (Echium vulgare) @ Tall spikes of vibrant, funnel-shaped flowers attracting a multitude of bees.
+Bignonia (Bignonia capreolata) @ Vigorous vine with trumpet-shaped flowers, climbing and adorning structures.
+Crescentia (Crescentia cujete) @ Unique, large, gourd-like fruits and unusual flowers on a tropical tree.
+Digitalis lutea (Digitalis lutea) @ Delicate spikes of pale yellow, bell-shaped flowers.
+Penstemon (Penstemon digitalis) @ Tubular, trumpet-shaped flowers attractive to hummingbirds.
+Hosta (Hosta 'Sum and Substance') @ Massive, chartreuse leaves forming a bold statement.
+Pulmonaria (Pulmonaria saccharata) @ Clustered flowers that change color, on striking silver-spotted foliage.
+Astilbe (Astilbe x arendsii) @ Feathery plumes of color add texture to shady gardens.
+Ligularia (Ligularia dentata) @ Large, bold foliage topped with bright yellow-orange daisy-like flowers.
+Geranium macrorrhizum (Geranium macrorrhizum) @ Low-growing, fragrant groundcover with pink or white blooms.
+Hypericum (Hypericum perforatum) @ Bright, five-petaled yellow flowers, often with medicinal uses.
+Marrubium (Marrubium vulgare) @ Woolly, aromatic foliage with small, white, whorled flowers.
+Coleus (Plectranthus scutellarioides) @ Intensely colored, patterned leaves in vibrant, tropical hues.
+Sedum (Sedum spectabile 'Autumn Joy') @ Succulent foliage topped with late-season clusters of pink flowers.
+Sempervivum arachnoideum (Sempervivum arachnoideum) @ Tiny rosettes covered in cobweb-like filaments.
+Delosperma (Delosperma cooperi) @ Low-growing, succulent groundcover with bright, daisy-like flowers.
+Phormium (Phormium tenax) @ Stiff, strap-like leaves form architectural clumps.
+Alstroemeria (Alstroemeria peruviana) @ Long-lasting cut flowers resembling small lilies with speckled petals.
+Ixia (Ixia viridiflora) @ Delicate, star-shaped flowers on wiry stems, often with dark centers.
+Campanula rotundifolia (Campanula rotundifolia) @ Delicate, nodding bell-shaped flowers on slender stems.
+Veronicastrum virginicum (Veronicastrum virginicum) @ Tall, slender spires of tiny flowers create a delicate vertical accent.
+Tradescantia (Tradescantia andersoniana) @ Three-petaled flowers in vibrant colors bloom in clusters.
+Eupatorium (Eupatorium purpureum) @ Large clumps with fluffy pinkish-purple flower heads, attracting pollinators.
+Phlox divaricata (Phlox divaricata) @ Delicate, fragrant blue flowers bloom in early spring.
+Chelone (Chelone glabra) @ Turtle-headed flowers bloom in late summer and fall.
+Iris cristata (Iris cristata) @ Small, crested iris blooms in early spring, perfect for shady spots.
+Digitalis purpurea 'Alba' (Digitalis purpurea 'Alba') @ Tall, elegant spires of pure white bell-shaped flowers.
+Clematis (Clematis montana) @ A vigorous vine producing a spectacular spring explosion of flowers.
+Alliums (Allium 'Purple Sensation') @ Globular clusters of vibrant purple flowers on tall stems.
+Birdwing Butterfly Bush (Asclepias curassavica) @ Nectar-rich flowers that attract butterflies, especially monarchs.
+Forget-Me-Not, Chinese (Cynoglossum amabile) @ Vibrant blue flowers resembling forget-me-nots, ideal for borders.
+Blue Eyed Grass (Sisyrinchium angustifolium) @ Small, star-like blue flowers on grassy foliage.
+Clematis, Sweet (Clematis viticella) @ Prolific clusters of bell-shaped or open-faced flowers.
+Columbine, Japanese (Aquilegia flabellata) @ Small, dainty blue and white spurred flowers.
+Corn Marigold (Glebionis segetum) @ Bright yellow daisy-like flowers found in grain fields.
+Corydalis (Corydalis lutea) @ Fern-like foliage with delicate yellow spur-like flowers.
+Crocoxmia (Crocosmia x crocosmiiflora) @ Arching stems with vibrant, fiery colored flowers.
+Digitalis (Digitalis parviflora) @ Unusual bronze-colored bell-shaped flowers on tall spikes.
+Dracula Orchid (Dracula) @ Eerie, bat-faced flowers found in high-altitude cloud forests.
+Echinops (Echinops ritro) @ Globular blue flower heads resembling small thistles.
+Epimedium (Epimedium grandiflorum) @ Delicate, spurred flowers above attractive foliage.
+Foxglove, Woolly (Digitalis lanata) @ Hooded flowers with intricate markings and woolly stems.
+Gerbera (Gerbera 'Hybrid') @ Large, cheerful daisy flowers in a spectrum of bright colors.
+Grass of Parnassus (Parnassia palustris) @ Delicate white flowers with distinctive fringed petal-like scales.
+Gypsophila (Gypsophila paniculata 'Bristol Fairy') @ Double-flowered, cloud-like masses of pure white blooms.
+Azalea (Rhododendron subgenus Azalea) @ Vibrant, spring-blooming shrubs covered in a profusion of colorful flowers.
+Lilly Pilly (Syzygium leuhmannii) @ Fluffy white flowers followed by edible berries, common in Australian rainforests.
+Leucadendron (Leucadendron argenteum) @ Dramatic foliage and colorful bracts, often used in floral arrangements.
+Chrysanthemum maximum (Leucanthemum maximum) @ Large, pure white daisy flowers with bright yellow centers.
+Echinacea purpurea 'Magnus' (Echinacea purpurea 'Magnus') @ Large, vibrant pinkish-purple coneflowers with swept-back petals.
+Ferns (Polypodiopsida) @ Graceful, feathery fronds creating a lush, verdant feel.
+Azalea (Rhododendron (Azalea)) @ Prolific spring bloomers with vibrant, trumpet-shaped flowers.
+Hosta 'Patriot' (Hosta 'Patriot') @ Striking variegated foliage adds bright contrast to shade gardens.
+Lobularia maritima 'Snow Princess' (Lobularia maritima 'Snow Princess') @ Prolific bloomer producing a cascade of pure white flowers.
+Portulacaria afra (Portulacaria afra) @ Succulent shrub with small leaves and tiny pink flowers.
+Delosperma (Delosperma) @ Low-growing succulent groundcover with dazzling, daisy-like flowers.
+Geranium cinereum (Geranium cinereum) @ Low-growing perennial with silvery foliage and delicate flowers.
+Heptacodium miconioides (Heptacodium miconioides) @ Late-blooming shrub with fragrant white flowers and showy bracts.
+Amaryllis (Hippeastrum × hybrida) @ Spectacular, trumpet-shaped blooms emerge from a single bulb.
+Forsythia (Forsythia × intermedia) @ A brilliant cascade of yellow blossoms, announcing spring's arrival.
+Gladiolus (Gladiolus × hortulanus) @ Tall spikes of showy, sword-shaped flowers create dramatic displays.
+Peace Lily (Spathiphyllum wallisii) @ Elegant white spathes atop glossy, dark green foliage.
+Callistemon (Callistemon citrinus) @ Brush-like spikes of vibrant red, attracting nectar-feeding birds.
+Grevillea (Grevillea robusta) @ Unique, spider-like flowers that are a magnet for native birds.
+Banksia (Banksia serrata) @ Distinctive cylindrical flower heads resembling pinecones.
+Leucospermum (Leucospermum reflexum) @ Radiating clusters of fiery stamens, resembling pinwheels.
+Bird's Eye Bush (Ochna serrulata) @ Bright yellow flowers followed by striking red calyxes.
+Agave (Agave americana) @ Striking rosette of succulent leaves culminating in a spectacular flower stalk.
+Echeveria (Echeveria elegans) @ Rosettes of fleshy leaves producing delicate, bell-shaped flowers.
+Firecracker Flower (Russelia equisetiformis) @ Cascading, whip-like stems adorned with tiny, tubular red flowers.
+Pink Sorrel (Oxalis articulata) @ Delicate, clover-like leaves topped with bright pink flowers.
+Himalayan Blue Poppy (Meconopsis betonicifolia) @ Stunning, ethereal sky-blue flowers with a delicate, papery texture.
+Rhodora (Rhododendron canadense) @ Delicate, open-faced pinkish-purple flowers bloom in early spring.
+Pink Lady's Slipper (Cypripedium acaule) @ Unique, pouch-like flower resembles a delicate slipper.
+Fringed Gentian (Gentianopsis crinita) @ Delicate, fringed sky-blue flowers bloom in late summer and fall.
+Gerbera Daisy (Gerbera) @ Large, cheerful daisy-like blooms add a burst of sunshine.
+Jasmine (Jasminum sambac) @ Intensely fragrant, star-shaped white flowers perfume the air.
+Phlox (Phlox drummondii) @ Bright, star-shaped flowers bloom profusely in a vibrant palette.
+Rheum (Rheum palmatum) @ Towering spikes of red-pink flowers add dramatic architectural presence.
+Sidalcea (Sidalcea malviflora) @ Upright spikes of mallow-like flowers in soft pinks and purples.
+Tropaeolum (Tropaeolum tuberosum) @ Vigorous vines produce peppery flowers and edible tubers.
+Aubrieta (Aubrieta deltoidea) @ Rock cress for cascading color on walls and slopes.
+Calycanthus (Calycanthus floridus) @ Fragrant, spice-scented shrub with deep red blooms.
+Cardamine (Cardamine) @ Delicate spring wildflowers, some with edible leaves.
+Catananche (Catananche caerulea) @ Papery blue flowers that resemble ethereal strawflowers.
+Dodecatheon (Dodecatheon meadia) @ Native wildflowers with unique, swept-back petals.
+Eomecon (Eomecon chionantha) @ Delicate white poppy-like flowers for shady, moist spots.
+Erigeron (Erigeron) @ Numerous daisy-like blooms, cheerful and long-lasting.
+Eucomis (Eucomis comosa) @ Pineapple Lily: a unique flower spike topped with a leafy tuft.
+Fairy Foxglove (Erinus alpinus) @ Tiny alpine charmer with delicate, bell-shaped pink flowers.
+Fernleaf Lavender (Lavandula multifida) @ Aromatic, finely divided foliage and airy blue flower spikes.
+Fernleaf Yarrow (Achillea filipendulina) @ Lacy foliage with large, flat clusters of bright yellow flowers.
+Galtonia (Galtonia candicans) @ Elegant spikes of fragrant, bell-shaped white flowers.
+Good King Henry (Chenopodium bonus-henricus) @ Hardy perennial vegetable with edible leaves and green flowers.
+Great Masterwort (Astrantia major) @ Delicate, star-shaped flowers for woodland charm.
+Kochia (Bassia scoparia) @ Fast-growing shrub with feathery foliage for quick hedges.
+Cineraria (Pericallis x hybrida) @ Brilliant, daisy-like flowers perfect for shady, cool spots.
+Flowering Quince (Chaenomeles japonica) @ Thorny shrubs with early spring blooms in vibrant shades.
+Kousa Dogwood (Cornus kousa) @ Ornamental tree with delicate white bracts resembling petals in late spring.
+Kuwanae's Saxifrage (Saxifraga fortunei) @ Delicate white flowers with distinctive reddish markings, thriving in shade.
+Lycoris (Lycoris) @ Surprise lilies with bare stems topped by spectacular, vibrant flowers.
+Ornamental Pepper (Capsicum annuum) @ Flashes of vibrant, colorful fruit add ornamental interest.
+Calceolaria (Calceolaria herbeohybrida) @ Unusual pouch-shaped flowers in vibrant colors.
+Clematis (Clematis florida) @ Exotic, large, often ruffled flowers on a climbing vine.
+Cordyline (Cordyline australis) @ Architectural foliage topped with fragrant, starry flowers.
+Dichelostemma (Dichelostemma ida-maia) @ Unusual dangling flowers with prominent stamens.
+Dryas (Dryas octopetala) @ Small, white, rose-like flowers with distinctive seed heads.
+Epimedium (Epimedium x perralchicum) @ Delicate, star-shaped flowers above attractive groundcover foliage.
+Hemerocallis (Hemerocallis citrina) @ Fragrant, trumpet-shaped flowers that bloom for a single day.
+Heptapleurum (Heptapleurum actinophyllum) @ Umbels of small, white flowers on an elegant houseplant.
+Hymenoxys (Hymenoxys scaposa) @ Bright yellow, daisy-like flowers on slender stems.
+Impatiens hawkeri (Impatiens hawkeri) @ Large, vibrant flowers with striking foliage.
+Inula (Inula magnifica) @ Massive, bright yellow daisy-like flowers.
+Lavatera (Lavatera thuringiaca) @ Large, saucer-shaped flowers resembling wild roses.
+Lewisia (Lewisia cotyledon) @ Rosettes of succulent leaves topped with vibrant blooms.
+Macleaya (Macleaya microcarpa) @ Tall, airy plumes of small flowers above striking foliage.
+Malva (Malva alcea) @ Pretty, open-faced pink flowers on upright stems.
+Melampyrum (Melampyrum pratense) @ Small, delicate yellow flowers in woodland settings.
+Mimulus (Mimulus moschatus) @ Charming, bell-shaped flowers that like moist conditions.
+Browallia (Browallia speciosa) @ Star-shaped blue or white flowers create a beautiful ground cover.
+Chrysanthemum (Chrysanthemum coronarium) @ Bright, daisy-like flowers with yellow centers, bloom in summer.
+Echinacea (Echinacea angustifolia) @ Medicinal prairie flower with distinctive spiky purple-pink cones.
+Zinnia (Zinnia angustifolia) @ Low-growing zinnias with single, bright orange or yellow blooms.
+Chrysanthemum (Chrysanthemum leucanthemum) @ Classic white petals with yellow centers, a meadow favorite.
+Cosmos (Cosmos diversifolius) @ Velvety pink to magenta petals on airy foliage.
+Dahlia (Dahlia coccinea) @ Simple, single-petaled dahlias in bright red and pink hues.
+Helianthus (Helianthus maximiliani) @ Tall, native sunflowers with numerous yellow blooms.
+Solidago (Solidago speciosa) @ Erect plumes of bright yellow flowers for late-season color.
+Tagetes (Tagetes lucida) @ Aromatic foliage and bright yellow, single flowers.
+Echinacea (Echinacea tennesseensis) @ Rare prairie coneflower with distinctive upturned petals.
+Achillea (Achillea ageratifolia) @ Low-growing, silver foliage with clusters of white flowers.
+Rudbeckia (Rudbeckia triloba) @ Abundant small yellow flowers bloom on branching stems.
+Callistephus (Callistephus chinensis 'Princess') @ Double, ruffled blooms in a wide range of pastel and bright colors.
+Helianthus (Helianthus debilis) @ Low-growing sunflowers with delicate yellow petals.
+Tagetes (Tagetes minuta) @ Tall, weedy plant with small yellow flowers and a pungent aroma.
+Dahlia (Dahlia 'Bishop of Llandaff') @ Single, crimson red flowers against dark, glossy foliage.
+Gaillardia (Gaillardia pulchella 'Goblin') @ Compact plant with brilliant red and yellow daisy-like flowers.
+Coreopsis (Coreopsis 'Zagreb') @ Abundant, rich yellow blooms on fine-textured foliage.
+Solidago (Solidago 'Fireworks') @ Arching plumes of bright yellow flowers resemble exploding fireworks.
+Tagetes (Tagetes 'French Vanilla') @ Soft cream to pale yellow ruffled blooms on compact plants.
+Echinacea (Echinacea 'Magnus') @ Large, vibrant pink-purple petals surround a prominent cone.
+Rudbeckia (Rudbeckia 'Goldsturm') @ Prolific golden yellow blooms with dark centers.
+Crocus (Crocus sativus) @ Tiny trumpet flowers heralding the arrival of spring with vibrant hues.
+Aster (Asteraceae) @ Daisy-like blooms that grace late-season gardens with a touch of celestial beauty.
+Birdwing Butterfly Flower (Ornithocephalus) @ Tiny, intricate orchid blooms resembling miniature butterflies in flight.
+Forget-Me-Not (Tropical) (Brighamia insignis) @ Rare succulent with a unique rosette of leaves and fragrant white flowers.
+Cuphea (Cuphea ignea) @ Tiny, tubular flowers resembling miniature firecrackers, attracting hummingbirds.
+Oriental Lily (Lilium orientalis) @ Large, intensely fragrant trumpet-shaped flowers.
+Salvia (Salvia spp.) @ Spikes of vibrant flowers attract pollinators.
+Geranium (Geranium spp.) @ Dainty, five-petaled flowers grace many gardens.
+Iris (Iris spp.) @ Intricate, flag-like blooms in a rainbow of shades.
+Aster (Aster spp.) @ Star-shaped blooms signal the arrival of autumn.
+Begonia (Begonia spp.) @ Showy flowers and attractive foliage grace shaded spots.
+Clematis (Clematis spp.) @ Vining plant with spectacular, star-shaped flowers.
+Verbena (Verbena spp.) @ Clusters of small flowers bloom prolifically.
+Dianthus deltoides (Dianthus deltoides) @ Low-growing plant with small, fringed pink flowers.
+Geum (Geum coccineum) @ Brightly colored, cup-shaped flowers.
+Ceanothus (Ceanothus thyrsiflorus) @ Masses of tiny blue flowers cover evergreen shrubs.
+Lysichiton americanus (Lysichiton americanus) @ Large, hooded yellow spathes emerge from swamps.
+Triteleia (Triteleia laxa) @ Star-shaped flowers on slender stems.
+Hymenoxys herbacea (Hymenoxys herbacea) @ Small, golden-yellow flowers bloom in sunny prairies.
+Diervilla lonicera (Diervilla lonicera) @ Small, tubular yellow flowers attract pollinators.
+Phacelia tanacetifolia (Phacelia tanacetifolia) @ Attractive to bees, with curly clusters of lavender-blue flowers.
+Hesperaloe parviflora (Hesperaloe parviflora) @ Tall spikes of coral-red or yellow flowers from a yucca-like base.
+Leucothoe fontanesiana (Leucothoe fontanesiana) @ Arching branches with fragrant, bell-shaped white flowers.
+Clematis integrifolia (Clematis integrifolia) @ Non-climbing clematis with nodding bell-shaped flowers.
+Monarda fistulosa (Monarda fistulosa) @ Aromatic native with fuzzy lavender-pink flowers.
+Caltha palustris (Caltha palustris) @ Bright yellow buttercup-like flowers in wet areas.
+Oriental Poppy (Papaver orientale) @ Giant, crinkled blooms create dramatic garden impact.
+Adonis (Adonis) @ Bright, star-like flowers bloom in early spring.
+Darmera (Darmera peltata) @ Large, umbrella-like leaves and spring flower clusters.
+Hydrangea serrata (Hydrangea serrata) @ Delicate lacecap blooms are more refined than mopheads.
+Cephalanthus occidentalis (Cephalanthus occidentalis) @ Spherical, fragrant white flower heads.
+Neillia (Neillia) @ Arching stems carry clusters of small, bell-shaped flowers.
+Rhaphiolepis (Rhaphiolepis indica) @ Glossy evergreen leaves and spring flower clusters.
+Rubus spectabilis (Rubus spectabilis) @ Large, showy pinkish-purple flowers appear early.
+Sorbaria (Sorbaria) @ Large, feathery plumes of white flowers.
+Stephanandra (Stephanandra) @ Arching branches with delicate white flower clusters.
+Stranvaesia (Stranvaesia) @ Evergreen foliage and spring flower clusters.
+Aronia (Aronia melanocarpa) @ White spring flowers are followed by abundant dark berries.
+Flowering Almond (Prunus glandulosa) @ Double pink or white flowers bloom profusely.
+Chokecherry (Prunus virginiana) @ Fragrant white flower clusters precede dark berries.
+Pyrus calleryana (Pyrus calleryana) @ Abundant white spring blossoms on a ornamental tree.
+Amelanchier alnifolia (Amelanchier alnifolia) @ Edible berries follow delicate white spring flowers.
+Liquidambar (Liquidambar styraciflua) @ Inconspicuous flowers precede striking fall foliage.
+Liriodendron tulipifera (Liriodendron tulipifera) @ Tulip-shaped flowers adorn a stately tree.
+Tilia (Tilia cordata) @ Fragrant flowers are used to make tea.
+Gleditsia triacanthos (Gleditsia triacanthos) @ Inconspicuous fragrant flowers on a thorny tree.
+Aesculus hippocastanum (Aesculus hippocastanum) @ Tall spikes of white flowers adorn horse chestnut trees.
+Pterocarya (Pterocarya fraxinifolia) @ Long, drooping catkins followed by winged seeds.
+Snapdragon (Antirrhinum) @ Uniquely shaped flowers that 'snap' when squeezed.
+Begonia (Tuberous) (Begonia (Tuberous Hybrids)) @ Large, showy flowers with ruffled or frilled petals.
+Gomphrena (Gomphrena) @ Paper-like 'buttons' that retain their color when dried.
+Chrysanthemum (Spider) (Chrysanthemum (Spider types)) @ Unique, spidery petals creating an artistic bloom.
+Callicarpa (Callicarpa) @ Clusters of vibrant, jewel-like berries follow small flowers.
+Achimenes (Achimenes) @ Bell-shaped flowers trailing from lush foliage.
+Gesneriad (Episcia) (Episcia) @ Velvety foliage paired with bright, tube-shaped flowers.
+Columnea (Columnea) @ Cascading vines with vibrant, tubular flowers.
+Saintpaulia (Saintpaulia) @ Compact plants with velvety leaves and abundant starry blooms.
+Lithops (Lithops) @ Living stones, mimicking pebbles with striking daisy-like flowers.
+Sarracenia (Sarracenia) @ Carnivorous pitcher plants with elaborate traps and unique flowers.
+Heliamphora (Heliamphora) @ Tube-like pitchers found on remote South American tabletop mountains.
+Utricularia (Utricularia) @ Minute traps and delicate flowers, often aquatic or terrestrial.
+Cephalotus (Cephalotus follicularis) @ Unique, barrel-shaped pitchers from a single Australian species.
+Anthurium (Anthurium) @ Glossy, heart-shaped spathes with a prominent spadix.
+Arabis (Arabis) @ Low-growing rock garden plants with white or pink flowers.
+Moss (Bryophyta) @ Low-growing, non-flowering plants forming soft, green carpets.
+Geranium (Geranium phaeum) @ Hardy perennial with attractive foliage and simple flowers.
+Hosta (Hosta undulata) @ Primarily grown for foliage, but has delicate, bell-shaped flowers.
+Saxifraga (Saxifraga paniculata) @ Mat-forming plants with clusters of small, star-like flowers.
+Anthemis (Anthemis tinctoria) @ Daisy-like flowers in shades of yellow, good for cutting.
+Convolvulus (Convolvulus tricolor) @ Small, funnel-shaped flowers with a star-like center.
+Kochia (Kochia scoparia) @ Fast-growing annual forms a dense, shrub-like mound.
+Perilla (Perilla frutescens) @ Attractive foliage plant with edible leaves and spikes of small flowers.
+Zinnia marylandica (Zinnia marylandica) @ Disease-resistant hybrids offer abundant blooms and vibrant color.
+Cimicifuga (Cimicifuga) @ Similar to Actaea, with tall, elegant white flower spikes.
+Setcreasea (Setcreasea pallida) @ Trailing plant with striking purple foliage and small pink flowers.
+Vireya (Rhododendron sect. Vireya) @ Tropical rhododendrons with vibrant, often fragrant flowers.
+Passionflower (Passiflora incarnata) @ Intricate, exotic flowers precede edible, fruit-bearing vines.
+Thistle (Cirsium vulgare) @ Spiky foliage surrounds striking purple flower heads, attracting pollinators.
+Abutilon (Abutilon hybridum) @ Lantern-like flowers dangle gracefully from a shrub with maple-like leaves.
+Achimenes (Achimenes longiflora) @ Delicate, trumpet-shaped flowers bloom abundantly on trailing stems.
+Amaryllis (Hippeastrum x hortorum) @ Large, trumpet-shaped blooms emerge from a dramatic bulb indoors or out.
+Crocus vernus 'Grandiflorus' (Crocus vernus 'Grandiflorus') @ Large, deep purple crocuses herald the arrival of spring.
+Echinocystis (Echinocystis lobata) @ Fast-growing vine with prickly fruit and clusters of small white flowers.
+Erigeron (Erigeron annuus) @ Native daisy-like flowers provide cheerful color in sunny meadows.
+Eucomis (Eucomis bicolor) @ Pineapple-like flower heads topped with a tuft of green bracts.
+Evolvulus (Evolvulus glomeratus) @ Low-growing blue flowers resembling tiny morning glories.
+Herniaria (Herniaria glabra) @ Low-growing, moss-like groundcover with tiny, inconspicuous flowers.
+Ilex (Ilex) @ Evergreen shrubs or trees with glossy leaves and vibrant berry clusters.
+Impatiens walleriana 'New Guinea' (Impatiens walleriana 'New Guinea') @ Large, colorful blooms and attractive foliage thrive in shade.
+Incarvillea (Incarvillea delavayi) @ Trumpet-shaped pink flowers on upright stalks, a hardy desert bloom.
+Lewisia (Lewisia rediviva) @ Fleshy-leaved succulent with stunning pink, rose-like flowers.
+Linaria (Linaria purpurea) @ Delicate, snapdragon-like flowers on airy stems create a graceful display.
+Lindernia (Lindernia rotundifolia) @ Small, delicate blue flowers bloom on a low-growing plant, suitable for terrariums.
+Mandevilla (Mandevilla sanderi) @ Tropical vine with large, trumpet-shaped flowers, ideal for warm climates.
+Mazus (Mazus reptans) @ Low-growing groundcover with small, distinctive purple flowers.
+Mitella (Mitella diphylla) @ Delicate, lacy white flowers bloom on delicate stems in woodland settings.
+Myosoton (Myosoton aquaticum) @ Water Chickweed with small white flowers, often found in damp areas.
+Nemophila menziesii 'Baby Blue Eyes' (Nemophila menziesii 'Baby Blue Eyes') @ Charming, true blue flowers with white centers create a delightful carpet.
+Onosma (Onosma echioides) @ Pendulous, tubular yellow flowers hang from wiry stems in dry gardens.
+Opuntia (Opuntia microdasys) @ Pads adorned with fuzzy areoles bear vibrant yellow or orange cactus flowers.
+Paliurus (Paliurus spina-christi) @ Thorny shrub with small, inconspicuous flowers and flattened, papery fruits.
+Persicaria (Persicaria polymorpha) @ Large plumes of white flowers rise from stately foliage in summer.
+Phemeranthus (Phemeranthus parviflorus) @ Delicate pink flowers bloom on slender stems in dry, open areas.
+Physalis (Physalis peruviana) @ Edible orange berries are enclosed in papery, lantern-like husks.
+Pimelea (Pimelea ferruginea) @ Dense clusters of delicate pink flowers cover this shrub in spring.
+Pinellia (Pinellia ternata) @ Small woodland plant with a distinctive hooded spathe flower.
+Polygonatum (Polygonatum odoratum) @ Arching stems with pendant white bell-shaped flowers for shady gardens.
+Polystichum (Polystichum munitum) @ Evergreen fern with upright, sword-shaped fronds, providing year-round texture.
+Poterium (Poterium sanguisorba) @ Salad Burnet has small, globular reddish-pink flower heads and edible leaves.
+Prostanthera (Prostanthera ovalifolia) @ Australian native shrub with fragrant leaves and profuse purple flowers.
+Pteridium (Pteridium aquilinum) @ Widespread fern with large, triangular fronds, often found in open woodlands.
+Putoria (Putoria calabrica) @ Low-growing shrub with small, tubular pink flowers in rocky areas.
+Pycnanthemum (Pycnanthemum virginianum) @ Native perennial with fragrant foliage and clusters of small white flowers.
+Quamoclit (Quamoclit pennata) @ Vining plant with feathery foliage and star-shaped red flowers.
+Ranunculus asiaticus 'Tecolote' (Ranunculus asiaticus 'Tecolote') @ Large, multi-petaled 'Tecolote' ranunculus blooms in vibrant colors.
+Reynoutria (Reynoutria japonica) @ Fast-growing Japanese knotweed with plumes of white flowers.
+Rhodohypoxis (Rhodohypoxis baurii) @ Small, star-shaped flowers bloom in tufts of grassy foliage.
+Rodgersia (Rodgersia podophylla) @ Large, handsome foliage and plumes of white or pink flowers for moist shade.
+Rudbeckia hirta 'Cherry Brandy' (Rudbeckia hirta 'Cherry Brandy') @ Unique mahogany-red daisy flowers on a compact, well-branched plant.
+Sedum 'Autumn Joy' (Hylotelephium 'Autumn Joy') @ Reliable perennial with succulent foliage and large, long-lasting flower heads.
+Semele (Semele androgyna) @ Climbing plant with flattened, leaf-like stems and clusters of small white flowers.
+Shepherdia (Shepherdia argentea) @ Thorny shrub with silvery foliage and tart red berries.
+Shortia (Shortia galacifolia) @ Woodland native with rounded evergreen leaves and delicate white flowers.
+Solanum (Solanum jasminoides) @ Climbing vine with clusters of star-shaped white flowers.
+Tarchonanthus (Tarchonanthus camphoratus) @ Aromatic shrub with silvery foliage and clusters of fluffy white flowers.
+Triosteospermum (Triosteospermum siamicum) @ Yellow daisy-like flowers on a hardy shrub, native to Asian mountains.
+Tupistra (Tupistra chinensis) @ Shade-loving groundcover with attractive foliage and small, inconspicuous flowers.
+Xanthorhiza (Xanthorhiza simplicissima) @ Woodland native with dark brownish-purple flowers and attractive foliage.
+Xylosma (Xylosma congestum) @ Evergreen shrub with glossy leaves and small, inconspicuous flowers.
+Yucca filamentosa 'Color Guard' (Yucca filamentosa 'Color Guard') @ Variegated foliage and tall spikes of white flowers create dramatic structure.
+Ranunculus (Persian) (Ranunculus sceleratus) @ Common buttercup, a bright yellow meadow wildflower.
+Oriental Lily (Lilium 'Oriental Hybrid') @ Large, highly fragrant blooms with striking patterns.
+Asiatic Lily (Lilium 'Asiatic Hybrid') @ Vibrant, unscented blooms in a wide range of bold colors.
+Air Plant (Tillandsia) (Tillandsia ionantha) @ Epiphytic plants that bloom with delicate, colorful flowers.
+Amaryllis (Hippeastrum x hybridum) @ Large, trumpet-shaped blooms on tall stems from a bulb.
+Satureja (Satureja hortensis) @ Savory, aromatic herb with small flowers, used in cooking.
+Agrostemma (Agrostemma githago) @ Corncockle, slender stems with beautiful pink-purple flowers.
+Gentiana (Gentiana verna) @ Spring gentian, intense blue trumpet-shaped flowers.
+Thalictrum (Thalictrum delavayi) @ Meadow-rue, delicate, airy plumes of flowers.
+Anemone hupehensis (Anemone hupehensis) @ Japanese anemone, late-blooming, graceful flowers.
+Artemisia (Artemisia lactiflora) @ White mugwort, tall plumes of creamy white flowers.
+Astilbe chinensis (Astilbe chinensis) @ Chinese astilbe, feathery plumes for shady spots.
+Calanthe (Calanthe) @ Terrestrial orchids with showy, often fragrant blooms.
+Erythronium americanum (Erythronium americanum) @ Spring ephemeral with mottled leaves and nodding yellow flowers.
+Cypripedium parviflorum (Cypripedium parviflorum) @ Native orchid with a distinctive pouched, yellow slipper-like lip.
+Hepatica nobilis (Hepatica nobilis) @ Early spring bloomer with distinctive three-lobed leaves.
+Polygonatum biflorum (Polygonatum biflorum) @ Arching stems display dangling, bell-shaped white flowers.
+Cestrum elegans (Cestrum elegans) @ Clusters of delicate, tubular red flowers.
+Azalea (Rhododendron (subgenus Azaleoa)) @ Abundant, vibrant flowers cover deciduous or evergreen shrubs.
+Helianthus (Helianthus) @ Iconic tall plants with large, sun-like blooms.
+Tithonia (Tithonia) @ Vibrant orange, daisy-like flowers attract butterflies.
+Euryops (Euryops) @ Shrubby plant with bright yellow, daisy-like flowers.
+Leucanthemum (Leucanthemum) @ Classic white daisy flowers with bright yellow centers.
+Dimorphotheca (Dimorphotheca) @ Cheerful, sun-loving daisy flowers that open in light.
+Craspedia (Craspedia) @ Unique, spherical yellow flower heads on tall stems.
+Bracteantha (Bracteantha) @ Paper-like, papery everlasting flowers in bright colors.
+Brodiaea (Brodiaea) @ Funnel-shaped flowers in umbels on leafless stems.
+Brunsvigia (Brunsvigia) @ Large, round clusters of pink or red flowers emerge on bare stems.
+Eucharis (Eucharis) @ Fragrant, daffodil-like white flowers bloom in clusters.
+Caladium (Caladium) @ Stunning, heart-shaped leaves in vibrant patterns.
+Colocasia (Colocasia) @ Large, elephant-ear shaped leaves add a tropical bold statement.
+Monstera (Monstera) @ Iconic large leaves with natural splits and holes.
+Fern (Various genera (e.g., Nephrolepis, Dryopteris)) @ Lacy fronds create lush, verdant texture in shady spots.
+Heliotrope (Heliotropium) @ Intensely fragrant clusters of deep purple or blue flowers.
+Silene maritima (Silene maritima) @ Silvery foliage topped with delicate, puffy white flowers.
+Anthemis (Anthemis) @ Daisylike flowers with finely divided foliage.
+Brachyscome (Brachyscome) @ Delicate, daisy-like flowers on fine foliage, perfect for borders and containers.
+Calystegia sepium (Calystegia sepium) @ Large, trumpet-shaped white flowers adorn twining vines.
+Canna (Canna) @ Bold, tropical foliage topped with vibrant, showy flowers.
+Chilopsis linearis (Chilopsis linearis) @ Showy, trumpet-shaped flowers on a desert-adapted tree.
+Chorizema (Chorizema) @ Pea-like flowers in vibrant orange and red hues.
+Commelina (Commelina) @ Three-petaled blue or white flowers that open and close daily.
+Convolvulus (Convolvulus) @ Small, funnel-shaped flowers resembling morning glories.
+Correa (Correa) @ Bell-shaped, tubular flowers often attracting native birds.
+Crambe maritima (Crambe maritima) @ Abundant clusters of white, frothy flowers on coastal plants.
+Dracocephalum (Dracocephalum) @ Dragon-shaped flowers on hardy perennial herbs.
+Euonymus japonicus (Euonymus japonicus) @ Prized for evergreen foliage, not showy flowers.
+Fallopia aubertii (Fallopia aubertii) @ Fast-growing vine producing masses of delicate white flower panicles.
+Felicia (Felicia) @ Charming blue daisy-like flowers, reminiscent of small asters.
+Filipendula (Filipendula) @ Feathery plumes of white or pink flowers in moist areas.
+Flax (Linum) @ Delicate, five-petaled flowers that bloom in clusters.
+Fragaria (Fragaria) @ Small, five-petaled white flowers precede edible red fruits.
+Hakea (Hakea) @ Woody shrubs with unique flower clusters and distinctive seed pods.
+Halesia (Halesia) @ Small, charming bell-shaped flowers adorn these spring-flowering trees.
+Humulus lupulus (Humulus lupulus) @ Vigorous climbing vine producing hop cones used in brewing.
+Lagerstroemia indica (Lagerstroemia indica) @ Showy summer flowers and attractive exfoliating bark on small trees.
+Lampranthus (Lampranthus) @ Succulent groundcover with a dazzling display of colorful, daisy-like flowers.
+Lapageria rosea (Lapageria rosea) @ Chilean native vine with large, waxy, bell-shaped flowers.
+Lewisia (Lewisia) @ Succulent-leaved plants with stunning rosette-shaped flowers.
+Liriope (Liriope) @ Grass-like foliage topped with spikes of purple or white flowers.
+Lomandra longifolia (Lomandra longifolia) @ Tough, strappy-leaved plant with subtle creamy flower spikes.
+Melanthium virginicum (Melanthium virginicum) @ Tall, dramatic spikes of subtle greenish-white flowers in damp areas.
+Musa (Musa) @ Tropical plants grown for large leaves and edible fruit, not showy flowers.
+Olearia (Olearia) @ Shrubs and small trees with daisy-like flowers, often fragrant.
+Origanum (Origanum) @ Aromatic culinary herb with small, attractive flower clusters.
+Osmunda regalis (Osmunda regalis) @ Large, majestic fern with fertile fronds that turn rusty-brown.
+Paeonia suffruticosa (Paeonia suffruticosa) @ Woody shrubs producing spectacular, large, often fragrant flowers.
+Patrinia scabiosifolia (Patrinia scabiosifolia) @ Delicate clusters of yellow flowers on tall stems, popular in Asian gardens.
+Plantago (Plantago) @ Commonly found herbs with basal leaves and spikes of small flowers.
+Platycodon (Platycodon) @ Large, balloon-shaped buds opening to striking bell-shaped flowers.
+Prunus (Prunus) @ Flowering trees like cherries and plums, known for spring blossoms.
+Purshia tridentata (Purshia tridentata) @ Drought-tolerant shrub with fragrant yellow flowers.
+Rhus (Rhus) @ Shrubs and trees known for fall color and berry-like fruit clusters.
+Rorippa nasturtium-aquaticum (Rorippa nasturtium-aquaticum) @ Aquatic plant grown for its peppery leaves and small white flowers.
+Sansevieria (Sansevieria) @ Architectural succulents prized for their stiff, upright foliage.
+Sarcococca (Sarcococca) @ Winter-blooming evergreen shrubs with highly fragrant white flowers.
+Scorzonera (Scorzonera) @ Edible root vegetable with yellow, dandelion-like flowers.
+Sesamum indicum (Sesamum indicum) @ Cultivated for seeds; produces small, bell-shaped flowers.
+Silybum marianum (Silybum marianum) @ Large thistle with striking purple flowers and distinctive white-veined leaves.
+Sonchus (Sonchus) @ Weedy plants with yellow, dandelion-like flowers.
+Taxus (Taxus) @ Evergreen conifers known for long life and red berry-like arils.
+Thapsia (Thapsia) @ Large, umbrella-like flower heads on tall, sturdy stems.
+Tulipa fosteriana (Tulipa fosteriana) @ Large-flowered tulips with striking colors and elegant form.
+Viscaria (Viscaria) @ Delicate, airy flowers on slender stems, popular in wild gardens.
+Xylobium (Xylobium) @ Terrestrial orchids with inconspicuous flowers, often fragrant.
+Allamanda (Allamanda cathartica) @ Trumpet-shaped golden blooms on a lush vine.
+Sophia (Sisymbrium irio) @ Small, bright yellow flowers on a weedy annual.
+Azalea (Rhododendron sect. Azalea) @ Spectacular spring displays of vibrant, trumpet-shaped flowers.
+Erica (Erica) @ Heath family shrubs with delicate, bell-shaped flowers.
+Grindelia (Grindelia) @ Bright yellow, daisy-like flowers with sticky buds.
+Habenaria (Habenaria) @ Terrestrial orchids with intricate, often fringed, blooms.
+Hackelia (Hackelia) @ Small, delicate blue flowers resembling forget-me-nots.
+Harpagophytum (Harpagophytum procumbens) @ Unusual, hook-shaped fruit and tubular, reddish flowers.
+Harpalium (Harpalium) @ Yellow, daisy-like flowers, also known as Sneezeweed.
+Hebenstreitia (Hebenstreitia) @ Small, Heath-like flowers on upright stems.
+Hedera (Hedera helix) @ Vigorous evergreen vine with small, greenish-yellow flowers.
+Iridodictyum (Iridodictyum) @ Small, delicate iris species blooming very early.
+Jatropha (Jatropha) @ Tropical plants with striking flowers and often interesting seed pods.
+Jonesia (Jonesia) @ Small trees with clusters of vibrant, feathery flowers.
+Jovibarba (Jovibarba) @ Small, rosette-forming succulents with star-shaped flowers.
+Juglans (Juglans regia) @ Large trees producing edible nuts and subtle flowers.
+Juncus (Juncus effusus) @ Rush plants with cylindrical stems and small, insignificant flowers.
+Juniperus (Juniperus communis) @ Evergreen conifers with scale-like or needle-like leaves.
+Kaempferia (Kaempferia galanga) @ Ginger relatives with aromatic rhizomes and attractive flowers.
+Kennedia (Kennedia) @ Vigorous climbing plants with vibrant, pea-like flowers.
+Ledebouria (Ledebouria socialis) @ Succulent plant with spotted leaves and delicate flower spikes.
+Leptospermum (Leptospermum scoparium) @ Shrubs with small, profuse flowers, often called Tea Tree.
+Linum (Linum usitatissimum) @ Delicate flowers, including the flax flower.
+Birdseye Periwinkle (Glandularia canadensis) @ Low-growing groundcover with clusters of charming, delicate flowers.
+Azalea (Rhododendron subg. Pentanthera) @ Abundant clusters of trumpet-shaped flowers creating a vibrant spring spectacle.
+Cimicifuga (Actaea simplex) @ Tall, elegant spikes of feathery white flowers adding a dramatic woodland touch.
+Crepe Myrtle (Lagerstroemia) @ Showy summer blooms and attractive bark, a stunning focal point tree.
+Lisianthus (Eustoma russellianum) @ Rose-like blooms with delicate, ruffled petals, exuding elegance.
+Physocarpus (Physocarpus) @ Clusters of delicate white flowers followed by decorative seed pods.
+Tulbaghia (Tulbaghia) @ Fragrant, garlic-scented foliage and clusters of delicate, star-shaped flowers.
+Iris ensata (Japanese Iris) (Iris ensata) @ Large, elegant iris with flat, broad petals.
+Canna 'Tropicanna' (Canna 'Tropicanna') @ Striking variegated foliage and vibrant orange flowers.
+Cotinus coggygria (Smoke Bush) (Cotinus coggygria) @ Ethereal 'smoke-like' flower plumes and colorful foliage.
+Birdseye Gynura (Gynura pseudochina) @ Velvety, deeply lobed leaves topped with clusters of bright orange flowers.
+Mahonia (Mahonia) @ Spikes of yellow flowers followed by blue-black berries.
+Redbud (Cercis) @ Abundant pinkish-purple flowers blooming directly on branches in spring.
+Gooseberry (Ribes uva-crispa) @ Thorny shrub producing tart, edible berries and subtle flowers.
+Goosefoot (Chenopodium) @ Weedy plant with edible leaves and inconspicuous flowers.
+Gazania Hybrid (Gazania x hybrida) @ Vibrant, sun-loving blooms in a wide range of striking colors.
+Zantedeschia (Zantedeschia elliotiana) @ Elegant, trumpet-shaped flowers with a prominent spadix.
+Arctotis (Arctotis x hortorum) @ African daisies with vibrant colors and fuzzy centers.
+Fragaria (Fragaria x ananassa) @ Edible berries preceded by small white flowers.
+Hymenoxys (Hymenoxys acaulis) @ Low-growing, cheerful yellow daisy-like flowers.
+Mimulus (Mimulus x hybrida) @ Trumpet-shaped flowers with spotted 'faces'.
+Moltkia (Moltkia suffruticosa) @ Clusters of small, bright blue tubular flowers.
+Rhodanthemum (Rhodanthemum hosmariense) @ Daisy-like flowers that resemble marguerites.
+Sagina (Sagina subulata) @ Moss-like ground cover with tiny white star flowers.
+Tungsten (No such flowering plant species) @ A metallic element, not a flowering plant.
+Watsonia (Watsonia bulbillifera) @ Tall spikes of gladiolus-like flowers.
+Zephyranthes (Zephyranthes candida) @ Rain lilies, sending up flowers after rain.
+Bromeliad (Guzmania) @ Tropical plants with striking, colorful bracts forming a central crown.
+Air Potato (Dioscorea bulbifera) @ Vigorous vine producing edible aerial tubers and inconspicuous flowers.
+Garden Pea (Pisum sativum) @ Delicate, sweet-smelling flowers precede the harvest of edible pods.
+Blackberry Lily (Iris domestica) @ Orange, spotted flowers are followed by striking, blackberry-like seed capsules.
+Zinnia (Zinnia haageana) @ Smaller, more intricate blooms with warm, earthy tones.
+Veronica (Veronica austriaca) @ Low-growing mats of vibrant blue flowers, ideal for groundcover.
+Phygelius (Phygelius capensis) @ Spikes of tubular, fiery red flowers that attract hummingbirds.
+Teucrium (Teucrium fruticans) @ Silvery foliage and whorls of light blue flowers.
+Veronica (Veronica repens) @ Low-growing, creeping groundcover with bright blue flowers.
+Zantedeschia (Zantedeschia elliottiana) @ Bold yellow trumpet-shaped spathes, a tropical garden favorite.
+Cimicifuga (Cimicifuga simplex) @ Graceful white bottlebrush-like plumes bloom in fall shade.
+Ophiopogon planiscapus (Ophiopogon planiscapus 'Nigrescens') @ Dramatic dark foliage contrasts with delicate pinkish-white flowers.
+Aspidistra elatior (Aspidistra elatior) @ Tough houseplant with leathery leaves and small, inconspicuous flowers.
+Rohdea japonica (Rohdea japonica) @ Leathery leaves and striking red berries follow small, greenish flowers.
+Heuchera 'Palace Purple' (Heuchera 'Palace Purple') @ Deep purple foliage topped with airy spikes of small white flowers.
+Aquilegia coerulea (Aquilegia coerulea) @ Distinctive blue and white spurred flowers grace alpine meadows.
+Delphinium elatum 'Pacific Giant' (Delphinium elatum 'Pacific Giant') @ Towering spikes of intensely colored flowers dominate the summer garden.
+Flax Lily (Dianella) @ Delicate blue or white star-shaped flowers are followed by attractive blue berries.
+Fire Lily (Cyrtanthus) @ Brilliant red or orange trumpet-shaped flowers appear after rains.
+Scarlet Runner Bean (Phaseolus coccineus) @ Vining plant with showy scarlet flowers and edible bean pods.
+Wild Ginger (Asarum) @ Low-growing groundcover with unique, solitary reddish-brown flowers at the base.
+Squirrel Corn (Dicentra canadensis) @ Heart-shaped, pinkish-white flowers resemble kernels of corn.
+Brunnera macrophylla 'Jack Frost' (Brunnera macrophylla 'Jack Frost') @ Silvery-white, heart-shaped leaves with delicate blue flowers.
+Calamintha nepeta (Calamintha nepeta) @ Low-growing herb with tiny, fragrant blue flowers and minty scent.
+Argyranthemum frutescens (Argyranthemum frutescens) @ Daisy-like flowers resembling marguerites, blooming profusely.
+Pittosporum tobira (Pittosporum tobira) @ Fragrant, waxy white flowers on glossy, leathery foliage.
+Geranium (Pelargonium spp.) @ Profuse, colorful blooms atop attractive, often scented foliage.
+Fern (Dryopteris filix-mas) @ Lush, architectural fronds, a symbol of shade gardens.
+Hydrangea (Hydrangea paniculata) @ Cone-shaped flower clusters that change color as they age.
+Hebe (Hebe speciosa) @ Spikes of small, colorful flowers on evergreen shrubs.
+Banksia (Banksia integrifolia) @ Distinctive cylindrical flower spikes and serrated leaves.
+Bottlebrush (Callistemon viminalis) @ Weeping branches adorned with brilliant red brush-like flowers.
+Emu Bush (Eremophila spp.) @ Diverse Australian shrubs with tubular flowers.
+Heath (Erica spp.) @ Small, bell-shaped flowers forming dense clusters.
+Gazania (Gazania 'Sunshine Series') @ Vibrant, sun-tracking flowers for hot, dry climates.
+Cape Daisy (Gazania splendens) @ Striking, intensely colored daisy-like flowers.
+Vygies (Delosperma spp.) @ Succulent groundcovers with sparkling, jewel-like flowers.
+Sparaxis (Sparaxis tricolor) @ Vibrant, star-shaped flowers with contrasting centers.
+Babiana (Babiana stricta) @ Fragrant, funnel-shaped flowers on upright stems.
+Watsonia (Watsonia meriana) @ Tall spikes of funnel-shaped flowers.
+Lachenalia (Lachenalia aloides) @ Unusual, drooping, tubular flowers in striking color combinations.
+Cape Primrose (Streptocarpus spp.) @ Velvety, trumpet-shaped flowers on plants with large leaves.
+Haworthia (Haworthia fasciata) @ Small, striking succulents with white bands and tiny flowers.
+Lithops (Lithops lesliei) @ Living stones, mimicking pebbles with bright flowers.
+Alliaria petiolata (Garlic Mustard) @ Small white flowers with heart-shaped leaves that smell of garlic.
+Asphodel (Asphodelus) @ Tall spikes of star-shaped flowers rise above basal foliage.
+Lobularia maritima (Sweet Alyssum) @ Fragrant, tiny flowers carpet garden edges with sweet scent.
+Bellis perennis (English Daisy) @ Compact plants with charming double flowers bloom in lawns.
+Chrysogonum virginianum (Golden Star) @ Bright yellow, star-shaped flowers bloom in shade.
+Boltonia asteroides (Boltonia) @ Masses of small daisy-like flowers create a cloud of color.
+Anaphalis (Anaphalis margaritacea) @ Small, papery white flowers resemble everlasting daisies.
+Xeranthemum annuum (Annual Immortelle) @ Dainty everlasting flowers for drying and crafting.
+Aquatic Verbena (Verbena aquatica) @ Clusters of purple flowers thrive in wet conditions.
+Pickerelweed (Pontederia cordata) @ Spikes of blue-purple flowers enhance water gardens.
+Swamp Milkweed (Asclepias incarnata) @ Pink flower clusters provide vital nectar for monarchs.
+Fire Pink (Silene virginica) @ Vibrant red blooms attract hummingbirds.
+Lady Fern (Athyrium filix-femina) @ Lacy, soft green fronds create airy texture.
+Christmas Fern (Polystichum acrostichoides) @ Evergreen fronds provide winter garden color.
+Japanese Painted Fern (Athyrium niponicum 'Pictum') @ Silvery fronds with burgundy accents.
+Blue Flax (Linum perenne lewisii) @ Delicate sky-blue flowers create an airy meadow effect.
+Milkweed (Asclepias syriaca) @ Fragrant pink clusters are vital for monarch butterflies.
+Blue Cardinal Flower (Lobelia siphilitica) @ Tall spikes of sky-blue flowers attract pollinators.
+Hippeastrum (Hippeastrum papilio) @ Unique butterfly-like flowers exhibit intricate patterns and striking colors.
+Puschkinia (Puschkinia libanotica) @ Delicate spikes of striped blue and white flowers bloom early.
+Broccoli Raab (Brassica rapa subsp. sylvestris) @ Edible greens with small, yellow flowers that signal maturity.
+Mustard (Sinapis) @ Aromatic plant produces bright yellow flowers and edible seeds.
+Cress (Lepidium sativum) @ Peppery microgreens produce tiny white flowers when mature.
+Bok Choy (Brassica rapa subsp. chinensis) @ Leafy green vegetable bolts into yellow flowers when conditions are right.
+Turnip (Brassica rapa subsp. rapa) @ Root vegetable that produces small, white to yellow flowers.
+Kohlrabi (Brassica oleracea var. gongylodes) @ Edible swollen stem plant produces mustard-like yellow flowers.
+Arugula (Eruca vesicaria subsp. sativa) @ Peppery salad green produces delicate white to pink flowers.
+Watercress (Nasturtium officinale) @ Aquatic plant with peppery flavor produces tiny white flowers.
+Broccolini (Brassica oleracea var. italica) @ Hybrid vegetable with tender stalks and small yellow flowers.
+Cauliflower (Brassica oleracea var. botrytis) @ Cultivated for its edible flower head, it produces small white flowers if left to bolt.
+Cabbage (Brassica oleracea var. capitata) @ Leafy vegetable that bolts into yellow flowers when mature.
+Kale (Brassica oleracea var. sabellica) @ Nutritious leafy green produces vibrant yellow flowers when mature.
+Brussels Sprouts (Brassica oleracea var. gemmifera) @ Edible sprouts develop on a stalk, which eventually produces yellow flowers.
+Chard (Beta vulgaris subsp. vulgaris) @ Colorful leafy green, produces insignificant flowers if left to bolt.
+Spinach (Spinacia oleracea) @ Leafy green produces small, greenish flowers when it bolts.
+Beetroot (Beta vulgaris) @ Root vegetable produces clusters of small, greenish flowers.
+Asparagus (Asparagus officinalis) @ Edible spears develop into delicate, bell-shaped green-yellow flowers.
+Parsnip (Pastinaca sativa) @ Root vegetable bolts into large clusters of yellow flowers.
+Celery (Apium graveolens) @ Stalk vegetable produces tiny white flower clusters.
+Squash Blossom (Cucurbita) @ Large, trumpet-shaped flowers of squash plants are edible and vibrant.
+Pumpkin Blossom (Cucurbita pepo) @ Edible, vibrant orange flowers signal the development of pumpkins.
+Asiatic Lily (Lilium asiatica) @ Vibrant, trumpet-shaped blooms with upward-facing petals.
+Waldsteinia (Waldsteinia) @ Low-growing groundcover with bright yellow, strawberry-like flowers.
+Azalea (Rhododendron (section Tsutsusi)) @ Shrubs bursting with vibrant, trumpet-shaped flowers.
+Peppermint (Mentha piperita) @ Aromatic herb with small, fragrant flower spikes.
+Tarragon (Artemisia dracunculus) @ Herb with anise-like flavor and small, inconspicuous flowers.
+Cumin (Cuminum cyminum) @ Aromatic spice plant with delicate white or pink flowers.
+Pimpinella (Pimpinella) @ Herbaceous plants with small white flowers, related to anise.
+Cow Parsnip (Heracleum maximum) @ Large plant with broad leaves and large white flower umbels.
+Water Hemlock (Cicuta maculata) @ Highly poisonous plant with white flower umbels.
